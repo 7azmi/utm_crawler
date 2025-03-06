@@ -16,8 +16,18 @@ class DomainMapper:
         self.executor = concurrent.futures.ThreadPoolExecutor(max_workers=max_workers)
         self.stop_event = threading.Event()  # Stop signal for workers
 
+    def should_skip_url(self, url):
+        """Check if the URL points to a file type that should be skipped (e.g., PDFs, images)."""
+        skip_extensions = [".pdf", ".jpg", ".jpeg", ".png", ".gif", ".mp4", ".zip", ".doc", ".docx", ".xls", ".xlsx"]
+        return any(url.lower().endswith(ext) for ext in skip_extensions)
+
     def get_links(self, url, max_retries=1):
         """Fetch and parse links from a given URL with retries."""
+        # Skip URLs that point to non-HTML resources
+        if self.should_skip_url(url):
+            print(f"[SKIP] Skipping non-HTML resource: {url}")
+            return set()
+
         for attempt in range(max_retries):
             try:
                 response = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
@@ -25,6 +35,12 @@ class DomainMapper:
 
                 if response.status_code != 200:
                     return set()  # Skip non-200 responses
+
+                # Check Content-Type to ensure it's HTML
+                content_type = response.headers.get("Content-Type", "").lower()
+                if "text/html" not in content_type:
+                    print(f"[SKIP] Skipping non-HTML content: {url} (Content-Type: {content_type})")
+                    return set()
 
                 response.raise_for_status()
                 break  # Success, exit retry loop
@@ -91,7 +107,7 @@ class DomainMapper:
 
 
 # Fixed usage
-corrected_url = "https://dvcdev.utm.my/"  # Replace with the domain you want
+corrected_url = "https://mech.utm.my/"  # Replace with the domain you want
 mapper = DomainMapper(corrected_url, max_workers=20)  # Reduce max_workers to avoid server overload
 mapper.start_crawling()
 
