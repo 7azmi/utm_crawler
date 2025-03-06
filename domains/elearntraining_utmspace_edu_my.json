@@ -1,0 +1,17 @@
+{
+    "": {},
+    "admin": {
+        "tool": {
+            "dataprivacy": {
+                "summary.php": {}
+            }
+        }
+    },
+    "course": {
+        "view.php": {}
+    },
+    "login": {
+        "index.php": {},
+        "forgot_password.php": {}
+    }
+}

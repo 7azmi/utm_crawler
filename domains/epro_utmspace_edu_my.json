@@ -1,0 +1,11 @@
+{
+    "HRM": {
+        "job": {
+            "m_permohonan_jawatan": {
+                "view": {
+                    "ListPermohonanJawatan.php": {}
+                }
+            }
+        }
+    }
+}

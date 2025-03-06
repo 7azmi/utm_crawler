@@ -1,0 +1,17 @@
+{
+    "": {},
+    "user": {
+        "contactsitesupport.php": {}
+    },
+    "admin": {
+        "tool": {
+            "dataprivacy": {
+                "summary.php": {}
+            }
+        }
+    },
+    "login": {
+        "index.php": {},
+        "forgot_password.php": {}
+    }
+}
