@@ -1,3 +1,59 @@
 {
-    "": {}
+    "": {},
+    "rent-our-facilities": {},
+    "abm": {},
+    "about": {},
+    "accommodation": {},
+    "assets": {},
+    "bursary": {},
+    "campus-life": {},
+    "contact": {},
+    "facilities-gallery": {},
+    "getting-around": {},
+    "giving": {},
+    "library": {},
+    "message-from-the-director": {},
+    "office-dvcri": {},
+    "oshe": {
+        "%20": {}
+    },
+    "pendaftar": {},
+    "pusatislam": {},
+    "pusatkaunseling": {},
+    "pusatkesihatan": {},
+    "rent-our-facilities-2025": {},
+    "services-facilities": {},
+    "studentaffairs": {},
+    "utm-kl-structure": {},
+    "utmkl-services": {},
+    "visitor": {},
+    "wp-content": {
+        "uploads": {
+            "2016": {
+                "11": {
+                    "lifestyle.png": {}
+                }
+            },
+            "2017": {
+                "06": {
+                    "Senarai-Kecemasan-UTMKL.pdf": {}
+                },
+                "09": {
+                    "Bilik-Bankuet.jpg": {},
+                    "Bilik-Ilmuan-1.jpg": {},
+                    "Bilik-Ilmuan-2.jpg": {},
+                    "Bilik-Ilmuan-3.jpg": {},
+                    "Dewan-Azman-Hashim.jpg": {},
+                    "Dewan-Jumaah.jpg": {},
+                    "Dewan-Seminar.jpg": {},
+                    "Dewan-Tan-Sri-Ainuddin.jpg": {}
+                }
+            },
+            "2021": {
+                "09": {
+                    "1200x630wa.png": {}
+                }
+            }
+        }
+    }
 }

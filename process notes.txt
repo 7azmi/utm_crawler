@@ -3,3 +3,17 @@ links i struggled with:
 - builtsurvey_utm_my.json : bottleneck
 - convocation_utm_my.json : [ERROR] Failed to fetch https://convocation.utm.my: HTTPSConnectionPool(host='convocation.utm.my', port=443): Read timed out. (read timeout=15)
 - coursefinder.utm.my : [ERROR] Failed to fetch coursefinder.utm.my: Invalid URL 'coursefinder.utm.my': No scheme supplied. Perhaps you meant https://coursefinder.utm.my?
+- https://ecommerce.utm.my/ : under maintanance
+- https://engineering.utm.my/ : Server Error 503 Service Temporarily Unavailable
+- https://eportfolio.utm.my : HTTPSConnectionPool(host='eportfolio.utm.my', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+- https://elearning.utm.my : the console log cut off (+17k link)
+- https://ezproxy.utm.my : HTTPSConnectionPool(host='ezproxy.utm.my', port=443):
+- https://ibnusina.utm.my : HTTPSConnectionPool(host='ibnusina.utm.my', port=443)
+- https://research.utm.my : fetched some but time out
+- https://login.utm.my : HTTPSConnectionPool(host='login.utm.my', port=443):
+- https://management.utm.my/ : HTTPSConnectionPool(host='management.utm.my', port=443):
+- http://eprints.utm.my takes forever. so many files
+-  https://events.utm.my also takes forever. so many files
+- https://lss.utm.my :  HTTPSConnectionPool(host='lss.utm.my', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+- [ERROR] Failed to fetch https://mjiittimetable.utm.my (Attempt 1/1): HTTPSConnectionPool(host='mjiittimetable.utm.my', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x72cb1a7367b0>: Failed to resolve 'mjiittimetable.utm.my' ([Errno -2] Name or service not known)"))
+- https://mooc.utm.my got only one link when it has more. you may fix the crawler

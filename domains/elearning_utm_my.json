@@ -1,3 +1,80 @@
 {
-    "": {}
+    "": {},
+    "24251": {
+        "course": {
+            "view.php": {}
+        },
+        "index.php": {},
+        "login": {
+            "forgot_password.php": {},
+            "index.php": {}
+        },
+        "mod": {
+            "book": {
+                "view.php": {}
+            },
+            "folder": {
+                "view.php": {}
+            },
+            "forum": {
+                "view.php": {}
+            },
+            "quiz": {
+                "view.php": {}
+            },
+            "resource": {
+                "view.php": {}
+            },
+            "wiki": {
+                "view.php": {}
+            }
+        },
+        "pluginfile.php": {
+            "40441": {
+                "course": {
+                    "summary": {
+                        "UHLB%201112%20SUGGESTED%20WEEKLY%20LESSON%20PLAN%20SEMESTER%20I%2020222023.doc": {}
+                    }
+                }
+            }
+        }
+    },
+    "24252": {
+        "Mobile : +6075537914 ": {
+            " +6075537915": {}
+        },
+        "admin": {
+            "tool": {
+                "dataprivacy": {
+                    "Mobile : +6075537914 ": {
+                        " +6075537915": {}
+                    },
+                    "elearning@utm.my": {},
+                    "summary.php": {}
+                }
+            }
+        },
+        "course": {
+            "Mobile : +6075537914 ": {
+                " +6075537915": {}
+            },
+            "elearning@utm.my": {},
+            "index.php": {},
+            "view.php": {}
+        },
+        "elearning@utm.my": {},
+        "login": {
+            "forgot_password.php": {},
+            "index.php": {}
+        },
+        "mod": {
+            "forum": {
+                "view.php": {}
+            }
+        }
+    },
+    "Mobile : +6075537914 ": {
+        " +6075537915": {}
+    },
+    "elearning@utm.my": {}
 }

@@ -1,3 +1,638 @@
 {
-    "": {}
+    "": {},
+    "li": {
+        "2022": {
+            "11": {
+                "17": {
+                    "mynext-university-by-talentcorp": {},
+                    "vacancies-junior-engineer-trainee-at-mise-energy-unix-programme": {}
+                }
+            }
+        },
+        "2023": {
+            "01": {
+                "08": {
+                    "internship-at-hibiscus-petroleum-berhad-2023": {}
+                }
+            }
+        },
+        "news-and-updates": {},
+        "organization": {},
+        "resources": {},
+        "unix": {}
+    },
+    "8208-2": {},
+    "8328-2": {},
+    "about-alumni": {},
+    "about-faculty": {},
+    "admin": {},
+    "advanced-materials-and-separation-technologies-amset": {},
+    "alumni3": {},
+    "amtec-2": {},
+    "analysislab": {
+        "2022": {
+            "02": {
+                "27": {
+                    "chromatography-gas-chromatography-gc": {},
+                    "instrument-available": {},
+                    "mass-spectrometry-gas-chromatography-mass-spectrometry-gcms": {},
+                    "process-registration-flow": {},
+                    "rheology-analysis-rotational-mode-dynamic-viscosity-flow-test": {},
+                    "size-distribution-brunauer-emmett-teller-bet-surface-area-analysis": {},
+                    "spectroscopy-fourier-transform-infra-red-ftir": {},
+                    "thermal-analysis-thermographic-analysis-tga": {},
+                    "welcome-to-scee-analytical-lab": {}
+                }
+            },
+            "05": {
+                "09": {
+                    "scee-analysis-lab-client-charter": {}
+                },
+                "10": {
+                    "gas-analysis": {},
+                    "moisture-content-analysis": {},
+                    "viscosity": {},
+                    "water-content": {}
+                }
+            }
+        },
+        "about-us": {},
+        "author": {
+            "adminanalisis": {}
+        },
+        "category": {
+            "activities": {}
+        },
+        "contact": {},
+        "feed": {},
+        "instrument": {},
+        "our-service": {},
+        "our-staff": {}
+    },
+    "associate-professor-2": {},
+    "bachelor-of-chemical-engineering-2": {},
+    "bachelor-of-chemical-gas-2": {},
+    "bachelor-of-engineering-chemical-bioprocess-2": {},
+    "bachelor-of-nuclear-engineering-2": {},
+    "bachelor-of-petroleum-eng": {},
+    "bioprocess-polymer": {},
+    "blog": {
+        "author": {
+            "abkhalil": {}
+        },
+        "category": {
+            "news": {}
+        },
+        "selamat-datang-kepada-staf-baharu-ke-fkt-puan-nurhasinah-husna-binti-halimi": {},
+        "tahniah-di-atas-kenaikan-pangkat-ke-jawatan-profesor-madya-gred-ds14-profesor-madya-ir-ts-dr-daniel-joe-dailin": {},
+        "tahniah-di-atas-kenaikan-pangkat-ke-jawatan-profesor-madya-gred-ds14-profesor-madya-ir-ts-dr-lee-ting-hun": {},
+        "tahniah-di-atas-pelantikan-sebagai-pengurus-hubungan-luar-global-fkt-prof-madya-dr-zainul-akmar-bin-zakaria": {},
+        "tahniah-di-atas-penganugerahan-jurutera-profesional-ir-dr-muhd-nazrul-hisham-bin-zainal-alam": {},
+        "tahniah-di-atas-penganugerahan-jurutera-profesional-ir-ts-dr-zanariah-binti-hashim": {}
+    },
+    "carbon-nanostructure-research-group": {},
+    "centre-for-engineering-education-cee": {},
+    "che-2": {},
+    "chemical-engineering-2": {},
+    "chemical-old-page": {
+        "information-on-outcome-based-education": {}
+    },
+    "chemical-reaction-engineering-group-creg": {},
+    "chemical": {
+        "jkkp": {
+            "wp-content": {
+                "uploads": {
+                    "2015": {
+                        "04": {
+                            "CARA-MENGGUNAKAN-ALAT-PEMADAM-API-.jpg": {}
+                        }
+                    }
+                }
+            }
+        },
+        "unipem": {
+            "about-us": {},
+            "award-achievement": {},
+            "contact-us": {},
+            "customer": {},
+            "faq": {},
+            "management": {},
+            "services": {
+                "equipment": {},
+                "others-test": {},
+                "quotation": {}
+            },
+            "wp-content": {
+                "uploads": {
+                    "sites": {
+                        "209": {
+                            "2017": {
+                                "03": {
+                                    "Differential-scanning-calorimeter-DSC.jpeg": {},
+                                    "Kinematic-viscosity.jpeg": {},
+                                    "LECO-AC350.jpg": {},
+                                    "Pensky-martens-closed-cup.jpeg": {},
+                                    "s1.jpg": {},
+                                    "s2.jpg": {},
+                                    "s3.jpg": {},
+                                    "technical1.jpg": {},
+                                    "unipem-magement-2.jpg": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "clear-2": {},
+    "commitee-members": {},
+    "contact": {},
+    "creg": {},
+    "dean-office-2": {},
+    "download-3-2": {},
+    "dpeg": {},
+    "e-form": {},
+    "energy-engineering-2": {},
+    "enpro": {},
+    "facts-figures-2": {},
+    "faq-2": {},
+    "fcesse": {
+        "2023": {
+            "11": {
+                "07": {
+                    "isp-2022": {},
+                    "isp-2023": {},
+                    "ite-2023": {}
+                }
+            }
+        },
+        "2024": {
+            "09": {
+                "10": {
+                    "624": {}
+                }
+            }
+        },
+        "author": {
+            "fcesse": {},
+            "intro2eng": {},
+            "mohamadsukri": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "courses": {},
+        "fcesse-exhibition": {
+            "bwmp2022": {},
+            "fs2023": {}
+        },
+        "industrial-seminar-and-profession": {},
+        "introduction-to-engineering": {},
+        "introduction-to-programming": {},
+        "news": {},
+        "our-team": {},
+        "page": {
+            "2": {}
+        },
+        "publications": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "220": {
+                        "2023": {
+                            "11": {
+                                "Combine-seminar-2.jpg": {},
+                                "WhatsApp-Image-2023-10-14-at-11.34.15-1-1.jpeg": {},
+                                "WhatsApp-Image-2023-10-14-at-11.34.15-4.jpeg": {},
+                                "WhatsApp-Image-2023-10-22-at-07.25.43.jpeg": {},
+                                "WhatsApp-Image-2023-10-28-at-19.00.47-1.jpeg": {}
+                            }
+                        },
+                        "2024": {
+                            "01": {
+                                "WhatsApp-Image-2024-01-13-at-06.44.54.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-06.44.55-1.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-06.44.55-2.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-06.44.55.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-07.48.34.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-07.48.35.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-07.48.36-1.jpeg": {},
+                                "WhatsApp-Image-2024-01-13-at-07.48.36-2.jpeg": {}
+                            },
+                            "09": {
+                                "WhatsApp-Image-2024-08-21-at-09.41.22.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.41.35.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.41.44.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.42.23.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.42.24-1.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.42.24.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.42.25-1.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-09.42.25.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.44.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.45-1.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.45-2.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.45-3.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.45.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.46-1.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.46-2.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.46.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.45.47.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.47.04-1.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.47.04-2.jpeg": {},
+                                "WhatsApp-Image-2024-08-21-at-11.47.04.jpeg": {},
+                                "WhatsApp-Image-2024-08-22-at-15.42.59.jpeg": {},
+                                "WhatsApp-Image-2024-08-22-at-15.43.00.jpeg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "foberg": {},
+    "grant-repository": {},
+    "green-energy-environmental-planning": {},
+    "greentech": {},
+    "ibd-3": {},
+    "information-about": {
+        "research-facilities": {
+            "gra-vacancy": {}
+        }
+    },
+    "jkkp": {
+        "akta": {},
+        "cara-menggunakan-pemadam-api": {},
+        "fire-drill": {},
+        "kempen-penjimatan-tenaga": {},
+        "pelan-kecemasan": {},
+        "polisi-keselamatan-kesihatan-dan-persekitaran": {},
+        "prosedur-kerja": {},
+        "talian-kecemasan": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "198": {
+                        "2022": {
+                            "06": {
+                                "Chemical-Disposal-Management.jpg": {}
+                            }
+                        },
+                        "2023": {
+                            "04": {
+                                "Act-341-Fire-Services-Act-1988.pdf": {},
+                                "Act-514-Occupational-Safety-and-Health-Act-1994.pdf": {},
+                                "Akta-139-Akta-Kilang-dan-Jentera-1967.pdf": {},
+                                "Policy-OSHE-BI.png": {},
+                                "Polisi-OSHE-BM.png": {}
+                            },
+                            "05": {
+                                "Pelan-kecemasan-tumpahan-bahan-kimia-FKT.pdf": {}
+                            },
+                            "10": {
+                                "2023-SENARAI-TALIAN-KECEMASAN.png": {}
+                            },
+                            "11": {
+                                "1.Pengisytiharan-Kontraktor-UTMOSHE-PPK-F01-PK.pdf": {},
+                                "2.-Borang-Permit-Melaksanakan-Kerja-PTW-UTMOSHE-PPK-F02-PTW.pdf": {},
+                                "3.-Checklist-NOP-NOI.pdf": {},
+                                "4.-Senarai-Semak-Pemantauan-Dokumen-Kontraktor-UTMOSHE-PPK-F06-SSP.pdf": {},
+                                "Carta-Alir-Proses-Kerja.pdf": {},
+                                "Prosedur-Pengurusan-Kontraktor-UTMOSHE-P0912-PPK-.pdf": {}
+                            }
+                        },
+                        "2024": {
+                            "05": {
+                                "CARTA-JKKP-2024.jpg": {},
+                                "ERP-Zone-1-7.pdf": {},
+                                "ERP-Zone-2-3.pdf": {},
+                                "ERP-Zone-4.pdf": {},
+                                "ERP-Zone-5-6.pdf": {},
+                                "Objektif-Sasaran-dan-Kajian-Semula-KKP-FKT-2024.pdf": {},
+                                "STRUKTUR_ORGANISASI_ERT_FKT-updated.-pptx.pdf": {},
+                                "tempat-berkumpul.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "wp-login.php": {}
+    },
+    "khair": {},
+    "laboratory-facilities": {
+        "basic-engineering-lab-fluid-mechanics": {},
+        "basic-engineering-lab-material": {},
+        "basic-engineering-lab-thermodynamics": {},
+        "environment-laboratory": {},
+        "polymer-processing-laboratory": {},
+        "process-control-laboratory": {},
+        "reaction-laboratory": {},
+        "separation-1-laboratory": {},
+        "workshop-n08": {}
+    },
+    "logo-fkt": {},
+    "m-eng-bioprocess-3": {},
+    "m-eng-chemical-2": {},
+    "m-eng-environmental-2": {},
+    "m-eng-phd-bioprocess-eng": {},
+    "m-eng-phd-gas-chemical-eng": {},
+    "m-eng-phd-gas-eng-2": {},
+    "m-eng-phd-gas-environmental-eng": {},
+    "m-eng-phd-petroleum-eng": {},
+    "m-eng-phd-polymer-eng": {},
+    "manual-kualiti-fkt": {},
+    "master-of-gas-engineering-and-management": {},
+    "master-of-petroleum-engineering-2-2": {},
+    "membrane-technology-research-group": {},
+    "msc-energy-management-2": {},
+    "msc-herbal-technology": {},
+    "msc-polymer-technology-2": {},
+    "msc-process-plant-management-2": {},
+    "msc-safety-health-and-environment": {},
+    "newfcee": {
+        "files": {
+            "2017": {
+                "08": {
+                    "PLO-of-Faculty-of-Chemical-and-Energy-Engineering-FCEE-2005-2016.pdf": {},
+                    "PROGRAMME-LEARNING-OUTCOMES-PLO-2017.pdf": {}
+                }
+            }
+        }
+    },
+    "organisation-chart": {},
+    "organization-chart-research-unit": {},
+    "page": {
+        "2": {}
+    },
+    "pass-activities": {},
+    "petroleum-engineering-2": {},
+    "phd-bioprocess-engineering-design-2": {},
+    "phd-process-plant-management-2": {},
+    "polisi-kualiti": {},
+    "professor-fcee": {},
+    "project": {
+        "coffee-talk-with-trsm-recipient-tips-and-insights-for-successful-application": {},
+        "dana-sumbangan-fkt-student-lounge": {},
+        "kempen-kitar-semula": {},
+        "research-profile": {},
+        "utmfktlinked2024": {}
+    },
+    "prosedur-operasi-fkt": {},
+    "prosedur-pengajaran-fkt": {},
+    "prosedur-pengurusan-fkt": {},
+    "prospect-2": {},
+    "registration-kits-pg": {
+        "study-plan-and-timetable": {
+            "mixed-mode-course-programmes": {
+                "master-of-engineering-chemical-mkkk": {}
+            }
+        }
+    },
+    "registration-kits-ug": {},
+    "registration-kits": {
+        "study-plan-and-timetable": {
+            "research-programmes": {}
+        }
+    },
+    "research-group": {},
+    "resources-2": {},
+    "safety-pass": {},
+    "senior-lecturer": {},
+    "sistem-pengurusan-kualiti-spk": {},
+    "student-resources": {},
+    "swam-rg": {},
+    "teaching-facilities-2": {},
+    "technical-staff-2": {},
+    "unipem": {
+        "about-us": {},
+        "award-achievement": {},
+        "contact-us": {},
+        "customer": {},
+        "faq": {},
+        "feed": {},
+        "management": {},
+        "photo-gallery": {},
+        "services": {
+            "equipment": {},
+            "others-test": {},
+            "quotation": {}
+        },
+        "technical-committee": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "209": {
+                        "2017": {
+                            "03": {
+                                "1600x400-dsc.png": {},
+                                "1600x400-iconsaiz-template.jpg": {},
+                                "1600x400-lab.png": {},
+                                "Differential-scanning-calorimeter-DSC.jpeg": {},
+                                "Distillation-unit.jpg": {},
+                                "Kinematic-viscosity.jpeg": {},
+                                "LECO-AC350.jpg": {},
+                                "MCRT.jpg": {},
+                                "Pensky-martens-closed-cup.jpeg": {},
+                                "Slide1.jpg": {},
+                                "Slide3.jpg": {},
+                                "Slide4.jpg": {},
+                                "UTM-bolot-Pertandingan-Analisis-Senario-Hebat-Utusan-Malaysia-16-Oktober-2013-1.jpg": {},
+                                "alat3-1.jpg": {},
+                                "alat4.jpg": {},
+                                "slide5.jpg": {},
+                                "u3.jpg": {},
+                                "unipem-19032017-1.jpeg": {},
+                                "unipem-19032017-10.jpeg": {},
+                                "unipem-19032017-11.jpeg": {},
+                                "unipem-19032017-13.jpeg": {},
+                                "unipem-19032017-14.jpeg": {},
+                                "unipem-19032017-15.jpeg": {},
+                                "unipem-19032017-16.jpeg": {},
+                                "unipem-19032017-17.jpeg": {},
+                                "unipem-19032017-18.jpeg": {},
+                                "unipem-19032017-19.jpeg": {},
+                                "unipem-19032017-2.jpeg": {},
+                                "unipem-19032017-20.jpeg": {},
+                                "unipem-19032017-21.jpeg": {},
+                                "unipem-19032017-22.jpeg": {},
+                                "unipem-19032017-23.jpeg": {},
+                                "unipem-19032017-25.jpeg": {},
+                                "unipem-19032017-26.jpeg": {},
+                                "unipem-19032017-27.jpeg": {},
+                                "unipem-19032017-28.jpeg": {},
+                                "unipem-19032017-29.jpeg": {},
+                                "unipem-19032017-3.jpeg": {},
+                                "unipem-19032017-30.jpeg": {},
+                                "unipem-19032017-31.jpeg": {},
+                                "unipem-19032017-32.jpeg": {},
+                                "unipem-19032017-33.jpeg": {},
+                                "unipem-19032017-34.jpeg": {},
+                                "unipem-19032017-35.jpeg": {},
+                                "unipem-19032017-5.jpeg": {},
+                                "unipem-19032017-6.jpeg": {},
+                                "unipem-19032017-7.jpeg": {},
+                                "unipem-19032017-8.jpeg": {},
+                                "unipem-19032017-9.jpeg": {},
+                                "unipem-DSC-1.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "upcoming": {},
+    "vision-mission-objective-2": {},
+    "workshop-2": {},
+    "wp-content": {
+        "uploads": {
+            "2013": {
+                "04": {
+                    "borang-cuti-gantian.pdf": {},
+                    "koleksiborang2.doc": {}
+                }
+            },
+            "2016": {
+                "02": {
+                    "Complex_problem.pdf": {},
+                    "FChE-5year-Brief-UG-30April2013.pdf": {},
+                    "OBE-EAC_training_modules.pdf": {},
+                    "Outcome-Based_Approach_to_Engineering_Education.pdf": {},
+                    "QA-about-OBE.pdf": {}
+                }
+            },
+            "2017": {
+                "08": {
+                    "Borang-Pergerakan-Staf-Yang-Menjalani-Kursus-UTM.docx": {}
+                }
+            },
+            "2018": {
+                "07": {
+                    "hajar-alias.jpg": {}
+                },
+                "11": {
+                    "UG-guidebook-201718-29-November-2017-compressed.pdf": {}
+                }
+            },
+            "2019": {
+                "01": {
+                    "1st-Stage-Checklist-2018.docx": {},
+                    "1st-Stage-Report-Validation-By-Supervisor.docx": {},
+                    "MASTER-BY-MIXED-MODE.docx": {},
+                    "borang-mixed-mode.docx": {}
+                },
+                "03": {
+                    "20190227-Handbook-of-Laboratory-Safety-and-Regulations-ZAK.pdf": {},
+                    "Guidebook-20182019.pdf": {}
+                },
+                "08": {
+                    "Undergraduate-Guidebook-Academic-Session-20192020-SCEE.pdf": {}
+                }
+            },
+            "2020": {
+                "04": {
+                    "ENGINEERING-PROGRAMME-ACCREDITATION-CPS-CEA-Knowledge-Profile.pdf": {}
+                },
+                "10": {
+                    "COURSE-REGISTRATION-LIST-OF-COURSES-FOR-TAUGHT-AND-MIXED-MODE-PROGRAMME.docx": {},
+                    "Guidelines-New-PG-students-Course-Registration.pdf": {},
+                    "SKT-UG-Handbook-20202021.pdf": {},
+                    "Study-Plan-for-New-Students-EKKL.pdf": {},
+                    "Study-Plan-for-New-Students-MKKA.pdf": {},
+                    "Study-Plan-for-New-Students-MKKB.pdf": {},
+                    "Study-Plan-for-New-Students-MKKH.pdf": {},
+                    "Study-Plan-for-New-Students-MKKK.pdf": {},
+                    "Study-Plan-for-New-Students-MKKL.pdf": {},
+                    "Study-Plan-for-New-Students-MKKN.pdf": {},
+                    "Study-Plan-for-New-Students-MKKT.pdf": {},
+                    "Study-Plan-for-New-Students-MKPM.pdf": {},
+                    "Study-Plan-for-New-Students-MKPP.pdf": {},
+                    "Study-plan-for-New-Students-MKKE.pdf": {},
+                    "Timetable-MKKB-mixmode-SEM-1-20202021.pdf": {},
+                    "Timetable-MKKHA1AJA-SEM-1-20202021-mainstream.pdf": {},
+                    "Timetable-MKKHA1BJA-JB-SEM-1-20202021.pdf": {},
+                    "Timetable-MKKHA1BKA-KL-SEM-1-20202021.pdf": {},
+                    "Timetable-MKKK-mixmode-SEM-1-20202021.pdf": {},
+                    "Timetable-MKKN-mixmode-SEM-1-20202021.pdf": {},
+                    "Timetable-MKKR-mixmode-SEM-1-20202021.pdf": {},
+                    "Timetable-Reserach-Methodology-Mixmode-MKKB-MKKN-SEM-1-20202021-Updated-13102020.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKKEA1AJA-JB-SEM-1-20202021.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKKEA1BKA-KL-SEM-1-20202021.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKPPA1BKA-KL-SEM-1-20202021-Kohort-1.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKPPA1BKA-KL-SEM-1-20202021-Kohort-2.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKPPA1BKA-KL-SEM-1-20202021-Kohort-3.pdf": {},
+                    "UPDATE-11102020-TIMETABLE-MKPPA1BKA-KL-SEM-1-20202021-Kohort-4.pdf": {},
+                    "UPDATE-TIMETABLE-MKPMA1AJA-SEM-1-20202021-mainstream.pdf": {},
+                    "UPDATE-TIMETABLE-MKPPA1AJA-JB-SEM-1-20202021-1.pdf": {},
+                    "UPDATE-TIMETABLE-RESEARCH-METHODOLOGY-FOR-PETROLEUM-GAS-ENGINEERING.pdf": {},
+                    "UPDTAE-TIMETABLE-RESEARCH-METHODOLOGY-ChemicalBioprocess-Polymer-Environmental.pdf": {}
+                }
+            },
+            "2021": {
+                "08": {
+                    "Rahmat-bin-Mohsin-Prof.-Engr.-Dr..jpg": {}
+                },
+                "10": {
+                    "Handbook-PG-30092021.pdf": {},
+                    "Handbook-UG-23092021.pdf": {}
+                }
+            },
+            "2022": {
+                "10": {
+                    "Logo-FKT-2022-BI.png": {},
+                    "Logo-FKT-2022-BM.png": {},
+                    "Logo-FKT-2022-putih-BI.png": {},
+                    "Logo-FKT-2022-putih-BM.png": {}
+                },
+                "11": {
+                    "GUIDEBOOK-UG-SKT-1-2022-2023-071122.pdf": {}
+                }
+            },
+            "2023": {
+                "03": {
+                    "METE.jpg": {},
+                    "METM-scaled.jpg": {},
+                    "METR-scaled.jpg": {},
+                    "MKKT.pdf": {}
+                },
+                "06": {
+                    "1st-Stage-Nomination-of-Examiners-22062023.pdf": {},
+                    "Checklist-Conversion-From-Master-to-Ph.D-22062023.pdf": {},
+                    "Checklist-Early-Submit-Thesis-22062023.pdf": {}
+                },
+                "10": {
+                    "GUIDEBOOK-UG-FKT-20232024-23102023-FINAL.pdf": {}
+                }
+            },
+            "2024": {
+                "02": {
+                    "2.-PhD-Assessment-II-Examiner-Report-2024.pdf": {},
+                    "3.-Chairman-Report-for-PhD-Assessment-II-2024.pdf": {},
+                    "4.-Nomination-Panel-of-Examiners-Conversion-From-Master-to-PhD-2024.pdf": {},
+                    "6.-Response-Correction-Done-on-Examiners-Comments-Form-2024.pdf": {}
+                },
+                "03": {
+                    "Carta-Organisasi-17032024.png": {}
+                },
+                "07": {
+                    "1.-PhD-2nd-Assesment-Nomination-of-Examiners-2024.pdf": {},
+                    "PERKONGSIAN-KENAIKAN-PANGKAT-AKADEMIK-_FKT.pptx.pdf": {}
+                },
+                "09": {
+                    "Course-Registration-Guide-for-New-Bachelor-Degree-Student-202420251.pdf": {},
+                    "GUIDEBOOK-UG-FKT-1-2024-2025.pdf": {}
+                },
+                "10": {
+                    "Pen.-Pengurus-Kualiti-Strategi.png": {}
+                }
+            },
+            "2025": {
+                "02": {
+                    "FAST-TRACK_nomination_of_examiners-latest.pdf": {}
+                }
+            }
+        }
+    },
+    "zakiyamani": {}
 }

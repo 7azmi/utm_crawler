@@ -1,3 +1,311 @@
 {
-    "": {}
+    "": {},
+    "2008": {
+        "09": {}
+    },
+    "2010": {
+        "09": {}
+    },
+    "2012": {
+        "01": {},
+        "02": {},
+        "03": {},
+        "04": {},
+        "05": {},
+        "06": {},
+        "07": {},
+        "08": {},
+        "09": {},
+        "10": {},
+        "11": {},
+        "12": {}
+    },
+    "2013": {
+        "01": {},
+        "02": {},
+        "03": {},
+        "04": {},
+        "06": {},
+        "07": {},
+        "08": {},
+        "10": {},
+        "11": {},
+        "12": {}
+    },
+    "2014": {
+        "01": {},
+        "02": {},
+        "11": {},
+        "12": {}
+    },
+    "2015": {
+        "01": {},
+        "02": {},
+        "03": {},
+        "04": {},
+        "05": {},
+        "06": {},
+        "07": {},
+        "08": {},
+        "09": {},
+        "10": {},
+        "11": {},
+        "12": {}
+    },
+    "2016": {
+        "04": {},
+        "05": {},
+        "07": {},
+        "08": {},
+        "09": {},
+        "10": {}
+    },
+    "2017": {
+        "03": {},
+        "04": {},
+        "05": {},
+        "06": {},
+        "07": {}
+    },
+    "2018": {
+        "02": {}
+    },
+    "2019": {
+        "02": {}
+    },
+    "2020": {
+        "06": {},
+        "11": {},
+        "12": {}
+    },
+    "2021": {
+        "01": {},
+        "02": {},
+        "04": {},
+        "05": {},
+        "06": {},
+        "07": {},
+        "08": {},
+        "09": {},
+        "10": {},
+        "11": {},
+        "12": {}
+    },
+    "2022": {
+        "01": {},
+        "02": {},
+        "03": {},
+        "04": {
+            "29": {
+                "24890": {}
+            }
+        },
+        "06": {},
+        "07": {
+            "29": {
+                "26788": {}
+            }
+        },
+        "08": {
+            "01": {
+                "26792": {}
+            },
+            "25": {
+                "jardin-pharma-dan-utm-jalin-kerjasama-strategik-inovasi-dan-pengkomersilan": {}
+            }
+        },
+        "10": {},
+        "12": {}
+    },
+    "2023": {
+        "01": {
+            "12": {
+                "auto-draft": {}
+            }
+        },
+        "02": {},
+        "03": {
+            "21": {
+                "28458": {}
+            }
+        },
+        "04": {
+            "02": {
+                "auto-draft-3": {}
+            },
+            "03": {
+                "28476": {}
+            }
+        },
+        "06": {
+            "20": {
+                "auto-draft-4": {}
+            },
+            "28": {
+                "auto-draft-5": {}
+            }
+        }
+    },
+    "about-icc": {
+        "organization": {}
+    },
+    "alliances": {},
+    "author": {
+        "nurhayati": {
+            "page": {
+                "2": {}
+            }
+        }
+    },
+    "category": {
+        "announcement": {},
+        "commercialisation-updates": {},
+        "events": {},
+        "featured": {},
+        "gallery": {},
+        "green": {},
+        "infographics": {},
+        "innovation-updates": {},
+        "news": {},
+        "portfolio": {},
+        "project": {},
+        "slider": {},
+        "uncategorized": {}
+    },
+    "citra-karisma": {},
+    "contact-us": {},
+    "funding": {},
+    "iccubex": {},
+    "iconday": {},
+    "innocomms": {},
+    "other": {
+        "gallery": {}
+    },
+    "playbook": {},
+    "product-commercialisation": {},
+    "project": {
+        "__trashed": {},
+        "acnfredesign": {},
+        "aerodynamically-efficient-low-wind-speed": {},
+        "agv": {},
+        "androex": {},
+        "applam": {},
+        "autonomous-fish-trap": {},
+        "awam": {},
+        "caeas": {},
+        "cloth-based-microfluidic-analytical-device-ucad": {},
+        "cobra": {},
+        "compact-flight-controller": {},
+        "cool-island-pavement": {},
+        "crude-palm-oil-refining-system": {},
+        "dermags": {},
+        "direct-current-compressor": {},
+        "dual-function-sizing-agent": {},
+        "dust-buster": {},
+        "ease-connectors": {},
+        "ebraille-al-quran": {},
+        "eco-green-brick": {},
+        "educational-testrig": {},
+        "etc-2": {},
+        "eyenoon-switch": {},
+        "eze": {},
+        "fetoact": {},
+        "golden-cooler-running-automated-dehydrator": {},
+        "hacademy": {},
+        "hajsim": {},
+        "halalwatch": {},
+        "hi-vrs": {},
+        "human-respiration-carbon-dioxide-measurement-device": {},
+        "ibs": {},
+        "imbas": {},
+        "jaga-drone": {},
+        "m-finder": {},
+        "m-trap": {},
+        "meal2heal": {},
+        "membrane-contactor": {},
+        "micellar-facial-wash": {},
+        "micro-gas-turbine-mgt": {},
+        "microclear": {},
+        "mifgro": {},
+        "molluscure": {},
+        "muet-cefr": {},
+        "multisensory-smart-room": {},
+        "myev": {},
+        "mytelecardiology": {},
+        "nano-needle": {},
+        "natco": {},
+        "natural-colourant": {},
+        "naturel-kiss": {},
+        "npk-organo-zeolite": {},
+        "ozbiony": {},
+        "palm-eco-crete": {},
+        "pinapaper": {},
+        "pinaplastic": {},
+        "pineapple-syrup": {},
+        "public-data-system": {},
+        "qfinder": {},
+        "radar-coverage-and-radio-based": {},
+        "resle": {},
+        "rov-pleco": {},
+        "scalebone": {},
+        "seer-i-block": {},
+        "seer-isolator": {},
+        "sil-rh": {},
+        "smart-bioswitch": {},
+        "smart-ibs": {},
+        "smsparkir": {},
+        "speek-dmfc-genset": {},
+        "stress-profiling": {},
+        "tremorx": {},
+        "u-bussms": {},
+        "utm-crc": {},
+        "verify-halal": {},
+        "wex": {},
+        "wheelchair": {},
+        "yes-pack": {}
+    },
+    "research-products": {},
+    "services": {},
+    "technovation-park": {},
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "2": {
+                    "2021": {
+                        "05": {
+                            "PDF1-PDF2-3.png": {}
+                        },
+                        "08": {
+                            "2.png": {},
+                            "4.png": {},
+                            "5-1.png": {},
+                            "6-2.png": {}
+                        }
+                    },
+                    "2024": {
+                        "12": {
+                            "10-1.png": {},
+                            "10.png": {},
+                            "11.png": {},
+                            "13.png": {},
+                            "14.png": {},
+                            "15.png": {},
+                            "16.png": {},
+                            "2.png": {},
+                            "3.png": {},
+                            "4.png": {},
+                            "5.png": {},
+                            "6-1.png": {},
+                            "7-1.png": {},
+                            "7-2.png": {},
+                            "8-1.png": {},
+                            "8-2.png": {},
+                            "9-1.png": {},
+                            "9.png": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

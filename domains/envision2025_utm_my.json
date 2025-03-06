@@ -1,3 +1,67 @@
 {
-    "": {}
+    "": {},
+    "admin-profile": {},
+    "contact-us": {},
+    "lpu-main-page": {},
+    "my-profile": {},
+    "project": {
+        "bengkel-pemurnian-akhir-strategi-korporat-envision-utm-2025": {},
+        "chancellery": {},
+        "department-strategies-confirmation-2021": {},
+        "jabatan-bendahari": {},
+        "jabatan-harta-bina": {},
+        "jabatan-pendaftar": {},
+        "jtncaa": {},
+        "jtnchep": {},
+        "jtncp": {},
+        "jtncpi-2": {},
+        "lpu-retreat-2020": {},
+        "majlis-penyampaian-hadiah-sesi-town-hall-utm-envision-2025": {},
+        "psz": {},
+        "strategic-review-1-and-2": {},
+        "strategies-refinement-2021": {},
+        "utmdigital": {}
+    },
+    "schedule": {},
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "40": {
+                    "2021": {
+                        "10": {
+                            "12-Dept-Strategies-Confirmation-19-September-2021.png": {},
+                            "13-Dept-Strategies-Confirmation-19-September-2021.png": {},
+                            "3-Dept-Strategies-Refinement-14-September-2021.png": {},
+                            "5-Dept-Strategies-Refinement-15-September-2021.png": {},
+                            "6-Dept-Strategies-Confirmation-19-September-2021.png": {}
+                        },
+                        "12": {
+                            "executive-summary.jpg": {},
+                            "frontpage-2.jpg": {},
+                            "msgfromdirector.jpg": {},
+                            "msgfromvc-5.jpg": {},
+                            "tableofcontent-1.jpg": {}
+                        }
+                    },
+                    "2022": {
+                        "01": {
+                            "LETT8854c_wm-scaled.jpg": {},
+                            "LETT8858c_wm-scaled.jpg": {},
+                            "LETT8863c_wm-scaled.jpg": {},
+                            "LETT8869c_wm-scaled.jpg": {},
+                            "LETT8894c_wm-scaled.jpg": {},
+                            "LETT8901c_wm-scaled.jpg": {},
+                            "LETT8911c_wm-scaled.jpg": {},
+                            "LETT8913c_wm-scaled.jpg": {},
+                            "LETT8914c_wm-scaled.jpg": {},
+                            "LETT8915c_wm-scaled.jpg": {},
+                            "LETT8932c_wm-scaled.jpg": {},
+                            "LETT8937c_wm-scaled.jpg": {},
+                            "ebanner-final-strategi-1280-x-768.-2.jpg": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

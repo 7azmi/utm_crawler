@@ -1,3 +1,4142 @@
 {
-    "": {}
+    "": {},
+    "ongoing-survey": {},
+    "utmik": {
+        "2022": {
+            "01": {
+                "29": {
+                    "shareutm-ik": {}
+                }
+            },
+            "07": {
+                "03": {
+                    "fasa-pertukaran-nama-kolej-kediaman-pelajar": {}
+                }
+            },
+            "08": {
+                "28": {
+                    "bendahari-utm": {},
+                    "ketua-pustakawan": {},
+                    "penulisan-berkaitan-permaisuri-johor": {},
+                    "sejarah-bahagian-keselamatan": {}
+                },
+                "29": {
+                    "pengarah-harta-bina": {}
+                }
+            }
+        },
+        "2023": {
+            "07": {
+                "12": {
+                    "sejarah-ringkas-universiti-teknologi-malaysia-siri-i": {}
+                }
+            },
+            "10": {
+                "09": {
+                    "artifak-kamera-proses-khazanah-warisan-universiti-menakjubkan": {},
+                    "buku-rekod-graduan-maktab-teknik-kuala-lumpur": {},
+                    "logo-kebanggaan-utm": {}
+                }
+            },
+            "12": {
+                "01": {
+                    "naib-canselor-utm-ketiga-tan-sri-ahmad-zaharudin-idrus": {}
+                },
+                "02": {
+                    "utm-techs-time-capsule": {}
+                },
+                "03": {
+                    "sejarah-ringkas-business-advanced-technology-center-batc": {}
+                }
+            }
+        },
+        "2024": {
+            "03": {
+                "27": {
+                    "professor-dr-marzuki-khalid": {}
+                }
+            },
+            "04": {
+                "03": {
+                    "sejarah-ringkas-universiti-teknologi-malaysia-siri-ii": {}
+                }
+            },
+            "07": {
+                "23": {
+                    "inkubator-halal-kpt-utm-kampus-pagoh": {},
+                    "sejarah-penubuhan-utm-kampus-pagoh": {}
+                },
+                "29": {
+                    "dewan-sultan-iskandar": {}
+                }
+            },
+            "11": {
+                "11": {
+                    "masjid-sultan-ismail-pusat-kesyumulan-islam-universiti-teknologi-malaysia": {},
+                    "menghakupaya-masyarakat-melalui-program-ternakan-kelah-secara-digital": {}
+                }
+            },
+            "12": {
+                "18": {
+                    "sejarah-pemilihan-tapak-kampus-baharu-utm": {}
+                },
+                "19": {
+                    "penyelidikan-gaharu-meningkatkan-potensi-penghasilan-minyak-gaharu-secara-lestari-serta-pembangunan-produk-hilirannya": {}
+                }
+            }
+        },
+        "2025": {
+            "01": {
+                "14": {
+                    "ladang-penyelidikan-ica-pemangkin-inovasi-pertanian-masa-hadapan": {}
+                }
+            }
+        },
+        "author": {
+            "ayesha": {},
+            "junaidahabdullah": {},
+            "mfuad": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "mhazim": {
+                "page": {
+                    "2": {}
+                }
+            }
+        },
+        "category": {
+            "bangunan": {},
+            "canselor": {},
+            "fakulti_jabatan": {},
+            "naib-canselor": {},
+            "pengurusan_tertinggi": {},
+            "sejarah": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "uncategorized": {},
+            "utm-kampus-pagoh": {}
+        },
+        "page": {
+            "2": {},
+            "3": {}
+        }
+    },
+    "BacaCelikHati": {
+        "alat-muzik-tradisional": {},
+        "anekdot-kepustakawanan": {},
+        "bab-1": {},
+        "bab-2": {},
+        "bab-3": {},
+        "bab-4": {},
+        "bab-5": {},
+        "bab-6": {},
+        "bab-7": {},
+        "busana-tradisional": {},
+        "comments": {
+            "feed": {}
+        },
+        "feed": {},
+        "hubungikami": {},
+        "istanalamaraja-rajamelayu": {},
+        "jalur-gemilang": {},
+        "johor-m-bi": {},
+        "johor": {},
+        "kata-pengantar-zainon": {},
+        "kedah-m-bi": {},
+        "kedah": {},
+        "kelantan-m-bi": {},
+        "kelantan": {},
+        "kolam-teduh-biru": {},
+        "koleksi-sasterawan-negara": {},
+        "maklumatprojek": {},
+        "malaysia-bm": {},
+        "malaysia-m-en": {},
+        "melaka-m-bi": {},
+        "melaka": {},
+        "muzik-tradisional-melayu": {},
+        "negeri-sembilan-m-bi": {},
+        "negeri-sembilan": {},
+        "pahang-m-bi": {},
+        "pahang": {},
+        "perak-m-bi": {},
+        "perak": {},
+        "perlis-m-bi": {},
+        "perlis": {},
+        "prakata-siti-zainon-ismail": {},
+        "pulau-pinang-m-bi": {},
+        "pulau-pinang": {},
+        "rumah-tradisional-malaysia": {},
+        "sabah-m-bi": {},
+        "sabah": {},
+        "sarawak-m-bi": {},
+        "sarawak": {},
+        "sekapur-sireh": {},
+        "selangor-m-bi": {},
+        "selangor": {},
+        "siti-zainon-ismail": {},
+        "tab-sltk": {},
+        "teater-tradisional-melayu": {},
+        "tempat_bersejarah_negeri_johor": {},
+        "terengganu-m-bi": {},
+        "terengganu": {},
+        "tokoh-tempatan-yang-menentang-british": {},
+        "warisan-tradisional-seni-halus-2": {},
+        "wilayah-persekutuan-m-bi": {},
+        "wilayah-persekutuan": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "90": {
+                        "2023": {
+                            "01": {
+                                "1-1.png": {},
+                                "2-1.png": {},
+                                "3-1.png": {}
+                            }
+                        },
+                        "2024": {
+                            "09": {
+                                "1.png": {},
+                                "10.png": {},
+                                "11.png": {},
+                                "13.png": {},
+                                "14.png": {},
+                                "15.png": {},
+                                "17.png": {},
+                                "18.png": {},
+                                "19.png": {},
+                                "2.png": {},
+                                "21.png": {},
+                                "22.png": {},
+                                "23.png": {},
+                                "25.png": {},
+                                "26.png": {},
+                                "3.png": {},
+                                "5.png": {},
+                                "6.png": {},
+                                "7.png": {},
+                                "9.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "wp-login.php": {}
+    },
+    "about-us": {},
+    "about-utm-dms": {},
+    "about-utm-ir": {},
+    "about-utm-rdm": {},
+    "about-utmlenses": {},
+    "annual-reports-2": {},
+    "archive2019": {
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "56": {
+                        "2015": {
+                            "02": {
+                                "thesis_flow-3.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "author": {
+        "liza": {
+            "page": {
+                "2": {},
+                "3": {}
+            }
+        },
+        "mhazim": {
+            "page": {
+                "2": {}
+            }
+        },
+        "surayaj": {
+            "page": {
+                "2": {},
+                "3": {},
+                "4": {},
+                "5": {}
+            }
+        }
+    },
+    "awards-recognitions": {},
+    "bicara-informasi-bersama-pustakawan": {},
+    "bicara-karya-conquering-everest-do-or-die-mission": {},
+    "bicara-karya-host-teknik-pengacara-pro": {},
+    "booksharingutmkl-siri-14-2020": {},
+    "borrowing-returning-reserving-renewing": {},
+    "bpmp": {
+        "wp-admin": {
+            "upload.php": {}
+        },
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "28": {
+                        "2024": {
+                            "07": {
+                                "SPM-Chart.png": {},
+                                "Untitled-design-1.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "branches": {},
+    "bulletin-newsletter": {},
+    "category": {
+        "news": {},
+        "uncategorized": {
+            "page": {
+                "2": {},
+                "3": {},
+                "4": {},
+                "5": {},
+                "6": {},
+                "7": {}
+            }
+        }
+    },
+    "choose-to-challenge-kepok-lekor-di-bumi-ireland": {},
+    "client-charter": {},
+    "collections": {},
+    "contact-us": {},
+    "copyright-guidance-license": {},
+    "csr": {
+        "3bab690829e5877aac67d850407ca8e0": {},
+        "bendera-malaysia": {},
+        "d6uxlgi-0b464738-9475-4465-a363-d3535455be34": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "90": {
+                        "2021": {
+                            "05": {
+                                "1.jpg": {},
+                                "10.jpg": {},
+                                "11.jpg": {},
+                                "12.jpg": {},
+                                "13.jpg": {},
+                                "14.jpg": {},
+                                "15.jpg": {},
+                                "16.jpg": {},
+                                "17.jpg": {},
+                                "18.jpg": {},
+                                "19.jpg": {},
+                                "2.jpg": {},
+                                "20.jpg": {},
+                                "21.jpg": {},
+                                "22.jpg": {},
+                                "23.jpg": {},
+                                "24.jpg": {},
+                                "3.jpg": {},
+                                "4.jpg": {},
+                                "5.jpg": {},
+                                "6.jpg": {},
+                                "7.jpg": {},
+                                "8.jpg": {},
+                                "9.jpg": {}
+                            },
+                            "06": {
+                                "1-1.png": {},
+                                "1.png": {},
+                                "10.png": {},
+                                "11.png": {},
+                                "12.png": {},
+                                "13.png": {},
+                                "2-1.png": {},
+                                "2.png": {},
+                                "3-1.png": {},
+                                "3-2.png": {},
+                                "3.png": {},
+                                "4-1.png": {},
+                                "4-2.png": {},
+                                "4.png": {},
+                                "5-1.png": {},
+                                "5-2.png": {},
+                                "5.png": {},
+                                "6-1.png": {},
+                                "6-2.png": {},
+                                "6.png": {},
+                                "7-1.png": {},
+                                "7-2.png": {},
+                                "7.png": {},
+                                "8-1.png": {},
+                                "8.png": {},
+                                "9.png": {},
+                                "Picture-2.png": {},
+                                "Picture1-2.png": {},
+                                "Picture1.jpg": {},
+                                "Picture1.png": {},
+                                "Picture10-1.png": {},
+                                "Picture10-2.png": {},
+                                "Picture11-1.png": {},
+                                "Picture11-2.png": {},
+                                "Picture12-1.png": {},
+                                "Picture12-2.png": {},
+                                "Picture13-1.png": {},
+                                "Picture13.png": {},
+                                "Picture14-1.png": {},
+                                "Picture14.png": {},
+                                "Picture15-1.png": {},
+                                "Picture15.png": {},
+                                "Picture16-1.png": {},
+                                "Picture16.png": {},
+                                "Picture17-1.png": {},
+                                "Picture17.png": {},
+                                "Picture18-1.png": {},
+                                "Picture18.png": {},
+                                "Picture19-1.png": {},
+                                "Picture19.png": {},
+                                "Picture2-1.png": {},
+                                "Picture2.jpg": {},
+                                "Picture20-1.png": {},
+                                "Picture20.png": {},
+                                "Picture21-1.png": {},
+                                "Picture21.png": {},
+                                "Picture22-1.png": {},
+                                "Picture22.png": {},
+                                "Picture23-1.png": {},
+                                "Picture23.png": {},
+                                "Picture24-1.png": {},
+                                "Picture24.png": {},
+                                "Picture3-1.png": {},
+                                "Picture3.jpg": {},
+                                "Picture4-1.png": {},
+                                "Picture4.jpg": {},
+                                "Picture5-1.png": {},
+                                "Picture5.jpg": {},
+                                "Picture6-1.png": {},
+                                "Picture6.jpg": {},
+                                "Picture7-1.png": {},
+                                "Picture7.jpg": {},
+                                "Picture8-1.png": {},
+                                "Picture8.jpg": {},
+                                "Picture9-1.png": {},
+                                "Picture9-2.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "digital-resources-2": {
+        "digital-theses": {}
+    },
+    "disclaimer": {},
+    "divisions": {},
+    "e-resources": {},
+    "eksa": {
+        "aktivit-eksa": {},
+        "feed": {},
+        "jawatankuasa-eksa": {},
+        "logo-eksa": {},
+        "muat-turun": {},
+        "pengenalan-eksa": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "80": {
+                        "2022": {
+                            "10": {
+                                "Panduan-Amalan-EKSA-Perpustakaan-UTM-Final.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "zon-eksa": {}
+    },
+    "extension-of-loan-due-date-to-31st-march-2022": {},
+    "f4-csp1": {},
+    "f4-csp2": {},
+    "f4-csp3": {},
+    "f4-csp4": {},
+    "facts-and-figures": {},
+    "fantastic-4": {},
+    "friends-of-the-utm-library": {},
+    "handbook": {},
+    "interlibrary-loan": {},
+    "jemputan-ke-program-hari-kokurikulum-mingguan-utm": {
+        "new-5": {}
+    },
+    "journals-collection": {},
+    "k-sharing-normalizing-open-science-are-researchers-ready-to-share": {
+        "30mac_portal-01-2": {}
+    },
+    "k-sharing-ohhh-englishku-chit-chat-bersama-cikgu-kita": {},
+    "k-sharing-sembang-merdeka": {},
+    "k-sharing-utm-library-research-week-2020-2": {},
+    "k-sharing-utm-library-research-week-2020-3": {},
+    "k-sharing-utm-library-research-week-2020-4": {},
+    "k-sharing-utm-library-research-week-2020": {},
+    "kintsugi-embrace-your-imperfection": {},
+    "knowledge-sharing-open-science-librarians-roles-and-opportunities": {
+        "12apr_poster-01": {}
+    },
+    "liaison-librarians": {},
+    "libfaq": {
+        "2024_compilation": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "52": {
+                        "2019": {
+                            "10": {
+                                "Student-Dress-Code.jpg": {}
+                            }
+                        },
+                        "2021": {
+                            "12": {
+                                "DMS.png": {},
+                                "User-Education-Program-UTM-Library.png": {}
+                            }
+                        },
+                        "2023": {
+                            "09": {
+                                "Librarian-by-Appoinment.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "librarian-by-appointment": {},
+    "library-area-facilities": {},
+    "library-digital-content": {},
+    "library-events": {},
+    "library-guides-for-odl": {},
+    "library-membership-2-0": {},
+    "library-official-slides": {},
+    "library-publications": {},
+    "library-quality-system": {},
+    "library-rule-and-etiquette": {},
+    "loan-periods-fines": {},
+    "ma-oon-rizal-cikgu-malaysia-di-findland": {},
+    "management-and-professional-staff": {},
+    "maps-aerial-photographs": {},
+    "matron-saya-nak-resign": {},
+    "melonjak-ke-langit-2021-bersama-sepatu-hijrah": {},
+    "membership-categories-2": {},
+    "membership": {},
+    "myuninet-portal": {},
+    "open-access-initiatives-new": {},
+    "open-access-online-resources": {},
+    "open-closed-access-collections": {},
+    "opening-hours": {},
+    "organisation-chart-2": {},
+    "other-institutional-repositories": {},
+    "other-libraries-catalogues": {
+        "opac.pnm.gov.my": {}
+    },
+    "periodicals-popular-magazines": {},
+    "persidangan-pustakawan-jabatan-perpustakaan-utm-2021": {},
+    "photos": {
+        "2019": {
+            "03": {
+                "19": {
+                    "program-bicara-karya-pages-from-my-past-di-perpustakaan-utm-pagoh-pada-13-mac-2019": {}
+                }
+            }
+        }
+    },
+    "privacy-policy": {},
+    "program-bicara-karya-brave-leadership": {},
+    "program-book-sharing-siri-3-2021-perpustakaan-utm-kuala-lumpur": {},
+    "program-book-sharing-siri-4-2021-perpustakaan-utm-kuala-lumpur": {},
+    "program-k-sharing-diet-pada-bulan-ramadhan": {
+        "8apr_poster2-01": {}
+    },
+    "program-ksharing-kunci-pewarisan-harta-untuk-anak": {},
+    "program-sempena-hari-wanita-saksama-bersama": {},
+    "purchase-suggestion": {},
+    "quality": {
+        "wp-login.php": {}
+    },
+    "radis-clinic-2020": {},
+    "radis-publication-module": {},
+    "read-relax-edisi-khas": {},
+    "read-relax-siri-1-2020-perpustakaan-sultanah-zanariah-utm-johor-bahru": {},
+    "read-relax-siri-1-2021-bangunan-perpustakaan-sultanah-zanariah": {},
+    "read-relax-siri-2-2021-bangunan-perpustakaan-sultanah-zanariah": {},
+    "read-relax-siri-3-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+    "read-relax-siri-3-2021-bangunan-perpustakaan-sultanah-zanariah": {},
+    "read-relax-siri-5-2021": {},
+    "readutm": {},
+    "reference-materials-2": {},
+    "research-2": {
+        "turnitin-utm": {}
+    },
+    "research-canvas-competition-2023": {},
+    "research-publication-talk-2020": {},
+    "research-support": {},
+    "researchsupportplatform": {},
+    "sciencedirect-training-empowering-you-for-your-research-journey-part-1": {},
+    "scopus-training-empowering-you-for-your-research-journey-part-2": {},
+    "scopus-webinar-training-series-2-2020-curated-content-what-content-is-included-in-scopus-and-how-is-it-selected-2": {},
+    "scopus-webinar-training-series-2-2020-curated-content-what-content-is-included-in-scopus-and-how-is-it-selected": {},
+    "sdi-april-2021-open-science-in-higher-education_compressed": {},
+    "sdi-senat-article": {},
+    "sections": {},
+    "services": {},
+    "sources-to-information": {},
+    "spm": {
+        "about-us": {
+            "spm-staff-directory": {},
+            "unit-pengurusan-maklumat": {},
+            "unit-perunding-maklumat": {
+                "tinyurl.com": {
+                    "CSIUTMLibrary2023": {}
+                }
+            },
+            "unit-promosi": {}
+        },
+        "author": {
+            "kartini": {},
+            "liza": {},
+            "mfikriyusof": {},
+            "smarlia": {},
+            "surayaj": {}
+        },
+        "borang-maklum-balas-atas-talian": {},
+        "category": {
+            "uncategorized": {}
+        },
+        "contact-us": {},
+        "faq": {},
+        "hello-world": {},
+        "inter-library-loan": {},
+        "meja-perundingan-sokongan-penyelidikan": {},
+        "other-libraries-catalogues": {},
+        "senarai-semak-pembudayaan-ilmu": {},
+        "test": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "28": {
+                        "2024": {
+                            "08": {
+                                "GARIS-PANDUAN-PERKHIDMATAN-BERBAYAR-PERPUSTAKAAN-UTM_kemaskini-7-mei-2019.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PRZS-APRIL-JUN-2023.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PRZS-JANUARI-JULAI-2024.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PRZS-JANUARI-MAC-2023.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PRZS-JULAI-DISEMBER-2023.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PRZS-OGOS-2024-FEBRUARI-2025.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PSZJB-APRIL-JUN-2023.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PSZJB-JANUARI-JULAI-2024-1.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PSZJB-JANUARI-MAC-2023.pdf": {},
+                                "JADUAL-BERTUGAS-PUSTAKAWAN-DI-MEJA-PSP-PSZJB-JULAI-DISEMBER-2023.pdf": {},
+                                "Jadual-Bertugas-Pustakawan-PRZS-Meja-PSP-Januari-Jun-2022.pdf": {},
+                                "Jadual-Tugas-Pustakawan-PSZJB-Januari-Jun-2022.pdf": {},
+                                "Lampiran-Prosedur-Maklum-Balas_04082024.pdf": {}
+                            },
+                            "09": {
+                                "BORANG-PERMOHONAN-BAHAN.PERTANYAAN-RUJUKANBORANG-HIJAU.jpg": {},
+                                "HOW-TO-APPLY-FOR-ITEM-REQUEST-REFERENCE-INQUIRY-1.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "standards-patents": {},
+    "suggest-a-purchase-2": {},
+    "suggest-a-purchase-student": {},
+    "support": {
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "4": {
+                        "2016": {
+                            "12": {
+                                "Author-Verification-in-RADIS-1.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "theses-reference-room": {},
+    "theses-reference-services-2": {},
+    "user-education-program": {
+        "ayesha.kl@utm.my": {}
+    },
+    "utm-envision-2025": {},
+    "utm-institutional-repository": {
+        "%20": {}
+    },
+    "utm-library-csr-programme": {},
+    "utm-library-envision-2025": {},
+    "utm-library-johor-bahru-opening-hours-18-march-25-june-2022": {},
+    "utm-library-media-gallery-2": {},
+    "utm-library-research-weeks-2021": {
+        "researchweek2021_fb-01": {}
+    },
+    "utm-library-user-education-webinar-series-advanced-information-searching-skill": {},
+    "utm-ogc-sharing-session-how-to-effectively-place-your-program-globally": {},
+    "utm-open-e-journals": {},
+    "utm-researcher-profile": {},
+    "utm-special-collection": {},
+    "utmlibrarynews": {
+        "2018": {
+            "11": {
+                "15": {
+                    "aktiviti-5s-di-przs": {},
+                    "aktiviti-plogging-di-perpustakaan-raja-zarith-sofiah-przs": {},
+                    "bengkel-endnote": {},
+                    "bengkel-semakan-dasar-berbayar-perpustakaan-utm": {},
+                    "latihan-sangkutan-pegawai-usim-di-perpustakaan-utm": {},
+                    "lawatan-daripada-smk-agama-bandar-penawar-kota-tinggi-johor": {},
+                    "lawatan-daripada-smk-permas-jaya": {},
+                    "lawatan-daripada-universitas-sriwijaya-indralaya-sumatera-selatan": {},
+                    "lawatan-kolej-vokasional-muadzam-shah-pahang-2": {},
+                    "lawatan-kolej-vokasional-perdagangan-johor-bahru": {},
+                    "lawatan-pelajar-tahun-1-program-kejuruteraan-kimia-fakulti-kejuruteraan-utm-2": {},
+                    "lawatan-peserta-program-summer-camp-sekolah-komputeran-fakulti-kejuruteraan": {},
+                    "lawatan-timbalan-pengarah-merangkap-kurator-bersama-staf-muzium-diraja-abu-bakar-johor": {},
+                    "lawatan-utm-campus-sustainability-utmcs-sukarelawan-aiesec-utm": {},
+                    "pembangunan-sistem-pelaporan-ict-ict-report-systems-ireps": {},
+                    "read-and-relax-myfavread-pustakawan-bersama-pegawai-ptj-utm": {},
+                    "read-read-and-relax-session-13-september-2018": {},
+                    "reading-programme-with-gelandangan-children-at-pusat-transit-gelandangan-medan-tuanku": {},
+                    "sambutan-hari-muzium-antarabangsa-peringkat-muzium-dan-galeri-universiti-awam-malaysia": {},
+                    "tuhan-beri-aku-sehari-lagi-2": {},
+                    "utm-library-news-has-pop-out": {},
+                    "weeks-of-welcome-perpustakaan-utm": {}
+                },
+                "16": {
+                    "kursus-pengurusan-sistem-transaksi-penggunaan-bilik-karel": {}
+                }
+            },
+            "12": {
+                "05": {
+                    "perpustakaan-utm-dinobat-pemenang-pameran-terbaik": {}
+                }
+            }
+        },
+        "2019": {
+            "01": {
+                "07": {
+                    "persidangan-pustakawan-perpustakaan-utm": {}
+                },
+                "10": {
+                    "lawatan-daripada-universitas-bung-hatta-padang-indonesia": {},
+                    "minda-merdeka": {},
+                    "penggabungan-perpustakaan-fabu": {}
+                },
+                "17": {
+                    "sumbangan-buku-oleh-dr-zulkifli-khair-pensyarah-kanan-fakulti-sains-sosial-dan-kemanusiaan-utm": {}
+                },
+                "20": {
+                    "amanat-menteri-pendidikan-tahun-2019-pendidikan-untuk-semua-tanggungjawab-semua": {},
+                    "read-relax-siri-1-2019-perpustakaan-utm-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "22": {
+                    "read-relax-siri-1-2019-perpustakaan-utm-pagoh": {}
+                }
+            },
+            "02": {
+                "03": {
+                    "doodle-painting-competition-wow-carnival-2018": {},
+                    "en-route-to-impactful-publication-from-the-perspective-of-web-of-science": {},
+                    "mini-home-library-competition-wow-carnival": {},
+                    "research-canvas-competition-wow-carnival-2018": {}
+                },
+                "04": {
+                    "library-inforace-challenge-wow-carnival": {}
+                }
+            },
+            "03": {
+                "19": {
+                    "lawatan-daripada-al-fajar-islamic-senior-high-school-bekasi-indonesia": {},
+                    "program-bicara-karya-pages-from-my-past-di-utm-pagoh": {}
+                },
+                "26": {
+                    "86-orang-sukarelawan-sedia-berkhidmat-untuk-program-khidmat-masyarakat-perpustakaan-utm-2019": {},
+                    "bengkel-koha-circulation-fine-rules": {},
+                    "bicara-karya-almarhum-sultan-ismail-johor-1894-1981": {},
+                    "book-review-oleh-pelajar-skpk-princess-elizabeth-mpp-utm-dan-friends-of-utm-library": {},
+                    "k-sharing-inovasi-braille-dalam-mencorak-kerjaya-masa-depan-kanak-kanak-kurang-upaya-penglihatan": {},
+                    "k-sharing-pembangunan-al-quran-braille-kompas-solat-qfinder-pengenal-warna-cfinder-untuk-keperluan-pendidikan-khas": {},
+                    "ksharing-meraikan-kepelbagaian-perspektif-masyarakat-cina": {},
+                    "lawatan-dari-peserta-pusat-hidrografi-nasional": {},
+                    "lawatan-dari-universitas-islam-sultan-agung-unissula-central-library-indonesia": {},
+                    "lawatan-daripada-pelajar-baharu-utmspace": {},
+                    "lawatan-penandaarasan-dari-perpustakaan-tuanku-bainun-upsi": {},
+                    "lawatan-teknikal-projek-pendigitalan-koleksi-pusat-dokumentasi-johor-ke-perpustakaan-utm": {},
+                    "library-idol-2018-english-singing-competition": {},
+                    "pameran-courtesy-di-perpustakaan-utm": {},
+                    "sesi-read-relax-siri-2-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-3-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-4-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "27": {
+                    "bengkel-perisian-mendeley-untuk-pustakawan-perpustakaan-utm": {},
+                    "sesi-read-relax-siri-6-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "28": {
+                    "sesi-read-relax-siri-4-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                }
+            },
+            "04": {
+                "16": {
+                    "program-bicara-karya-the-art-of-the-good-life-with-utm-deputy-vice-chancellor-student-affairs": {}
+                },
+                "23": {
+                    "high-research-output-award-congratulation-utm": {}
+                },
+                "28": {
+                    "lawatan-universitas-putra-indonesia-yptk-padang-indonesia-ke-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-and-relax-siri-5-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-and-relax-siri-7-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "utm-library-csr-programme-with-persatuan-sindrom-down-negeri-johor": {}
+                }
+            },
+            "05": {
+                "16": {
+                    "program-k-sharing-21st-century-readers": {},
+                    "sesi-read-and-relax-siri-8-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                }
+            },
+            "07": {
+                "01": {
+                    "k-sharing-penyakit-zoonotic-pada-haiwan-kesayangan-bagaimana-menghindarinya": {},
+                    "program-bicara-karya-syahidnya-kapten-luis-de-souza": {},
+                    "sesi-read-and-relax-siri-9-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-8-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "02": {
+                    "jom-baca-bersama-untuk-10-minit-di-dataran-geologi-sekolah-kejuruteraan-kimia-dan-tenaga-utm-johor-bahru": {},
+                    "jom-baca-untuk-10-minit-sempena-hari-buku-dan-hak-cipta-sedunia-di-perpustakaan-utm-kuala-lumpur": {},
+                    "lawatan-daripada-smk-canossa-convent-melaka": {},
+                    "lawatan-daripada-smk-seri-perling-ke-perpustakaan-sultanah-zanariah": {},
+                    "pameran-inovasi-kemuncak-sinergi-pelajar-skbsk-ahibs": {},
+                    "sesi-read-relax-siri-10-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-9-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "03": {
+                    "ceramah-sempena-hari-nuzul-quran-ajuran-kelab-keluarga-staf-perpustakaan-utm-kksputm": {},
+                    "lawatan-daripada-universitas-bung-hatta-indonesia": {},
+                    "sesi-read-relax-siri-11-2019-perpustakaan-utm-bangunan-raja-zarith-sofiah": {}
+                },
+                "10": {
+                    "sesi-read-relax-siri-11-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "15": {
+                    "sesi-read-relax-siri-12-2019-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "21": {
+                    "lawatan-daripada-universitas-negeri-makassar-indonesia": {},
+                    "perpustakaan-ibd-terima-cabaran-anjur-program-read-relax": {}
+                },
+                "22": {
+                    "k-sharing-penyakit-mental-peka-atau-pekakkah-aku-a-talk-on-mental-illness-by-dr-zulfikar-ahmad-director-of-utm-counselling-centre": {},
+                    "lawatan-pelajar-universiti-sains-malaysia-kampus-pulau-pinang": {},
+                    "sesi-read-and-relax-siri-6-2019-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "29": {
+                    "sesi-read-relax-siri-12-2019-perpustakaan-utm-bangunan-perpustakaan-sultanah-zanariah": {}
+                }
+            },
+            "08": {
+                "19": {
+                    "lawatan-pelajar-sekolah-tinggi-manajemen-dan-ilmu-komputer-pagar-alam-indonesia": {},
+                    "program-book-review-utm-kl-siri-26-2019": {},
+                    "sesi-read-relax-siri-13-2019-perpustakaan-utm-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-13-2019-perpustakaan-utm-bangunan-raja-zarith-sofiah": {}
+                },
+                "20": {
+                    "pustakawan-utm-sebar-luas-maklumat": {},
+                    "sesi-read-relax-siri-14-2019-perpustakaan-sultanah-zanariah": {},
+                    "utm-librarys-information-searching-skills-programme-with-kolej-vokasional-perdagangan-johor-bahru": {}
+                }
+            },
+            "09": {
+                "18": {
+                    "green-leaf-award": {},
+                    "jstor-database-user-training": {},
+                    "lawatan-kelab-wanderers-perpustakaan-politeknik-kuching-sarawak": {},
+                    "lawatan-sekolah-menengah-agama-al-khairiah-temerloh-pahang": {},
+                    "lawatan-sekolah-menengah-kebangsaan-taman-universiti-1-johor-bahru": {},
+                    "program-book-review-utmkl-bagi-siri-27-2019": {},
+                    "program-book-reviewutmkl-siri-28-2019": {},
+                    "program-book-reviewutmkl-siri-29-2019": {},
+                    "sesi-read-relax-di-skbsk": {},
+                    "sesi-read-relax-siri-15-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "taklimat-pustakawan-semester-i-2019-2020": {},
+                    "the-first-stop-to-research-discovery": {}
+                },
+                "24": {
+                    "program-book-review-siri-30-2019-utm-kuala-lumpur": {}
+                }
+            },
+            "10": {
+                "14": {
+                    "k-sharing-minyak-pati-essential-oil": {},
+                    "k-sharing-penjagaan-rambut-kulit-kepala": {},
+                    "program-book-review-siri-33-2019-utm-kuala-lumpur": {}
+                },
+                "17": {
+                    "bengkel-penulisan-kertas-kerja-bagi-staf-pelaksana-jabatan-perpustakaan-utm-siri-ii": {},
+                    "bicara-karya-programme-with-utm-international-student-society": {},
+                    "cambah-dan-kongsi-idea-forum-bersama-penyelidik-dan-pustakawan-utm": {},
+                    "pandu-puteri-di-perpustakaan-utm-menerusi-program-empower-yourself": {},
+                    "siri-jelajah-readuni-di-ahibs": {},
+                    "siri-jelajah-readuni-di-sekolah-pendidikan-fakulti-sains-sosial-dan-kemanusiaan": {}
+                },
+                "18": {
+                    "k-sharing-sejarah-lagu-kebangsaan": {}
+                },
+                "19": {
+                    "mesyuarat-jawatankuasa-ketua-pustakawan-jkp-universiti-awam": {}
+                },
+                "21": {
+                    "bengkel-eksplorasi-perkhidmatan-perpustakaan-digital-literasi-maklumat-pnm": {},
+                    "bengkel-penulisan-kertas-kerja-bagi-staf-pelaksana-jabatan-perpustakaan-utm": {},
+                    "klinik-radis-research-open-day-2019": {},
+                    "lawatan-apm-bomba-sek-men-keb-dato-sri-amar-diraja-muar": {},
+                    "lawatan-dari-shizuoka-university-japan": {},
+                    "lawatan-pelajar-sarjana-muda-tahun-1-sekolah-kejuruteraan-kimia": {},
+                    "pameran-national-architectural-identity-witness-to-malaysian-history": {},
+                    "rahasia-bisnis-yahudi-yang-perlu-kita-tahu": {},
+                    "research-canvas-competition-2019": {},
+                    "sesi-read-relax-siri-14-2019-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-15-2019-di-bangunan-perpustakaan-raja-zarith-sofiah-przs": {},
+                    "sesi-read-relax-siri-16-2019-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-17-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-5-2019-perpustakaan-sultanah-zanariah": {},
+                    "weeks-of-welcome-alu-kehadiran-pelajar-baharu-di-perpustakaan-utm": {}
+                },
+                "23": {
+                    "sesi-read-relax-siri-18-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "24": {
+                    "program-book-review-siri-35-2019-perpustakaan-utm-kuala-lumpur-bersama-naib-canselor-utm": {}
+                },
+                "29": {
+                    "bengkel-penulisan-umum-asah-bakat-menulis": {}
+                },
+                "30": {
+                    "apabila-sarjana-menulis-fiksyen-sisi-lain-ahli-akademik": {}
+                }
+            },
+            "11": {
+                "01": {
+                    "program-book-review-siri-36-2019-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "07": {
+                    "inisiatif-utm-library-book-exchange-perpustakaan-utm-pupuk-kebiasaan-membaca-dan-budaya-pembelajaran": {},
+                    "lawatan-perpustakaan-utm-sepanjang-bulan-oktober": {},
+                    "publishers-talk-how-to-publish": {}
+                },
+                "11": {
+                    "program-book-review-siri-37-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-18-2019-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "18": {
+                    "program-book-review-siri-38-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-17-2019-perpustakaan-utm-bangunan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-19-2019-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "19": {
+                    "sesi-read-relax-siri-16-2019-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                }
+            },
+            "12": {
+                "01": {
+                    "sukarelawan-timba-pengalaman-penduduk-kampung-orang-asli-sungai-peroh-terima-bahan-bacaan": {}
+                },
+                "13": {
+                    "program-bicara-karya-bersama-penulis-prolifik-prof-dr-muhd-kamil-ibrahim-2": {}
+                },
+                "30": {
+                    "sesi-read-relax-siri-20-2019-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                }
+            }
+        },
+        "2020": {
+            "02": {
+                "05": {
+                    "perkongsian-ilmu-memancing": {},
+                    "persidangan-pustakawan-utm-2020-halatuju-dan-perancangan-perpustakaan-utm": {},
+                    "sesi-read-relax-siri-21-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sinergi-perpustakaan-utm-dan-ppmks-beri-manfaat-kepada-sk-taman-sri-pulai": {}
+                },
+                "11": {
+                    "program-book-sharing-siri-1-2020-utm-kuala-lumpur": {}
+                },
+                "25": {
+                    "program-book-sharing-siri-4-2020-utm-kuala-lumpur": {},
+                    "program-read-relax-siri-3-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "26": {
+                    "pameran-fotografi-dari-sudut-mataku": {},
+                    "program-book-sharing-siri-3-2020-utm-kuala-lumpur": {},
+                    "sambutan-luar-biasa-program-bicara-karya-parti-komunis-malaya-bukti-cinta-akan-tanah-air": {}
+                }
+            },
+            "03": {
+                "28": {
+                    "program-book-sharing-siri-5-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-sharing-siri-6-2020-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "04": {
+                "23": {
+                    "utm-library-develops-covid-19-information-platform": {}
+                }
+            },
+            "06": {
+                "11": {
+                    "10-manfaat-sebagai-kaunselor-international-union-for-conservation-of-nature-iucn": {}
+                },
+                "17": {
+                    "program-read-relax-siri-9-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "23": {
+                    "ieee-xplore-online-user-training": {},
+                    "perkongsian-buku-staf-perpustakaan-perpustakaan-utm-kuala-lumpur-siri-2-2020": {},
+                    "perkongsian-buku-staf-perpustakaan-perpustakaan-utm-kuala-lumpur-siri-3-2020": {},
+                    "perkongsian-buku-staf-perpustakaan-utm-kuala-lumpur-siri-4-2020": {},
+                    "program-book-sharing-siri-2-2020-utm-kuala-lumpur": {},
+                    "program-book-sharing-siri-8-2020-utm-kuala-lumpur": {}
+                },
+                "24": {
+                    "program-book-review-siri-22-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-review-siri-23-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-review-siri-24-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-sharing-bersama-pelajar-siri-1-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "program-gotong-royong-perpustakaan-siri-1-2020-utm-kuala-lumpur": {}
+                },
+                "25": {
+                    "program-book-sharing-siri-9-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "selamat-datang-mahasiswa-baharu-program-diploma-utm": {}
+                },
+                "29": {
+                    "bicara-karya-4ir-ai-blockchain-fintech-iot-reinventing-a-nation": {}
+                }
+            },
+            "07": {
+                "01": {
+                    "program-book-review-utmkl-siri-25-2019": {}
+                },
+                "06": {
+                    "bicara-karya-ainuddin-pejuang-degil-melayu": {},
+                    "k-sharing-bengkel-pemuliharaan-bahan-di-arkib-negara-malaysia-cawangan-johor": {},
+                    "k-sharing-pemuliharaan-rekod-selepas-bencana": {},
+                    "majlis-penghargaan-staf-perpustakaan-utm-kuala-lumpur-2019": {},
+                    "perkongsian-buku-staf-siri-5-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-review-siri-39-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-review-siri-42-2019-utm-kuala-lumpur": {},
+                    "program-edisi-khas-book-review-siri-40-2019-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "09": {
+                    "perkongsian-buku-staf-perpustakaan-siri-6-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "perkongsian-buku-staf-siri-1-2020-perpustakaan-utmkl": {}
+                },
+                "12": {
+                    "program-book-review-siri-43-2019-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "14": {
+                    "k-sharing-swietenia-macrophylla-tunjuk-langit-anugerah-alam-untuk-kesihatan-manusia": {},
+                    "lawatan-ke-bangunan-perpustakaan-sultanah-zanariah-psz-utm-sepanjang-bulan-februari-2020": {}
+                },
+                "15": {
+                    "perpustakaan-utm-johor-bahru-menabur-bakti-di-sekolah-kebangsaan-mawai-kota-tinggi": {},
+                    "pkp-bukan-penghalang-perpustakaan-utm-kuala-lumpur-semarak-jom-baca-10-minit": {},
+                    "program-book-review-siri-7-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-sharing-siri-7-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-1-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-19-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "16": {
+                    "perpustakaan-utm-kl-menerima-kunjungan-mahasiswa-universitas-riau": {},
+                    "sumbangan-buku-daripada-tan-sri-datuk-dr-ahmad-zaharudin-idrus-mantan-naib-canselor-utm": {}
+                },
+                "20": {
+                    "kunci-pewarisan-harta-bekalan-ilmu-untuk-ibu-bapa": {},
+                    "sesi-read-relax-siri-1-2019-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-10-2019-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-20-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-3-2019-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-5-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-7-2019-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "21": {
+                    "sesi-read-relax-edisi-istimewa-sempena-minggu-rahmatan-lil-alamin": {}
+                },
+                "23": {
+                    "k-sharing-kenali-personaliti-melalui-buah-buahan": {},
+                    "libmast-platform-terkini-pencarian-maklumat": {},
+                    "pembangunan-koleksi-khazanah-intelektual-johor-di-perpustakaan-universiti-teknologi-malaysia-suatu-perkongsian": {},
+                    "program-book-review-siri-18-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-review-siri-8-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "staf-perpustakaan-prihatin-kongsi-rezeki-semasa-tempoh-pkp": {},
+                    "turnitin-webinar-training": {},
+                    "webinar-on-advanced-information-searching-skills": {}
+                },
+                "27": {
+                    "bicara-karya-dinar-emas-dirham-perak-menepati-keperluan-zaman": {},
+                    "book-sharing-siri-10-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "majlis-perasmian-ruang-new-books-display-perpustakaan-utm-kuala-lumpur": {},
+                    "staf-perpustakaan-utm-kuala-lumpur-teruskan-aktiviti-gotong-royong": {}
+                }
+            },
+            "08": {
+                "05": {
+                    "bengkel-mengkatalog-tesis-projek-sarjana-muda-mengikut-piawaian-rda-jabatan-perpustakaan": {}
+                },
+                "06": {
+                    "bicara-karya-taksub-dalam-pemikiran-melayu": {},
+                    "k-sharing-talk-about-russia-education-culture": {},
+                    "lawatan-ke-bangunan-perpustakaan-sultanah-zanariah-psz-utm-sepanjang-bulan-mac-2020": {},
+                    "mesyuarat-jawatankuasa-ketua-pustakawan-universiti-awam-malaysia": {},
+                    "program-book-sharing-siri-41-2019-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-townhall-kai-perpustakaan-utm-2020": {},
+                    "utm-library-in-collaboration-with-elsevier-organizing-research-writing-and-publication-workshop": {},
+                    "visit-from-mr-hikmet-gokhan-kilic": {}
+                },
+                "10": {
+                    "book-sharing-siri-11-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "book-sharing-siri-12-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "k-sharing-haji-yang-tertangguh": {}
+                },
+                "11": {
+                    "everest-dari-gunung-ke-sebuah-buku": {}
+                },
+                "24": {
+                    "ohhh-englishku-chit-chat-bersama-cikgu-kita": {}
+                }
+            },
+            "09": {
+                "02": {
+                    "mesyuarat-agung-kelab-keluarga-staf-perpustakaan-utm-sesi-2017-2019": {}
+                },
+                "06": {
+                    "book-sharing-siri-13-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "majlis-perasmian-azka-corner-utmkl-di-perpustakaan-utmkl": {},
+                    "sesi-read-relax-siri-14-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "07": {
+                    "bicara-santai-alumni-buku": {},
+                    "program-book-sharing-online-siri-1-2020-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "10": {
+                    "jerayawara-menyemarakkan-sambutan-50-tahun-rukun-negara-di-perpustakaan-utm": {}
+                },
+                "13": {
+                    "sembang-merdeka-malaysia-kita-punya": {},
+                    "sinergi-perpustakaan-utm-dan-persatuan-alumni-laksana-jerayawara": {}
+                },
+                "14": {
+                    "bekalan-elektrik-terputus-perkhidmatan-perpustakaan-terjejas": {},
+                    "book-sharing-siri-14-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "perkongsian-buku-staf-perpustakaan-siri-7-2020-utm-kuala-lumpur": {},
+                    "read-relax-online-edisi-kemerdekaan-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-online-siri-1-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-online-siri-2-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-online-siri-3-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-online-siri-4-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-online-siri-5-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-11-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-2-2019-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-7-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "22": {
+                    "galerium-utm-menyimpan-variasi-artifak-universiti": {},
+                    "program-k-sharing-utm-library-research-week-2020-embracing-the-new-normal-innovating-digital-library-services": {},
+                    "program-k-sharing-utm-library-research-week-2020-libatsama-komuniti-industri-berimpak": {},
+                    "radis-clinic-research-week-2020": {}
+                },
+                "23": {
+                    "research-canvas-competition-2020": {}
+                },
+                "27": {
+                    "program-k-sharing-utm-library-research-week-2020-makcik-kiah-19-inovasi-utm-bantu-frontliner-covid-19": {}
+                },
+                "28": {
+                    "k-sharing-utm-library-research-week-2020-drone-for-serious-hobbyist": {}
+                },
+                "30": {
+                    "book-sharing-siri-15-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "perkongsian-buku-staf-perpustakaan-siri-8-2020-utm-kuala-lumpur": {}
+                }
+            },
+            "10": {
+                "01": {
+                    "program-csr-perpustakaan-utm-kuala-lumpur-sinergi-bersama-perpustakaan-negara-malaysia": {}
+                },
+                "04": {
+                    "perkongsian-buku-staf-perpustakaan-siri-9-2020-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-16-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "07": {
+                    "program-bicara-karya-meja-17": {}
+                },
+                "14": {
+                    "book-sharing-siri-16-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "perkongsian-buku-staf-perpustakaan-siri-10-2020-utm-kuala-lumpur": {}
+                },
+                "15": {
+                    "ksharing-gangguan-seksual-di-tempat-kerja": {},
+                    "pameran-alat-bantu-mengajar-teknologi-perkakasan-utm-1970-an-1990-an-meraikan-tiga-dekad-aktiviti-pengajaran-pembelajaran-dan-penyelidikan-utm": {}
+                },
+                "21": {
+                    "dms-vs-utm-ir-pencarian-bahan-ilmiah-sokong-pengajaran-pembelajaran-dan-penyelidikan": {}
+                },
+                "26": {
+                    "book-sharing-siri-17-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "pameran-fotografi-sebelum-selepas-teknik-pemuliharaan": {}
+                }
+            },
+            "11": {
+                "02": {
+                    "program-k-sharing-anak-utm-di-bumi-uncle-sam-menimba-pengalaman-sebagai-bakal-pendidik": {},
+                    "program-k-sharing-dilema-anak-muda-antara-kerjaya-orang-tua-dan-perkahwinan-bersediakah-mereka-menempuh-hari-mendatang": {},
+                    "sesi-read-relax-bersama-mahasiswa-sempena-hari-kokurikulum": {},
+                    "sesi-read-relax-online-bersama-mahasiswa-utm-siri-1-2020": {},
+                    "sesi-read-relax-online-siri-6-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-online-siri-8-2020-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "03": {
+                    "perkongsian-ilmu-nak-stress-ke-tidak": {},
+                    "program-perkongsian-maulidur-rasul-rasulullah-role-model-amalan-membaca": {}
+                },
+                "05": {
+                    "k-sharing-ada-apa-dengan-library": {}
+                },
+                "08": {
+                    "sesi-read-relax-online-siri-17-2020-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "10": {
+                    "sesi-read-relax-siri-12-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-15-2020-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "11": {
+                    "sesi-read-relax-online-siri-10-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-online-siri-13-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-online-siri-2-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-online-siri-4-2020-bangunan-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-online-siri-6-2020-bangunan-perpustakaan-raja-zarith-sofiah-2": {},
+                    "sesi-read-relax-online-siri-8-2020-bangunan-perpustakaan-raja-zarith-sofiah-2": {}
+                },
+                "15": {
+                    "book-sharing-siri-18-2020-perpustakaan-utm-kuala-lumpur": {},
+                    "latihan-standard-people-practice-spp-teknik-menjawab-panggilan-telefon": {}
+                },
+                "23": {
+                    "norma-baharu-hari-bersama-pelanggan-jabatan-perpustakaan-utm": {}
+                },
+                "25": {
+                    "anjakan-paradigma-perkhidmatan-perpustakaan-pasca-covid-19": {}
+                },
+                "26": {
+                    "book-sharing-siri-19-2020-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "12": {
+                "01": {
+                    "user-education-and-publisher-webinars-for-august-2020": {},
+                    "user-education-and-publisher-webinars-for-july-2020": {},
+                    "user-education-and-publisher-webinars-for-october-2020": {},
+                    "user-education-and-publisher-webinars-for-september-2020": {},
+                    "user-education-webinars-for-november-2020": {}
+                },
+                "07": {
+                    "program-jom-selamatkan-buku": {},
+                    "sesi-read-relax-siri-18-2020-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "08": {
+                    "majlis-penghargaan-hi-tea-jabatan-perpustakaan-utm-bersama-jabatan-harta-bina": {},
+                    "pembangunan-sistem-pengurusan-perpustakaan-sumber-terbuka-koha-di-smk-tuanku-abdul-rahman-putra-kulai-johor": {}
+                },
+                "15": {
+                    "program-book-sharing-siri-20-2020-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "24": {
+                    "program-semarak-dekad-membaca": {},
+                    "sesi-read-relax-siri-19-2020-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "utm-reading-station-utmrs-perpustakaan-utm-berwajah-baharu": {}
+                },
+                "29": {
+                    "utm-library-webinars-for-december-2020": {}
+                }
+            }
+        },
+        "2021": {
+            "01": {
+                "03": {
+                    "melonjak-ke-langit-2021-bersama-sepatu-hijrah": {}
+                },
+                "04": {
+                    "online-global-classroom-ogc-inisiatif-utm-memenuhi-keperluan-mahasiswa": {},
+                    "read-relax-edisi-khas-2020": {}
+                },
+                "10": {
+                    "program-book-sharing-siri-1-2021-utm-kuala-lumpur": {}
+                },
+                "12": {
+                    "bicara-karya-berkenalan-dengan-rusia": {}
+                },
+                "18": {
+                    "bengkel-latihan-instructor-turnitin": {},
+                    "sesi-read-relax-siri-1-2021-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "taklimat-data-penerbitan-dan-radis-kepada-pustakawan-utm-kuala-lumpur": {}
+                },
+                "24": {
+                    "program-book-sharing-siri-2-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "27": {
+                    "pemenang-pertandingan-mencipta-nama-baharu-sistem-katalog-atas-talian-opac-perpustakaan-utm-2020": {}
+                },
+                "31": {
+                    "program-bicara-karya-sastera-matematik-katabaku": {}
+                }
+            },
+            "02": {
+                "03": {
+                    "ocean-inovasi-berani-pembangunan-sistem-perpustakaan-baru-utm-berasaskan-sumber-terbuka": {},
+                    "utm-virtual-gallery-gerbang-maya-utm-di-persada-dunia": {}
+                },
+                "07": {
+                    "jabatan-perpustakaan-utm-berjaya-melepasi-audit-pematuhan-iso-90012015-norma-baharu-dengan-cemerlang": {},
+                    "sesi-read-relax-siri-2-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "15": {
+                    "program-book-sharing-siri-3-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "18": {
+                    "pelanjutan-tempoh-peminjaman-bahan-secara-automatik": {}
+                },
+                "21": {
+                    "kintsugi-embrace-your-imperfection": {}
+                },
+                "22": {
+                    "ma-oon-rizal-cikgu-malaysia-di-finland": {}
+                },
+                "28": {
+                    "bicara-informasi-bersama-pustakawan": {},
+                    "program-book-sharing-siri-4-2021-perpustakaan-utm-kuala-lumpur": {},
+                    "sumbangan-buku-daripada-ybhg-tan-sri-dr-salleh-mohd-nor-pro-canselor-utm": {}
+                }
+            },
+            "03": {
+                "07": {
+                    "program-bicara-karya-brave-leadership": {}
+                },
+                "08": {
+                    "persidangan-pustakawan-jabatan-perpustakaan-utm-2021": {}
+                },
+                "09": {
+                    "sesi-read-relax-siri-3-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "11": {
+                    "program-book-sharing-siri-5-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "17": {
+                    "matron-saya-nak-resign": {}
+                },
+                "18": {
+                    "choose-to-challenge-kepok-lekor-di-bumi-ireland": {}
+                },
+                "21": {
+                    "majlis-penyampaian-hadiah-pemenang-pertandingan-mencipta-nama-baharu-sistem-katalog-atas-talian-opac-perpustakaan-utm-2020": {},
+                    "work-life-of-women-in-malaysia-issues-and-challenges": {}
+                },
+                "24": {
+                    "kelas-kemahiran-sarjana-muda-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-4-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "28": {
+                    "program-book-sharing-siri-6-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "30": {
+                    "memperkasakan-koleksi-khas-pendigitalan-dan-akses-kepada-fotograf-koleksi-khas": {}
+                }
+            },
+            "04": {
+                "04": {
+                    "normalizing-open-science-are-researchers-ready-to-share": {}
+                },
+                "07": {
+                    "host-teknik-pengacara-pro": {},
+                    "lelah-menjadi-lillah-kerjaya-sebagai-frontliners": {}
+                },
+                "08": {
+                    "user-education-webinars-for-march-2021": {}
+                },
+                "14": {
+                    "diet-pada-bulan-ramadhan": {}
+                },
+                "18": {
+                    "program-khidmat-masyarakat-perpustakaan-utm-di-madrasah-tahfiz-al-jauhar-kota-tinggi-johor": {}
+                },
+                "19": {
+                    "goswiet-journey-from-research-development-to-commercialization": {},
+                    "majlis-menandatangani-memorandum-persefahaman-mou-antara-universiti-teknologi-malaysia-dan-malay-agricultural-settlement-mas-kampong-bharu": {}
+                },
+                "20": {
+                    "open-science-librarians-roles-and-opportunites": {}
+                },
+                "21": {
+                    "program-bersama-pelanggan-utm-2021-jabatan-perpustakaan-utm": {},
+                    "read-relax-siri-5-2021-perpustakaan-sultanah-zanariah": {}
+                },
+                "22": {
+                    "pameran-maya-yang-pertama": {}
+                },
+                "26": {
+                    "program-sehari-bersama-pustakawan-universiti-awam": {}
+                },
+                "27": {
+                    "grab-blues-ceo-jadi-pemandu": {},
+                    "majlis-amanat-ketua-pustakawan-dan-persaraan-staf-2021": {}
+                },
+                "29": {
+                    "ingin-cantik-sihat-dan-selamat-pilihan-di-tangan-anda": {}
+                }
+            },
+            "05": {
+                "03": {
+                    "sesi-read-relax-siri-6-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "09": {
+                    "program-book-sharing-siri-7-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "17": {
+                    "program-k-sharing-tunaikan-zakat-sebelum-terlambat": {}
+                },
+                "18": {
+                    "bicara-karya-inspirasi-murabbi": {}
+                },
+                "24": {
+                    "supporting-your-research-webinar-series-for-april-2021": {},
+                    "supporting-your-research-webinar-series-for-march-2021": {},
+                    "user-education-webinars-for-april-2021": {}
+                },
+                "27": {
+                    "supporting-your-research-webinar-series-for-may-2021": {}
+                },
+                "30": {
+                    "program-book-sharing-siri-8-2021-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "06": {
+                "02": {
+                    "user-education-webinars-for-may-2021": {}
+                },
+                "03": {
+                    "k-sharing-hikmah-aidilfitri-norma-baharu": {}
+                },
+                "06": {
+                    "turnitin-workshop-for-students": {}
+                },
+                "08": {
+                    "sesi-pertemuan-bersama-staf-perpustakaan-utmkl": {},
+                    "sesi-read-relax-siri-7-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "10": {
+                    "perkongsian-buku-staf-perpustakaan-utmkl-siri-1-2021": {}
+                },
+                "13": {
+                    "program-book-sharing-siri-9-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "14": {
+                    "bengkel-penambahbaikan-librarian-online-chat": {},
+                    "where-to-publish-identifying-the-right-journal-for-your-research": {}
+                },
+                "17": {
+                    "perkongsian-buku-staf-perpustakaan-utmkl-siri-2-2021": {}
+                },
+                "20": {
+                    "refresher-course-librarian-online-chat": {}
+                },
+                "21": {
+                    "perpustakaan-utm-kuala-lumpur-selangkah-ke-persidangan-tahunan-perpustakaan-malaysia-ptpm-2021": {}
+                },
+                "23": {
+                    "supporting-your-research-webinar-series-for-june-2021": {}
+                },
+                "24": {
+                    "kksputm-prihatin-teruskan-usaha-membantu-staf-perpustakaan-utm-pkp-3-0": {},
+                    "read-relax-siri-8-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "27": {
+                    "perkongsian-buku-staf-perpustakaan-utm-kuala-lumpur-siri-3-2021": {},
+                    "program-book-sharing-siri-10-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "28": {
+                    "perolehan-unit-jurnal-dan-media-elektronik": {}
+                }
+            },
+            "07": {
+                "06": {
+                    "sesi-read-relax-siri-9-2021-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "taklimat-modul-penerbitan-radis-4-0": {}
+                },
+                "07": {
+                    "perkongsian-buku-staf-perpustakaan-utmkl-siri-4-2021": {}
+                },
+                "14": {
+                    "program-book-sharing-siri-11-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "18": {
+                    "perkongsian-buku-staf-perpustakaan-utmkl-siri-5-2021": {}
+                },
+                "21": {
+                    "majlis-penghargaan-dan-perpisahan-staf-perpustakaan-utmkl": {},
+                    "sesi-read-relax-siri-10-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "25": {
+                    "perkongsian-buku-staf-perpustakaan-utmkl-siri-6-2021": {},
+                    "program-book-sharing-siri-12-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "29": {
+                    "supporting-your-research-webinar-serieslexis-advance-malaysia": {}
+                }
+            },
+            "08": {
+                "02": {
+                    "minggu-mesra-mahasiswa-3m-2021": {},
+                    "pembentangan-latihan-industri-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "03": {
+                    "sesi-read-relax-siri-11-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "04": {
+                    "smart-belanja-dalam-norma-baharu": {}
+                },
+                "12": {
+                    "librarians-talk-series-i-pustakawan-ict-hala-tuju-masa-depan-perpustakaan": {}
+                },
+                "16": {
+                    "sesi-read-relax-siri-12-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "23": {
+                    "program-book-sharing-siri-13-2021-perpustakaan-utm-kuala-lumpur": {},
+                    "turnitin-webinar-for-instructors": {}
+                },
+                "25": {
+                    "audit-eac-engineering-accreditation-council-malaysia": {},
+                    "program-membangun-personaliti-unggul-mpu-sempena-sambutan-hari-kebangsaan-ke-64-nuri-diburu-bukan-pemburu": {}
+                },
+                "26": {
+                    "librarians-talk-series-ii-anjakan-perkhidmatan-perpustakaan-era-vuca": {}
+                }
+            },
+            "09": {
+                "01": {
+                    "bicara-buku-bersama-prof-dr-durrishah-idrus": {}
+                },
+                "05": {
+                    "program-book-sharing-siri-14-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "07": {
+                    "quarantine-book-sharingksj-siri-1-2021": {},
+                    "quarantine-book-sharingksj-siri-2-2021": {}
+                },
+                "09": {
+                    "pertandingan-foto-merdeka-anjuran-kelab-keluarga-staf-perpustakaan-utm-kksputm": {}
+                },
+                "14": {
+                    "quarantine-book-sharingksj-siri-3-2021": {}
+                },
+                "23": {
+                    "program-bicara-merdeka-menyusuri-jalan-merdeka-melihat-ke-hadapan": {}
+                },
+                "26": {
+                    "program-book-sharing-siri-15-2021-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "10": {
+                "03": {
+                    "avoiding-the-pitfalls-of-publishing-in-predatory-journals-using-the-new-journal-citation-reports": {},
+                    "best-practices-in-submitting-research-for-highly-selective-journals": {},
+                    "efficient-research-discovery-with-the-new-web-of-science-by-clarivate": {},
+                    "how-to-identify-a-journal-to-publish-in-workshop": {},
+                    "one-stop-solution-to-all-your-research-funding-needs-funding-institutional-from-elsevier": {}
+                },
+                "05": {
+                    "aktiviti-pembersihan-lalu-treking-hutan-rekreasi-utm": {},
+                    "malaysia-merdeka-sebuah-catatan-kenangan": {},
+                    "membina-antibodi-jiwa-menghadapi-pembelajaran-norma-baharu": {},
+                    "penyelidikan-ke-bisnes-perspektif-pelajar": {},
+                    "sesi-read-relax-siri-13-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "06": {
+                    "keseimbangan-alam-sekitar-dan-pembangunan-komuniti-johor": {},
+                    "projek-bangsa-johor-bahagia-untuk-pembangunan-komuniti": {},
+                    "researchutm-where-are-we-heading": {}
+                },
+                "12": {
+                    "bicara-karya-aku-menyelam-untuk-hidup": {},
+                    "majlis-penutup-utm-library-research-weeks-2021": {},
+                    "research-canvas-competition-2021": {}
+                },
+                "17": {
+                    "k-sharing-fahami-sdgs-dalam-era-digital-dokumentasi": {}
+                },
+                "18": {
+                    "program-bicara-karya-wooden-wonders-traditional-malaysian-fishing-boats": {}
+                },
+                "21": {
+                    "k-sharing-bibliometric-analysis-using-vosviewer": {}
+                },
+                "24": {
+                    "program-book-sharing-siri-16-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "25": {
+                    "bicara-karya-merungkai-sejarah-pagoh": {}
+                },
+                "31": {
+                    "program-ceramah-bersempena-sambutan-maulidur-rasul-agar-kerjaku-diberkati": {}
+                }
+            },
+            "11": {
+                "01": {
+                    "librarians-talk-series-iii-pembangunan-pengurusan-koleksi-galeri-universiti-cabaran-inisiatif": {}
+                },
+                "02": {
+                    "sesi-read-relax-siri-14-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "07": {
+                    "sesi-perkongsian-penggunaan-aplikasi-streamyard": {}
+                },
+                "10": {
+                    "user-education-program-challenges-during-covid-19-pandemic": {}
+                },
+                "14": {
+                    "program-book-sharing-siri-17-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "17": {
+                    "hari-bersama-pelanggan-2021-jabatan-perpustakaan-utm": {},
+                    "program-khidmat-masyarakat-pusat-sumber-masjid-daing-abdul-rahman-nusa-idaman-nusajaya": {}
+                },
+                "21": {
+                    "program-kayuhan-lestari-perpustakaan-utm": {}
+                },
+                "22": {
+                    "enabling-research-and-learning-with-utm-on-sciencedirect-for-november-2021": {},
+                    "librarians-talk-series-iv-peranan-pustakawan-dalam-pengurusan-penerbitan-universiti-penyelidikan": {},
+                    "sesi-read-relax-siri-15-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "25": {
+                    "k-sharing-persediaan-memilih-kerjaya-ketika-fasa-endemik": {},
+                    "lawatan-dr-ghazali-mohamed-fadzil-ke-perpustakaan-utm-johor-bahru": {},
+                    "webinar-introduction-to-statista": {}
+                },
+                "30": {
+                    "bengkel-management-retreat-finding-niche-standard-absolute": {},
+                    "pustakawan-baharu-perpustakaan-utm-hadiri-bengkel-katalog-tesis": {}
+                }
+            },
+            "12": {
+                "02": {
+                    "bengkel-wordpress-galleryutmkl-kepada-malay-agricultural-settlement-mas-kampong-bharu": {},
+                    "jerayawara-pepustakaan-utmkl-sempena-mesyuarat-agung-tahunan-persatuan-alumni-utm": {},
+                    "program-booksharing-siri-18-2021-perpustakaan-utm-kuala-lumpur": {},
+                    "program-siri-jelajah-perpustakaan-di-fakulti-sains-secara-dalam-talian": {}
+                },
+                "06": {
+                    "sesi-read-relax-siri-16-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "08": {
+                    "bicara-karya-nirnama": {}
+                },
+                "09": {
+                    "user-education-webinars-for-november-2021": {},
+                    "user-education-webinars-for-october-2021": {}
+                },
+                "12": {
+                    "virtual-exhibition-history-and-traditions-decades-old-utm-convocation-1970s-1990s": {}
+                },
+                "13": {
+                    "bicara-karya-cidb-construction-law-report-2020": {},
+                    "majlis-apresiasi-staf-jabatan-perpustakaan-utm-2019-2020": {},
+                    "program-booksharing-siri-19-2021-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "14": {
+                    "perpustakaan-utm-perkasa-tabiat-membaca-menerusi-program-read-relax": {}
+                },
+                "20": {
+                    "bengkel-leadership-for-librarian": {},
+                    "bengkel-pengurusan-komunikasi-perhubungan-pelanggan": {},
+                    "perjumpaan-ketua-pustakawan-bersama-staf-jabatan-perpustakaan-utm": {}
+                },
+                "22": {
+                    "lawatan-pro-canselor-utm-tan-sri-dr-salleh-bin-mohd-nor-ke-perpustakaan-sultanah-zanariah-johor-bahru": {},
+                    "sesi-read-relax-siri-17-2021-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "26": {
+                    "program-book-sharing-siri-20-2021-perpustakaan-utm-kuala-lumpur": {}
+                }
+            }
+        },
+        "2022": {
+            "01": {
+                "02": {
+                    "karnival-sukan-piala-ketua-pustakawan": {}
+                },
+                "03": {
+                    "k-sharing-mengangkasa-2022-di-sebalik-sayap-tuah-teja": {},
+                    "read-relax-edisi-khas-penutup-2021-perpustakaan-utm": {}
+                },
+                "04": {
+                    "user-education-webinars-for-december-2021": {}
+                },
+                "05": {
+                    "bicara-informasi-bersama-pustakawan-utm-kuala-lumpur": {},
+                    "k-sharing-from-stochastic-process-to-uncertainty-quantification": {}
+                },
+                "06": {
+                    "hari-kokurikulum-mingguan-utm-my-favourite-book": {},
+                    "majlis-persaraan-en-mohd-nasir-ibrahim-ketua-seksyen-pengurusan-koleksi": {}
+                },
+                "10": {
+                    "bengkel-perkongsian-buku-teknik-eksplorasi-buku-berkesan": {}
+                },
+                "11": {
+                    "sumbangan-buku-perpustakaan-utm-johor-bahru-kuala-lumpur": {}
+                },
+                "13": {
+                    "bicara-karya-muhammad-11-leadership-qualities-that-changed-the-world": {},
+                    "supporting-your-research-webinar-series-for-january-2022": {}
+                },
+                "17": {
+                    "k-sharing-understanding-science-a-cognitive-science-perspective": {}
+                },
+                "19": {
+                    "sesi-read-relax-siri-1-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "23": {
+                    "lawatan-secara-maya-bagi-akreditasi-semula-program-akademik-prasiswazah-program-sarjana-muda-kejuruteraan-geomatik": {},
+                    "program-book-sharing-siri-1-2022-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "02": {
+                "06": {
+                    "program-bicara-karya-ustazah-basikal": {}
+                },
+                "11": {
+                    "sesi-read-relax-siri-2-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "13": {
+                    "k-sharing-alahai-banjir-termenung": {},
+                    "k-sharing-laughter-is-the-best-medicine": {},
+                    "majlis-amanat-ketua-pustakawan-2022-dan-persaraan-staf": {},
+                    "program-book-sharing-siri-2-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "20": {
+                    "program-bicara-karya-strategi-lautan-biru": {},
+                    "supporting-your-research-webinar-series-2022-al-mandumah-webinar": {}
+                },
+                "22": {
+                    "booksharingutmkl-siri-3-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "23": {
+                    "audit-pematuhan-iso-90012015-perpustakaan-utm-secara-maya": {},
+                    "di-sebalik-tabir-aktiviti-jilidan-di-perpustakaan-utm": {}
+                },
+                "27": {
+                    "supporting-your-research-webinar-series-acm-asme": {}
+                }
+            },
+            "03": {
+                "01": {
+                    "program-k-sharing-spring-cleaning-rumahku-syurgaku": {},
+                    "program-libat-urus-pro-naib-canselor-utm-kuala-lumpur-bersama-pengurusan-perpustakaan-utm-kuala-lumpur-hala-tuju-envision-2022": {}
+                },
+                "02": {
+                    "program-bicara-karya-a-spoonful-of-pain": {}
+                },
+                "06": {
+                    "ksharing-big-data-visualization-challenges-and-tools": {},
+                    "mydin-disebalik-empayar-perniagaan": {}
+                },
+                "07": {
+                    "persidangan-pustakawan-jabatan-perpustakaan-utm-2022": {}
+                },
+                "15": {
+                    "program-k-sharing-sempena-hari-wanita-wanita-sayangi-dirimu": {},
+                    "program-k-sharing-undi-18-dalam-prn-johor-suatu-diskusi-umum": {}
+                },
+                "17": {
+                    "ksharing-practical-sharing-on-simple-ways-towards-a-healthier-lifestyle-food-eating-habit": {},
+                    "pelancaran-buku-sedekad-transformasi-utm-kuala-lumpur-2010-2020-sempena-program-disini-bermula-gemilang-utmkl": {},
+                    "program-k-sharing-sempena-hari-wanita-hikmah-saksama-bersama": {}
+                },
+                "20": {
+                    "program-book-sharing-siri-4-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "supporting-your-research-webinar-series-turnitin-for-instructors": {}
+                },
+                "21": {
+                    "k-sharing-minyak-masak-terpakai-apa-nak-buat": {},
+                    "program-k-sharing-sempena-hari-wanita-bila-wanita-memimpin": {}
+                },
+                "24": {
+                    "majlis-perasmian-pameran-seni-khat-jawi-2022": {},
+                    "program-k-sharing-sempena-hari-wanita-cipta-kelainan-wanita-dan-kerjaya": {}
+                },
+                "28": {
+                    "pemenang-ketiga-kik-ke-14-peringkat-utm-pengurusan-lejar-mengambil-masa-yang-lama": {}
+                },
+                "30": {
+                    "read-relax-siri-4-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "31": {
+                    "sumbangan-buku-perpustakaan-utm-januari-mac-2022": {}
+                }
+            },
+            "04": {
+                "04": {
+                    "program-book-sharing-siri-5-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "program-kempen-100-juta-penanaman-pokok": {}
+                },
+                "05": {
+                    "lawatan-pengesahan-audit-eac-engineering-accreditation-council-kursus-mpe-ese-mjiit": {}
+                },
+                "07": {
+                    "audit-keselamatan-pekerjaan-akkp-2021": {},
+                    "taklimat-kampus-lestari-kesedaran-dan-peranan-perpustakaan": {}
+                },
+                "13": {
+                    "majlis-penutup-pameran-dan-seminar-seni-khat-jawi-utm-2022": {}
+                },
+                "14": {
+                    "sesi-read-relax-siri-5-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "siri-khas-perkongsian-ilmu-bersama-akademi-zakat-dan-pusat-pungutan-zakat": {}
+                },
+                "17": {
+                    "k-sharing-ajaibnya-sedekah-subuh": {}
+                },
+                "24": {
+                    "ksharing-mathematical-challenges-from-complex-modelling-to-big-data-analytics": {}
+                },
+                "26": {
+                    "program-bicara-karya-kekok": {},
+                    "read-relax-edisi-khas-sempena-sesi-jom-baca-bersama-10-minit-2022": {}
+                },
+                "27": {
+                    "siri-bicara-pengurusan-2022-lets-catch-up-update-from-utm-library-kuala-lumpur": {}
+                }
+            },
+            "05": {
+                "08": {
+                    "supporting-your-research-webinar-informit": {}
+                },
+                "09": {
+                    "kursus-data-analytic-visualization": {},
+                    "user-education-webinar-for-april-2022": {}
+                },
+                "23": {
+                    "read-relax-siri-3-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "supporting-your-research-webinar-proquest-dissertation-and-theses-global": {}
+                },
+                "25": {
+                    "librarians-talk-edisi-khas-hidden-treasures-of-a-library-the-high-impact-services-to-the-society": {},
+                    "program-bicara-karya-melakukan-yang-terbaik-dalam-dunia-pekerjaan": {},
+                    "sesi-lawatan-fasiliti-bagi-audit-akreditasi-program-pengajian-separuh-masa-utmspace": {}
+                },
+                "30": {
+                    "lestari-talk-energy-efficiency-the-journey-of-self-discovery": {}
+                }
+            },
+            "06": {
+                "01": {
+                    "kejohanan-catur-terbuka-piala-tan-sri-dr-salleh-mohd-nor-pro-canselor-utm": {},
+                    "user-education-webinar-for-may-2022": {}
+                },
+                "02": {
+                    "hari-kokurikulum-mingguan-utm-penulisan-cerpen-dan-anekdot": {}
+                },
+                "07": {
+                    "audit-akreditasi-program-diploma-ukur-tanah": {}
+                },
+                "13": {
+                    "lawatan-student-recruitment-and-admission-division-srad-utm-wakil-somalia-cable-tv": {},
+                    "program-book-sharing-siri-6-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "14": {
+                    "read-relax-siri-7-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "21": {
+                    "program-bicara-karya-preview-utm-penyelidikan-berimpak-mensejahtera-masyarakat": {},
+                    "program-read-relax-siri-8-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "supporting-your-research-webinar-series-invites-ieee-xplore": {}
+                },
+                "28": {
+                    "lawatan-akademik-pelajar-unimas-ke-perpustakaan-utm": {},
+                    "program-book-sharing-siri-7-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "29": {
+                    "librarians-talk-series-v-multimedia-peranan-perpustakaan-utm": {}
+                }
+            },
+            "07": {
+                "04": {
+                    "forum-bicara-inspirasi-bersama-tokoh-utm": {},
+                    "program-bicara-karya-berani-speaking": {}
+                },
+                "05": {
+                    "program-k-sharing-jom-kitar-sisa-dapur": {}
+                },
+                "06": {
+                    "jerayawara-pemulangan-pembaharuan-peminjaman-buku-di-perpustakaan-fakulti-utm": {},
+                    "kemahiran-asas-metodologi-penyelidikan": {},
+                    "kursus-kewangan-psz-prosedur-pengurusan-perolehan-universiti": {},
+                    "kursus-pengurusan-risiko-iso-90012015": {},
+                    "program-bicara-karya-malaysia-land-law-and-procedure": {},
+                    "read-relax-siri-9-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "07": {
+                    "bengkel-refresher-course-dokumentasi-spk-jabatan-perpustakaan-kepada-pemilik-proses-dan-juruaudit": {}
+                },
+                "17": {
+                    "pameran-maya-sejarah-johor-perpustakaan-utm": {},
+                    "program-bicara-karya-faktor-yang-mempengaruhi-pembayaran-zakat-dari-institusi-korporat": {},
+                    "program-book-sharing-siri-8-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "supporting-your-research-webinar-series-invites-strengthening-research-quality-in-high-impact-journal": {},
+                    "user-education-webinar-for-june-2022": {}
+                },
+                "18": {
+                    "kursus-kemahiran-komunikasi-melalui-teknologi-dalam-literasi-maklumat": {},
+                    "kursus-kemahiran-teknik-perkhidmatan-rujukan-dan-penyelidikan-retrieve-evaluate-information": {},
+                    "kursus-pengenalan-ekosistem-penyelidikan-di-fakulti": {},
+                    "kursus-pengenalan-kepada-harta-intelek-paten-dan-hak-cipta": {}
+                },
+                "20": {
+                    "supporting-your-research-webinar-series-eikon-datastream": {}
+                },
+                "24": {
+                    "program-book-sharing-siri-9-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "26": {
+                    "sumbangan-buku-perpustakaan-utm-april-jun-2022": {}
+                },
+                "27": {
+                    "supporting-your-research-webinar-series-turnitin-for-instructors-2": {}
+                },
+                "29": {
+                    "program-bicara-karya-ghostpital-dan-anekdot-antidot": {}
+                },
+                "31": {
+                    "bengkel-knowledge-management-expert": {},
+                    "jom-baca-bersama-10-minit-tahun-2022": {},
+                    "kemahiran-pengurusan-data-penerbitan-penyelidikan-analisa-data-penyelidikan": {},
+                    "kursus-pengenalan-kepada-rdci-di-fakulti-kejuruteraan": {},
+                    "kursus-pengenalan-kepada-research-data-management-rdm": {},
+                    "library-lounge-perpustakaan-utm-berwajah-baharu": {},
+                    "perpustakaan-utm-menang-tempat-pertama-pertandingan-sdg": {},
+                    "siri-bicara-pengurusan-memperkasa-institusi-ilmu-pengetahuan-universiti": {},
+                    "siri-bicara-pengurusan-perancangan-halatuju-teknologi-maklumat-sistem-automasi-releven-kepada-pengguna-cabaran-kepakaran-it-dalam-pustakawan": {}
+                }
+            },
+            "08": {
+                "03": {
+                    "lawatan-pm-dr-suayip-turan-dari-cankiri-karatekin-university-turkey": {}
+                },
+                "04": {
+                    "lawatan-mahasiswa-baharu-program-diploma-sesi-2022-2023": {},
+                    "lawatan-presiden-persatuan-pustakawan-malaysia-ke-perpustakaan-utm-kuala-lumpur": {},
+                    "librarians-talk-series-vi-memperkasa-ilmu-pengetahuan-institusi-utm": {},
+                    "program-gotong-royong-bil-2-2022-di-perpustakaan-utm-kuala-lumpur": {},
+                    "program-minggu-mesra-mahasiswa-3m-diploma-dan-asasi-sesi-2022-2023": {}
+                },
+                "08": {
+                    "lestari-talk-series-iii-water-water-everywhere-so-why-bother-to-save-water": {},
+                    "program-book-sharing-siri-10-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "siri-bicara-pengurusan-perkhidmatan-jabatan-perpustakaan-utm": {}
+                },
+                "15": {
+                    "program-read-relax-siri-11-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "user-education-webinar-for-july-2022": {}
+                },
+                "17": {
+                    "pameran-sempena-sambutan-50-tahun-utm-utmkl-highlights": {}
+                },
+                "18": {
+                    "program-bicara-karya-main-dan-cakap": {},
+                    "siri-read-relax-siri-12-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "springer-nature-hybrid-session-details-impact-of-springer-ebooks-in-universiti-teknologi-malaysia": {},
+                    "supporting-your-research-webinar-series-invites-lexis-advance-malaysia": {}
+                },
+                "22": {
+                    "majlis-penghargaan-penulisan-buku-bertajuk-utm-memasyarakatkan-penyelidikan-mensejahtera-masyarakat": {}
+                }
+            },
+            "09": {
+                "19": {
+                    "siri-bicara-pengurusan-bil-6-2022-bahagian-perancangan-pembangunan": {}
+                }
+            },
+            "10": {
+                "17": {
+                    "how-to-produce-highly-visible-research-useful-tips-for-researchers": {},
+                    "kampong-bharu-talk-perjalanan-sebagai-bandar-melayu-moden": {},
+                    "lawatan-sekolah-kebangsaan-taman-nusa-damai-pasir-gudang-johor": {},
+                    "majlis-penghargaan-pertandingan-sustainable-development-goals": {},
+                    "pameran-koleksi-khazanah-warisan-universiti-ilmu-pengetahuan-institusi": {},
+                    "perpustakaan-utm-kuala-lumpur-sebagai-salah-satu-lokasi-bagi-xplorace-merdeka-utmkl-2022": {},
+                    "program-audit-pensijilan-semula-recertification-audit-iso-9001-2015-tahun-2022-jabatan-perpustakaan-utm": {},
+                    "program-bicara-karya-cabaran-65-tahun-malaysia-merdeka": {},
+                    "program-book-sharing-siri-11-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "program-membangun-personaliti-unggul-mpu-bicara-tokoh-tan-sri-ainuddin-wahid": {},
+                    "program-pengumpulan-ewaste-perpustakaan-utm": {},
+                    "radis-clinic-webinar-publication-module-in-conjunction-with-utm-library-research-weeks-2022": {},
+                    "read-relax-siri-13-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "read-relax-siri-16-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "track-more-of-your-research-impact-by-clarivate": {},
+                    "user-education-webinar-for-august-2022": {},
+                    "what-constitutes-an-impactful-and-highly-visible-manuscript-when-looking-to-publish": {}
+                },
+                "18": {
+                    "kempen-check-out-and-redeem-your-mystery-gift": {},
+                    "program-bicara-karya-my-johor-stories-ah-fook": {},
+                    "program-book-sharing-siri-12-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "program-jejak-maklumat-merdeka-2022": {},
+                    "program-khidmat-masyarakat-di-tanjung-gahai-ulu-jelai-kuala-lipis-pahang": {},
+                    "program-khidmat-masyarakat-perpustakaan-utm-di-perkampungan-orang-asli-kg-batu-peti-negeri-sembilan": {},
+                    "program-khidmat-masyarakat-transliterasi-braille-satu-aksara-sejuta-amalan": {},
+                    "supporting-your-research-webinar-series-2022-springer-nature": {}
+                },
+                "19": {
+                    "kejohanan-asia-bowls-championship-for-the-disabled-2022": {},
+                    "program-baca-santai-karnival-irama-bentala-daksina-sempena-dekad-bahasa-kebangsaan-negeri-johor": {},
+                    "program-bicara-karya-integriti-dalam-perkhidmatan-awam-malaysia": {},
+                    "program-k-sharing-sempena-hari-wanita-kerohanian-dalam-memperkasa-wanita": {},
+                    "program-khidmat-masyarakat-di-perkampungan-orang-asli-kg-pasir-salam-ulu-tiram-johor": {},
+                    "pustakawan-utm-sertai-persidangan-tahunan-perpustakaan-malaysia-2022": {},
+                    "supporting-your-research-webinar-series-turnitin-for-instructors-for-october-2022": {}
+                },
+                "20": {
+                    "lawatan-pelajar-sekolah-kebangsaan-sri-permai-jheoa-gua-musang-kelantan": {}
+                },
+                "26": {
+                    "ksharing-from-lab-to-prototype-research-challenges-and-opportunities-in-biomass-processing-technology-within-the-circular-bioeconomy": {},
+                    "siri-bicara-pengurusan-pemantapan-dan-cabaran-dalam-pembangunan-sumber-koleksi-perpustakaan-utm": {}
+                },
+                "27": {
+                    "siri-bicara-pengurusan-ilmu-pengetahuan-institusi-koleksi-khas-repositori-dan-galeri": {}
+                },
+                "31": {
+                    "sumbangan-buku-perpustakaan-utm-julai-spetember-2022": {}
+                }
+            },
+            "11": {
+                "03": {
+                    "forum-bicara-inspirasi-legasi-kejayaan-utm": {},
+                    "lestari-talk-series-iv-harmonious-living-through-sustainability-and-carbon-reduction": {}
+                },
+                "06": {
+                    "bicara-inspirasi-bersama-tokoh-utm-jati-diri-cabaran-peluang-mahasiswa-masa-kini": {}
+                },
+                "13": {
+                    "program-baca-santai-di-karnival-irama-bentala-daksina-sempena-dekad-bahasa-kebangsaan-negeri-johor-2022": {}
+                },
+                "17": {
+                    "majlis-apresiasi-staf-jabatan-perpustakaan-utm-tahun-2021": {},
+                    "otec-renewable-energy-for-sustainable-development": {},
+                    "program-book-sharing-siri-13-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-18-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "21": {
+                    "sesi-read-relax-siri-20-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "22": {
+                    "lawatan-panel-penilai-audit-bagi-audit-akreditasi-kitaran-baharu-perpustakaan-utm-kuala-lumpur": {},
+                    "program-book-sharing-siri-14-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-read-relax-siri-19-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "siri-khas-perkongsian-ilmu-qadha-zakat-hukum-dan-asas-kaedah-kiraan": {}
+                },
+                "23": {
+                    "bengkel-asas-penulisan": {},
+                    "sesi-read-relax-siri-10-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-15-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "siri-bicara-pengurusan-9-2022-seksyen-automasi-seksyen-multimedia": {}
+                },
+                "30": {
+                    "sesi-read-relax-siri-17-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                }
+            },
+            "12": {
+                "02": {
+                    "program-booksharing-siri-15-2022-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "07": {
+                    "user-education-webinar-for-november-2022": {}
+                },
+                "11": {
+                    "siri-jelajah-perpustakaan-utm-ke-akademi-tamadun-islam": {},
+                    "siri-jelajah-perpustakaan-utm-ke-fakulti-alam-bina-dan-ukur": {}
+                },
+                "12": {
+                    "program-pendidikan-pengguna-perpustakaan-utm-kuala-lumpur-sepanjang-tahun-2022": {}
+                },
+                "14": {
+                    "majlis-penutup-program-research-week-2022": {},
+                    "sesi-read-relax-siri-21-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "18": {
+                    "lawatan-smk-raja-muda-muar-johor-ke-perpustakaan-utm-johor-bahru": {},
+                    "lawatan-universitas-islam-negeri-walisongo-semarang-indonesia": {},
+                    "library-engagement-di-azman-hashim-international-business-school-perpustakaan-utm-kuala-lumpur": {},
+                    "majlis-perasmian-sudut-bacaan-tan-sri-salleh-bin-mohd-nor": {}
+                },
+                "21": {
+                    "sesi-read-relax-siri-23-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                }
+            }
+        },
+        "2023": {
+            "01": {
+                "01": {
+                    "library-engagementmjiit": {},
+                    "pertandingan-kenduri-sekampung-sempena-karnival-masjid-utm-kuala-lumpur": {},
+                    "program-k-sharing-citizen-science-now-everyone-is-a-scientist": {},
+                    "program-khidmat-masyarakat-sempena-sambutan-hari-sungai-sedunia-di-kebun-bandar-sungai-bunus": {}
+                },
+                "02": {
+                    "persidangan-pustakawan-2022": {},
+                    "program-booksharing-siri-16-2022-perpustakaan-utm-kuala-lumpur": {},
+                    "taklimat-panduan-cuti-dalam-perkhidmatan": {}
+                },
+                "05": {
+                    "sumbangan-buku-untuk-program-khidmat-masyarakat-di-sekolah-kebangsaan-pahit-gerik-perak": {}
+                },
+                "06": {
+                    "program-kayuhan-lestari-2-0-2022": {}
+                },
+                "09": {
+                    "kursus-pengurusan-risiko-introduction-to-risk-management-and-how-to-develop-risk-register": {},
+                    "program-bicara-karya-catatan-zunita-di-jepun": {},
+                    "sesi-read-relax-siri-24-2022-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "siri-bicara-pengurusan-10-2022-jabatan-perpustakaan-utm": {},
+                    "siri-bicara-pengurusan-11-2022-halatuju-cabaran": {}
+                },
+                "10": {
+                    "sesi-read-relax-siri-1-2023-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "sesi-read-relax-siri-22-2022-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "12": {
+                    "lawatan-penanda-aras-dewan-bahasa-dan-pustaka-dbp-kuala-lumpur-ke-galerium-utm": {},
+                    "lawatan-penanda-aras-oleh-bahagian-pengurusan-organisasi-jabatan-pendaftar-utm-ke-seksyen-koleksi-khas-repositori-perpustakaan-raja-zarith-sofiah-przs": {},
+                    "taklimat-pengisian-laporan-nilaian-prestasi-tahunan-lnpt-2022": {}
+                },
+                "16": {
+                    "bengkel-pengisian-myjd-myportfolio": {},
+                    "taklimat-tahun-baru-oleh-timbalan-ketua-perpustakaan-kuala-lumpur-tkpkl-2023": {}
+                },
+                "19": {
+                    "siri-akhir-projek-penghasilan-kod-qr-bahan-special-learning-tool-kit-sltk": {}
+                },
+                "26": {
+                    "program-khidmat-masyarakat-projek-emboss-dan-jilid-bahan-terjemahan-braille-skpk-princess-elizabeth-johor-bahru": {},
+                    "taklimat-majlis-aluan-pelajar-program-diploma-separuh-masa-space-utm-2023": {}
+                }
+            },
+            "02": {
+                "01": {
+                    "program-booksharing-siri-1-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "08": {
+                    "projek-rekabentuk-semula-konsep-utm-reading-station-utmrs-jabatan-perpustakaan-utm-2023": {}
+                },
+                "09": {
+                    "bengkel-penyediaan-banner-program-pembudayaan-membaca-perpustakaan-utm": {},
+                    "global-education-experience-unit-gee-utm-international-johor-bahru-visit": {},
+                    "lawatan-kerja-jawatankuasa-perancangan-galeri-fakulti-kejuruteraan-awam-fka-ke-galeri-jabatan-perpustakaan-utm": {},
+                    "perjumpaan-perpustakaan-utm-kuala-lumpur-bersama-hal-ehwal-pelajar-utmkl": {},
+                    "sesi-read-relax-siri-2-2023-bangunan-perpustakaan-sultanah-zanariah": {},
+                    "user-education-webinar-for-january-2023": {}
+                },
+                "12": {
+                    "lawatan-kerja-pusat-strategi-maritim-sejarah-pusmas-tentera-laut-diraja-malaysia-tldm-ke-galerium-utm": {}
+                },
+                "15": {
+                    "majlis-amanat-ketua-pustakawan-2023-persaraan-staf": {}
+                },
+                "16": {
+                    "program-k-sharing-open-science-strategies-directions-for-excellence": {}
+                },
+                "27": {
+                    "lawatan-st-john-institute-kuala-lumpur-dan-kolej-islam-antarabangsa-gombak": {}
+                },
+                "28": {
+                    "majlis-pra-pembukaan-kafe-he-she-perpustakaan-sultanah-zanariah-utm-jb": {}
+                }
+            },
+            "03": {
+                "08": {
+                    "lawatan-delegasi-dari-universitas-negeri-malang-um-indonesia-ke-perpustakaan-utm-johor-bahru": {},
+                    "lawatan-pelajar-sekolah-menengah-kebangsaan-buluh-kasap-segamat-ke-perpustakaan-sultanah-zanariah": {},
+                    "lawatan-sekolah-rendah-arab-jaim-merlimau-pasir-melaka-ke-perpustakaan-sultanah-zanariah-utm-jb": {},
+                    "lawatan-universitas-tanjungpura-indonesia-ke-perpustakaan-raja-zarith-sofiah-przs": {},
+                    "program-booksharing-siri-2-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "09": {
+                    "sesi-read-relax-siri-3-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "10": {
+                    "sesi-read-and-relax-siri-3-2023-perpustakaan-utm-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "12": {
+                    "lawatan-panel-penilai-akreditasi-dan-washington-accord-ke-perpustakaan-utm": {},
+                    "program-team-building-jabatan-perpustakaan-utm-utm-kl": {},
+                    "program-utm-top-bidder-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-engagement-perpustakaan-utmkl-dalam-memperkasakan-sains-terbuka-dan-menyokong-aktiviti-penyelidikan": {}
+                },
+                "15": {
+                    "lawatan-kakitangan-perpustakaan-universiti-sultan-azlan-shah-ke-psz-dan-przs": {}
+                },
+                "19": {
+                    "lawatan-peserta-kursus-pensijilan-profesional-asas-ukur-tanah-pertanian-ke-ruangan-peta-perpustakaan-sultanah-zanariah": {},
+                    "program-booktalklibrary-siri-6-2023-perpustakaan-utmkl": {},
+                    "program-trash-to-cash-sumbangan-pakaian-terpakai-perpustakaan-utm-kuala-lumpur": {},
+                    "user-education-webinar-for-february-2023": {}
+                },
+                "20": {
+                    "meet-up-utmkl-book-club-at-the-sage-utm-kuala-lumpur": {}
+                },
+                "21": {
+                    "lawatan-muhibah-kolej-universiti-tati-uctati-ke-perpustakaan-raja-zarith-sofiah-utm-jb": {},
+                    "sesi-townhall-pelan-tindakan-2023-envision-utm-2025-jabatan-perpustakaan-utm": {}
+                },
+                "22": {
+                    "lawatan-kajian-pelajar-kolej-yayasan-pelajaran-johor-ke-perpustakaan-raja-zarith-sofiah-przs": {},
+                    "majlis-ihya-ramadhan-perpustakaan-utmkl-1444h": {}
+                },
+                "27": {
+                    "supporting-your-research-webinar-series-2023-almandumah-databases-and-the-research-skills-in-the-digital-environment": {},
+                    "supporting-your-research-webinar-series-2023-how-to-get-published-in-high-impact-journals-tips-and-tricks-to-get-published-in-journals-focusing-on-biology-chemistry-physics-and-mathematics": {},
+                    "wannafit-1-0-senamrobik-bersama-ketua-pustakawan-perpustakaan-utm-jb": {}
+                },
+                "28": {
+                    "program-bicara-karya-pedagogi-kaum-tertindas": {}
+                }
+            },
+            "04": {
+                "02": {
+                    "program-k-sharing-simptom-pcos-apa-yang-anda-perlu-tahu": {}
+                },
+                "03": {
+                    "program-ijtihad-pustaka-siri-2-2023-panduan-syarak-tentang-emas": {}
+                },
+                "05": {
+                    "program-booksharing-siri-3-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "07": {
+                    "booktalklibrary-siri-7-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "09": {
+                    "user-education-webinar-for-march-2023": {}
+                },
+                "10": {
+                    "program-ijtihad-pustaka-siri-1-2023-hutang-pembangunan-ekonomi-negara-islam-sedang-disunting": {}
+                },
+                "11": {
+                    "free-food-for-students-utm-library": {}
+                },
+                "12": {
+                    "kursus-audit-dalaman-pemeriksaan-tempat-kerja-jabatan-perpustakaan-utm": {}
+                },
+                "15": {
+                    "program-booksharing-siri-4-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "18": {
+                    "program-siri-ijtihad-pustaka-siri-3-2023-fiqh-al-hadith-syarah-bulugh-al-maram-zakat-dan-puasa": {}
+                },
+                "22": {
+                    "program-siri-ijtihad-pustaka-siri-4-2023-pengurusan-organisasi-dari-perspektif-islam": {}
+                },
+                "26": {
+                    "lawatan-pertubuhan-kebajikan-an-nur-ke-perpustakaan-sultanah-zanariah-utm-johor-bahru-sempena-program-we-care-we-love-x-celik-tajwid-siri-2": {},
+                    "program-booktalklibrary-siri-8-perpustakaan-utm-kuala-lumpur": {}
+                }
+            },
+            "05": {
+                "03": {
+                    "sesi-read-relax-siri-4-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "04": {
+                    "majlis-khatam-al-quran-anjuran-kksputm-jb-2023": {}
+                },
+                "14": {
+                    "lawatan-di-perpustakaan-sultanah-zanariah-sempena-program-hidrografi-hydrographic-surveying-ii-programme-utm-hydro-ii-fig-iho-ica-kategori-a": {}
+                },
+                "17": {
+                    "program-booksharing-siri-5-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "21": {
+                    "program-bacaan-pantas-bersama-politeknik-metro-kuala-lumpur": {},
+                    "sesi-read-relax-siri-6-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "22": {
+                    "program-jom-baca-bersama-10-minit-perpustakaan-utmkl": {}
+                },
+                "23": {
+                    "sesi-read-relax-siri-5-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "25": {
+                    "program-bicara-karya-kala-kesunyian-membingitkan": {},
+                    "program-dekad-membaca-kebangsaan-2023": {}
+                },
+                "29": {
+                    "majlis-tautan-ukhuwah-staf-jabatan-perpustakaan-utm-2023": {}
+                }
+            },
+            "06": {
+                "04": {
+                    "booktalklibrary-siri-9-2023-perpustakaan-utm-kuala-lumpur": {},
+                    "lawatan-pelajar-tingkatan-6-smk-pasir-gudang-2-ke-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "07": {
+                    "program-booksharingutmkl-siri-6-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "10": {
+                    "lawatan-mahasiswa-universitas-bung-hatta-ke-perpustakaan-sultanah-zanariah-utm-jb": {}
+                },
+                "12": {
+                    "sesi-read-relax-siri-7-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "15": {
+                    "utmkl-book-club-launch": {}
+                },
+                "16": {
+                    "sesi-bual-bicara-ketua-pustakawan-bersama-staf-bil-3-2023": {}
+                },
+                "19": {
+                    "program-booksharingutmkl-siri-7-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "20": {
+                    "supporting-your-research-webinar-series-2023-lets-explore-emerald-insight": {}
+                },
+                "27": {
+                    "lawatan-utmkl-book-club-ke-pameran-buku-antarabangsa-kuala-lumpur-2023-pbakl-2023": {}
+                },
+                "28": {
+                    "lawatan-panel-penilai-akreditasi-penuh-program-pengajian-am-dengan-kepujian-space-ke-przs-utm-jb": {}
+                }
+            },
+            "07": {
+                "03": {
+                    "lawatan-pelajar-smk-sultan-ibrahim-kulai-ke-perpustakaan-sultanah-zanariah-utm-johor-bahru": {},
+                    "lawatan-peserta-program-refugee-tour-utm-2023-ke-perpustakaan-sultanah-zanariah-utm-johor-bahru": {}
+                },
+                "08": {
+                    "sesi-read-and-relax-siri-9-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "09": {
+                    "booktalklibrary-siri-10-2023-perpustakaan-utm-kuala-lumpur": {},
+                    "user-education-program-for-april-2023": {},
+                    "user-education-program-for-may-2023": {}
+                },
+                "10": {
+                    "library-engagementfssh-utm-kuala-lumpur": {},
+                    "program-bicara-karya-penyelesaian-radikal-memartabat-pendidikan-tinggi": {}
+                },
+                "13": {
+                    "kempen-check-out-our-books-and-redeem-your-he-she-coffee-voucher": {},
+                    "kursus-pengurusan-terimaan-tuntutan-hasil": {}
+                },
+                "16": {
+                    "taklimat-pecahan-mata-cpd-baharu-2023": {}
+                },
+                "17": {
+                    "program-khidmat-masyarakat-perpustakaan-utm-di-sekolah-kebangsaan-taman-universiti-4-skudai-johor": {}
+                },
+                "20": {
+                    "program-booksharingutmkl-siri-8-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "28": {
+                    "sesi-read-relax-siri-8-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "30": {
+                    "sesi-read-relax-siri-10-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                }
+            },
+            "08": {
+                "02": {
+                    "booktalklibrary-siri-11-2023-perpustakaan-utm-kuala-lumpur": {},
+                    "gotong-royong-bulanan-bangunan-perpustakaan-sultanah-zanariah-utm-jb-mei-2023": {}
+                },
+                "03": {
+                    "program-booksharingutmkl-siri-9-2023-perpustakaan-utm-kuala-lumpur": {},
+                    "program-khidmat-masyarakat-kelas-khas-chup-badui-sikulah": {}
+                },
+                "08": {
+                    "program-khidmat-masyarakat-di-sekolah-menengah-kebangsaan-pulau-carey-klang-selangor": {}
+                },
+                "09": {
+                    "lawatan-penilaian-akreditasi-bagi-program-diploma-kejuruteraan-space-utm-oleh-majlis-akreditasi-teknologi-kejuruteraan-etac": {},
+                    "majlis-pelancaran-read-cafeutmkl-he-she-coffee": {}
+                },
+                "11": {
+                    "program-summer-school-amazing-race-university-seijo-jepun": {}
+                },
+                "13": {
+                    "sumbangan-bahan-bacaan-dari-perpustakaan-negara-malaysia-pnm-kepada-jabatan-perpustakaan-utm": {}
+                },
+                "21": {
+                    "lawatan-penanda-aras-perpustakaan-uthm-ke-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-townhall-pencapaian-suku-tahun-pertama-q1-dan-suku-tahun-kedua-q2-pelan-tindakan-2023-envision-2025-jabatan-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "24": {
+                    "lawatan-ybhg-tan-sri-dr-salleh-bin-mohd-nor-pro-canselor-utm-ke-perpustakaan-utm-bangunan-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "28": {
+                    "program-khidmat-masyarakat-di-sekolah-kebangsaan-jelotong-parit-raja-batu-pahat-johor": {}
+                },
+                "30": {
+                    "kursus-penulisan-course-information": {},
+                    "kursus-speed-reading-perpustakaan-utm-kuala-lumpur-2023": {},
+                    "lawatan-delegasi-universitas-airlangga-indonesia-unair-ke-perpustakaan-sultanah-zanariah-utm-johor-bahru": {},
+                    "lawatan-penanda-aras-dari-universitas-muhammadiyah-jember-center-ke-perpustakaan-sultanah-zanariah-utm-johor-bahru": {},
+                    "program-bicara-merdeka-bibik-mentor-kewanganku": {},
+                    "town-hall-pencapaian-suku-tahun-pertama-q1-dan-suku-tahun-kedua-q2-pelan-tindakan-2023-envision-utm-2025-jabatan-perpustakaan-utm-johor-bahru": {}
+                },
+                "31": {
+                    "program-booksharingutmkl-2023-siri-10": {}
+                }
+            },
+            "09": {
+                "01": {
+                    "sesi-read-relax-siri-12-2023-bangunan-perpustakaan-sultanah-zanariah": {}
+                },
+                "16": {
+                    "gotong-royong-bulanan-perpustakaan-sultanah-zanariah-utm-jb-ogos-2023": {}
+                }
+            },
+            "10": {
+                "05": {
+                    "town-hall-pencapaian-suku-tahun-ketiga-q3-pelan-tindakan-2023-envision-utm-2025-jabatan-perpustakaan-utm-johor-bahru": {}
+                },
+                "09": {
+                    "program-kesejahteraan-staf-lets-read-and-walk": {},
+                    "program-world-rivers-day-2023-sg-bunus": {},
+                    "taklimat-perpustakaan-3m-minggu-mesra-mahasiswa": {}
+                },
+                "10": {
+                    "kursus-literasi-maklumat-asas": {}
+                },
+                "12": {
+                    "program-booksharingutmkl-2023-siri-12": {},
+                    "taklimat-maklumat-dan-koleksi-kampung-bharu-di-galleryutm-kl": {}
+                },
+                "16": {
+                    "kursus-reka-grafik": {},
+                    "sumbangan-buku-bagi-program-khidmat-masyarakat-di-sekolah-kebangsaan-lktp-pemanis-1": {}
+                },
+                "17": {
+                    "program-kesejahteraan-staf-wellness-walkabouts-siri-2": {},
+                    "program-knowledge-sharing-chatgpt-ai-untuk-semua": {}
+                },
+                "18": {
+                    "lawatan-pelajar-maahad-tahfiz-al-iman-tanjung-sedili-ke-perpustakaan-sultanah-zanariah-utm-jb": {}
+                },
+                "25": {
+                    "bicara-tokoh-dua-negara-hamka-dan-zaaba-analisis-karya-dan-pemikiran": {}
+                },
+                "27": {
+                    "mengembara-bersama-sasterawan-negara-mencari-sempadan-budaya": {}
+                },
+                "29": {
+                    "lawatan-pelajar-pascasiswazah-baharu-fakulti-sains-sosial-dan-kemanusiaan": {}
+                }
+            },
+            "11": {
+                "09": {
+                    "kursus-asas-adobe-photoshop": {},
+                    "lawatan-delegasi-universitas-negeri-malang-dengan-kerjasama-csnano-ke-perpustakaan-raja-zarith-sofiah": {},
+                    "razak-research-week-explorace-2023": {}
+                },
+                "14": {
+                    "majlis-perasmian-serambi-ilmu-rakyat-s-i-r-corner": {},
+                    "program-booksharingutmkl-siri-13-2023-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "15": {
+                    "kunjungan-pelajar-samudera-management-consultants-smc": {},
+                    "program-booksharingutmkl-siri-14-2023-perpustakaan-utm-kuala-lumpur": {},
+                    "program-weeks-of-welcome-2023": {}
+                },
+                "19": {
+                    "lawatan-peserta-utm-summer-school-fakulti-komputeran-davao-oriental-state-university-filipina-ke-perpustakaan-sultanah-zanariah": {},
+                    "lawatan-sambil-belajar-ke-utm-al-wildan-islamic-school-ke-perpustakaan-raja-zarith-sofiah": {}
+                },
+                "20": {
+                    "kursus-pemantapan-semakan-dan-pengesahan-penerbitan-penyelidikan-universiti": {},
+                    "user-education-webinar-for-october-2023": {}
+                },
+                "22": {
+                    "19174": {},
+                    "program-read-relax-siri-14-2023": {},
+                    "sesi-read-relax-siri-15-2023": {}
+                },
+                "27": {
+                    "lawatan-tan-sri-dr-salleh-mohd-nor-pro-canselor-utm-ke-perpustakaan-raja-zarith-sofiah": {},
+                    "sesi-read-relax-siri-16-2023": {},
+                    "utm-sustainability-blueprint-2030": {}
+                },
+                "29": {
+                    "program-bicara-karya-from-decolonization-to-ethno-nationalism": {}
+                }
+            },
+            "12": {
+                "03": {
+                    "lawatan-delegasi-universitas-sriwijaya-unsri-palembang-indonesia-ke-perpustakaan-raja-zarith-sofiah-utm-jb": {},
+                    "lawatan-pelajar-smk-tan-sri-abdul-kadir-ke-perpustakaan-utm-johor-bahru": {}
+                },
+                "07": {
+                    "lawatan-panel-engineering-accreditation-council-eac-ke-perpustakaan-sultanah-zanariah": {}
+                },
+                "10": {
+                    "kunjungan-delegasi-ketua-pustakawan-dan-pengurusan-tinggi-perpustakaan-universitas-negeri-malang-um-indonesia": {}
+                },
+                "11": {
+                    "utm-library-kl-welcomes-delegation-from-universitas-pakuan-bogor-indonesia": {}
+                },
+                "14": {
+                    "bicara-karya-himpunan-puisi-menelusuri-memori": {},
+                    "program-k-sharing-i-wonder-bin-juara-inovasi-baja-kompos": {},
+                    "read-relax-utm-kampus-pagoh-siri-2-2023": {}
+                },
+                "18": {
+                    "persidangan-pustakawan-2023-jabatan-perpustakaan-utm": {}
+                },
+                "20": {
+                    "program-read-relax-siri-11-2023": {}
+                },
+                "26": {
+                    "bengkel-penyediaan-dokumen-hazard-identification-risk-assessment-and-risk-control-hirarc": {},
+                    "program-k-sharing-akar-konflik-palestin-israel-kupasan-dari-sudut-geopolitik-agama": {}
+                },
+                "27": {
+                    "lawatan-sambil-belajar-pelajar-sma-al-khairiah-segamat-johor-ke-perpustakaan-utm-johor-bahru-2": {}
+                }
+            }
+        },
+        "2024": {
+            "01": {
+                "01": {
+                    "program-k-sharing-menginovasi-penyelesaian-menyebarluas-pengetahuan": {}
+                },
+                "04": {
+                    "town-hall-pencapaian-suku-tahun-keempat-q4-pelan-tindakan-2023-envision-utm-2025-jabatan-perpustakaan-utm-johor-bahru": {}
+                },
+                "16": {
+                    "latihan-pengungsian-bangunan-2023-utm-kuala-lumpur": {},
+                    "lawatan-penanda-aras-dari-perpustakaan-universiti-sains-islam-malaysia": {},
+                    "library-engagement-fssh-utm-kuala-lumpur": {}
+                },
+                "18": {
+                    "program-byte-of-brilliance-2024-sekolah-kebangsaan-belokok-pontian-johor": {},
+                    "taklimat-dan-latihan-kebakaran-jabatan-perpustakaan-utm-universiti-teknologi-malaysia": {}
+                },
+                "20": {
+                    "taklimat-majlis-aluan-pelajar-map-program-diploma-sepenuh-masa-separuh-masa-space-utm": {}
+                },
+                "22": {
+                    "audit-pematuhan-pengekalan-status-swaakreditasi-utm-2023": {}
+                },
+                "24": {
+                    "customer-satisfaction-index-utm-library-2023-fasa-1-2": {}
+                },
+                "25": {
+                    "gotong-royong-bulanan-bangunan-perpustakaan-sultanah-zanariah-jabatan-perpustakaan-utm": {},
+                    "sesi-town-hall-pelan-tindakan-2024-envision-utm-2025-jabatan-perpustakaan-utm": {}
+                },
+                "29": {
+                    "lawatan-kemudahan-sempena-audit-pematuhan-pengekalan-status-swaakreditasi-universiti-teknologi-malaysia-utm-johor-bahru": {},
+                    "program-read-relax-siri-1-2024": {}
+                },
+                "31": {
+                    "lawatan-sambil-belajar-pelajar-peserta-gnss-survey-intellectual-outreach-ke-perpustakaan-raja-zarith-sofiah-perpustakaan-utm": {}
+                }
+            },
+            "02": {
+                "08": {
+                    "program-book-sharingutmkl-siri-1-2024-perpustakaan-utm-kuala-lumpur": {},
+                    "program-k-sharing-jurang-dalam-pendidikan-awal-dari-perspektif-malaysia-indonesia": {}
+                },
+                "12": {
+                    "lawatan-sambil-belajar-sk-api-api-ke-perpustakaan-utm": {}
+                },
+                "14": {
+                    "lawatan-sambil-belajar-smk-agama-johor-ke-perpustakaan-utm": {}
+                },
+                "19": {
+                    "program-read-relax-siri-2-2024": {}
+                },
+                "20": {
+                    "majlis-amanat-ketua-pustakawan-penghargaan-staf-jabatan-perpustakaan-utm-2024": {}
+                },
+                "22": {
+                    "program-k-sharing-pembinaan-jaringan-kerjasama-mengukuhkan-kesinambungan-industri": {}
+                },
+                "26": {
+                    "kursus-ai-tools-for-academic-writing-for-librarians": {}
+                },
+                "27": {
+                    "program-k-sharing-sustainable-skies-unveiling-the-benefits-impacts-of-satellites": {}
+                }
+            },
+            "03": {
+                "01": {
+                    "kursus-refreshment-sistem-perkhidmatan-perpustakaan-lss-modul-circulation-calendar": {},
+                    "taklimat-pustakawan-perpustakaan-utm-2024": {}
+                },
+                "05": {
+                    "program-read-relax-program-baca-santai-siri-3-2024": {},
+                    "program-read-relax-siri-4-2024": {},
+                    "taklimat-keselamatan-bangunan-jabatan-perpustakaan-utm": {}
+                },
+                "07": {
+                    "lawatan-dari-smait-aulady-islamic-senior-high-school-indonesia-ke-perpustakaan-utm-kuala-lumpur": {},
+                    "program-bicara-karya-the-accidental-further-adventures-of-the-hundred-year-old-man": {}
+                },
+                "11": {
+                    "program-khidmat-masyarakat-perpustakaan-kontena-bangsa-johor-bahagia-bjb-kangkar-pulai": {}
+                },
+                "14": {
+                    "audit-majlis-akreditasi-teknologi-kejuruteraan-etac-perpustakaan-utm-kuala-lumpur": {},
+                    "lawatan-kerja-pusat-sumber-jabatan-mufti-johor-ke-jabatan-perpustakaan-universiti-teknologi-malaysia": {},
+                    "supporting-your-research-webinar-series-eikon-datastream-2024": {}
+                },
+                "18": {
+                    "program-book-sharingutmkl-2-2024-perpustakaan-utm-kuala-lumpur": {},
+                    "sesi-libat-urus-pro-naib-canselor-kampus-utm-kuala-lumpur-di-perpustakaan-utm": {}
+                },
+                "24": {
+                    "program-read-relax-siri-5-2024": {}
+                },
+                "28": {
+                    "kursus-pengendalian-lawatan-berpandu-akademik": {}
+                }
+            },
+            "04": {
+                "01": {
+                    "pertandingan-utm-top-bidder-jabatan-perpustakaan-utm-kuala-lumpur": {},
+                    "program-ijtihad-pustaka-siri-1-2024-boikot-menurut-islam": {},
+                    "program-ijtihad-pustaka-siri-2-2024-konsep-fiqh-kepenggunaan": {}
+                },
+                "03": {
+                    "program-ijtihad-pustaka-siri-3-2024-disiplin-puasa-dalam-sekolah-ramadan": {}
+                },
+                "04": {
+                    "research-information-literacy-for-undergraduate-fakulti-pengurusan-utm-johor-bahru": {}
+                },
+                "09": {
+                    "user-education-webinar-march-2024": {}
+                },
+                "10": {
+                    "program-ijtihad-pustaka-siri-4-2024-itulah-al-aqsa": {}
+                },
+                "11": {
+                    "program-book-sharingutmkl-3-2024-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "22": {
+                    "program-read-relax-siri-6-2024": {}
+                },
+                "25": {
+                    "lawatan-ke-perpustakaan-utm-oleh-pelajar-dan-pensyarah-dari-kolej-matrikulasi-kejuruteraan-johor": {}
+                },
+                "30": {
+                    "program-knowledge-sharing-peranan-media-massa-menggalakkan-budaya-membaca-dalam-era-digital": {},
+                    "sambutan-program-jom-baca-bersama-10-minit-tahun-2024-jabatan-perpustakaan-utm": {}
+                }
+            },
+            "05": {
+                "02": {
+                    "audit-akreditasi-penuh-program-sarjana-muda-pentadbiran-perniagaan-perniagaan-antarabangsa-dengan-kepujian-utmspace": {},
+                    "program-gotong-royong-bulanan-bangunan-perpustakaan-sultanah-zanariah-jabatan-perpustakaan-utm-jb-siri-2": {}
+                },
+                "05": {
+                    "university-tour-program-lawatan-dari-peserta-program-empowering-dreams-nurturing-tomorrows-leaders": {}
+                },
+                "09": {
+                    "program-booksharing-utmkl-2024-siri-4-perpustakaan-utm-kuala-lumpur": {},
+                    "user-education-webinar-april-2024": {}
+                },
+                "15": {
+                    "bengkel-pengenalan-kaedah-pemuliharaan-buku-dan-majalah-siri-1-2024": {},
+                    "kursus-pengendalian-lawatan-berpandu-akademik-perpustakaan-utm-kuala-lumpur": {},
+                    "program-k-sharing-teknologi-spiritual-sains-perubatan-melayu-ke-arah-gagasan-kesejahteraan-holistik": {}
+                },
+                "16": {
+                    "lawatan-universitas-negeri-semarang-unnes-ke-perpustakaan-utm-kuala-lumpur": {},
+                    "thewhizwrite-ai-powered-thesis-assistance": {}
+                },
+                "21": {
+                    "utm-library-skills-mooc": {}
+                },
+                "23": {
+                    "program-booksharing-utmkl-2024-siri-5": {},
+                    "radis-clinic-webinar-publication-module": {}
+                },
+                "26": {
+                    "kursus-penulisan-rencana-2024": {}
+                },
+                "27": {
+                    "program-jalinan-ilmu-membangunkan-masyarakat-oleh-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "28": {
+                    "program-k-sharing-eksplorasi-digital-sumber-terbuka-u-pustaka": {}
+                },
+                "30": {
+                    "lawatan-ke-perpustakaan-utm-kuala-lumpur-oleh-universitas-syiah-kuala-acheh-indonesia": {},
+                    "program-read-relax-siri-9-2024": {}
+                },
+                "31": {
+                    "lawatan-ke-perpustakaan-utm-dan-taklimat-sistem-koha-perpustakaan-kontena-pangsapuri-kenari-bandar-baru-kangkar-pulai": {}
+                }
+            },
+            "06": {
+                "04": {
+                    "lawatan-penanda-aras-daripada-perpustakaan-tunku-tun-aminah-ptta-universiti-tun-hussein-onn-uthm": {},
+                    "sesi-townhall-pelaporan-pencapaian-suku-tahun-pertama-q1-2024-pelan-tindakan-2024-envision-utm-2025-key-high-impact-result-khir-high-impact-result-hir-key-amal-indikator-kai-jabatan": {}
+                },
+                "05": {
+                    "audit-anugerah-keselamatan-kesihatan-pekerjaan-2023-perpustakaan-sultanah-zanariah-utmjb": {},
+                    "bengkel-systematic-literature-review-perpustakaan-utm-kuala-lumpur": {},
+                    "program-read-relax-siri-7-2024-edisi-khas": {}
+                },
+                "06": {
+                    "lawatan-penanda-aras-daripada-universitas-atma-jaya-yogyakarta-indonesia": {}
+                },
+                "09": {
+                    "program-kesejahteraan-staf-wellness-walkabouts-siri-1-2024": {},
+                    "user-education-webinar-may-2024": {}
+                },
+                "12": {
+                    "program-read-relax-siri-8-2024": {}
+                },
+                "13": {
+                    "sesi-engagement-ketua-pustakawan-bersama-staf-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "17": {
+                    "space-utm-edu-fair-2024-utm-kuala-lumpur": {}
+                },
+                "19": {
+                    "lawatan-ke-jabatan-perpustakaan-utm-oleh-delegasi-yayasan-edukasi-harapan-indonesia": {}
+                },
+                "20": {
+                    "program-book-sharingutmkl-6-2024": {}
+                },
+                "23": {
+                    "lawatan-ke-perpustakaan-utm-oleh-pelajar-tingkatan-enam-dari-smk-taman-daya": {},
+                    "user-education-webinar-june-2024": {}
+                },
+                "30": {
+                    "pelancaran-research-support-platform": {}
+                }
+            },
+            "07": {
+                "01": {
+                    "bengkel-nvivo-jabatan-perpustakaan-utmkl-fakulti-sains-sosial-dan-kemanusiaan-fssk": {},
+                    "kursus-pemerkasaan-pustakawan-future-proofing-libraries": {}
+                },
+                "03": {
+                    "program-khidmat-masyarakat-kampung-orang-asli-simpang-arang-gelang-patah-johor": {}
+                },
+                "11": {
+                    "program-read-relax-siri-12-2024": {}
+                },
+                "14": {
+                    "program-khidmat-masyarakat-perpustakaan-utm-sahabat-jariah-malaysia-untuk-kelas-khas-chup-badui-sikulah-di-lipis-pahang": {}
+                },
+                "16": {
+                    "kursus-pedagogy-of-research-methodology-for-librarian": {}
+                },
+                "18": {
+                    "bengkel-leveraging-ai-for-your-thesis": {},
+                    "program-book-sharingutmkl-8-2024": {}
+                },
+                "24": {
+                    "lawatan-ke-perpustakaan-sultanah-zanariah-bagi-program-lawatan-sambil-belajar-smk-banang-jaya-batu-pahat": {}
+                },
+                "25": {
+                    "audit-penarafan-indeks-tadbir-urus-ptj-jabatan-perpustakaan-utm-tahun-2024": {},
+                    "program-read-relax-siri-13-2024": {}
+                },
+                "28": {
+                    "lawatan-pemeriksa-luar-audit-tahunan-bagi-program-sarjana-senibina-pesisir": {}
+                }
+            },
+            "08": {
+                "01": {
+                    "lawatan-ke-perpustakaan-utm-maahad-tahfiz-wal-tarbiyah-darul-iman-2024": {}
+                },
+                "02": {
+                    "program-bicara-karya-zakat-waqf-impact-on-women-and-community-development": {}
+                },
+                "06": {
+                    "lawatan-penanda-aras-daripada-perpustakaan-tunku-tun-aminah-ptta-uthm": {}
+                },
+                "08": {
+                    "program-read-relax-siri-14-2024": {}
+                },
+                "15": {
+                    "program-booksharing-utmkl-2024-siri-10": {}
+                },
+                "21": {
+                    "lawatan-sambil-belajar-pelajar-smk-jalan-mengkibol-kluang-johor-ke-perpustakaan-utm": {}
+                },
+                "22": {
+                    "program-booktalklibrary-siri-17-perpustakaan-utm-kuala-lumpur": {},
+                    "program-read-relax-siri-15-2024": {}
+                }
+            },
+            "09": {
+                "05": {
+                    "program-read-relax-siri-16-2024": {}
+                },
+                "09": {
+                    "library-engagement-mjiit-faculty": {}
+                },
+                "12": {
+                    "lawatan-penanda-aras-daripada-information-resource-center-irc-universiti-teknologi-petronas": {},
+                    "program-khidmat-masyarakat-sinergi-jabatan-perpustakaan-utm-dan-alumni-utm-di-sekolah-menengah-kebangsaan-tamparuli-sabah": {}
+                },
+                "14": {
+                    "sesi-perkongsian-inspirasi-mustafa-prize-laureate-2023": {}
+                },
+                "15": {
+                    "library-engagement-space-utm-siri-2-utm-kuala-lumpur": {},
+                    "pameran-2023-mustafa-prize-laureate-professor-datuk-ir-ts-dr-ahmad-fauzi-bin-ismail-saintis-dan-penyelidik-tersohor-bidang-membran": {}
+                },
+                "17": {
+                    "program-bicara-karya-pengisian-kemerdekaan-1957-1970": {},
+                    "program-literasi-maklumat-di-sk-bukit-marak": {}
+                },
+                "18": {
+                    "bengkel-1lib1ref-pustakawan-di-wikipedia": {}
+                },
+                "19": {
+                    "program-perbarisan-bulan-kebangsaan-open-day-merdeka-utm-kl": {},
+                    "program-read-relax-siri-17-2024": {}
+                },
+                "30": {
+                    "program-pentas-budaya-sasterawan-negara-datuk-dr-siti-zainon-ismail-keindahan-adab-sopan-dan-gelora-teluk-belanga": {}
+                }
+            },
+            "10": {
+                "06": {
+                    "lawatan-penanda-aras-daripada-pusat-sumber-peringkat-kolej-vokasional-sekolah-menengah-teknik-zon-johor": {}
+                },
+                "13": {
+                    "%f0%9d%90%92%f0%9d%90%84%f0%9d%90%92%f0%9d%90%88-%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%81%f0%9d%90%80%f0%9d%90%93-%f0%9d%90%94%f0%9d%90%91%f0%9d%90%94%f0%9d%90%92-%f0%9d%90%81%f0%9d%90%84%f0%9d%90%91": {}
+                },
+                "18": {
+                    "training-on-e-tools-for-high-impact-research-articles-publications": {}
+                },
+                "28": {
+                    "program-k-sharing-stres-kronik-dan-apa-yang-perlu-kita-tahu": {}
+                },
+                "29": {
+                    "program-k-sharing-mata-sihat-hidup-ceria-panduan-penjagaan-kesihatan-mata": {}
+                },
+                "30": {
+                    "ai-in-academia-transforming-research-and-publication-practices": {}
+                },
+                "31": {
+                    "program-read-relax-siri-20-2024": {}
+                }
+            },
+            "11": {
+                "04": {
+                    "utm-library-research-week-2024": {}
+                },
+                "11": {
+                    "latihan-pengungsian-bangunan-dan-latihan-kebakaran-bangunan-perpustakaan-sultanah-zanariah-jabatan-perpustakaan-utm": {}
+                },
+                "12": {
+                    "sumbangan-buku-ilmiah-untuk-pelajar-kolej-vokasional-temerloh-pahang": {}
+                },
+                "19": {
+                    "sesi-townhall-pelaporan-pencapaian-suku-tahun-kedua-ketiga-q2-q3-2024-pelan-tindakan-2024-envision-utm-2025-key-hir-high-impact-result-hir-key-amal-indikator-kai-jabatan-p": {}
+                },
+                "21": {
+                    "lawatan-penilaian-akreditasi-penuh-program-sarjana-muda-harta-tanah-ke-perpustakaan-utmkl": {}
+                },
+                "24": {
+                    "library-engagementfaculty-of-artificial-intelligence-utm-kl": {}
+                },
+                "28": {
+                    "perkongsian-inspirasi-international-library-leaders-programme-di-british-library-london": {},
+                    "program-book-sharingutmkl-14-2024": {},
+                    "program-k-sharing-transformasi-nanas-inovasi-dalam-pertanian-dan-industri": {}
+                }
+            },
+            "12": {
+                "05": {
+                    "aturcara-audit-pengekalan-akreditasi-di-perpustakaan-malaysia-japan-international-institute-of-technology-mjiit": {}
+                },
+                "08": {
+                    "lawatan-sma-negeri-2-cibinong-ke-perpustakaan-utmkl": {},
+                    "program-perkongsian-ises-bertemakan-hijau-dan-ceria-kelestarian-di-tempat-kerja": {}
+                },
+                "15": {
+                    "lawatan-universitas-pgri-semarang-upgris-indonesia-ke-perpustakaan-utmkl": {}
+                },
+                "18": {
+                    "projek-transliterasi-bahan-bacaan-koleksi-sasterawan-negara-ybhg-datuk-dr-siti-zainon-ismail": {}
+                },
+                "19": {
+                    "persidangan-pengurusan-strategik-jabatan-perpustakaan-utm-2025-2030": {}
+                },
+                "24": {
+                    "lawatan-flextronics-technology-penang-sdn-bhd-ke-perpustakaan-utmkl": {}
+                },
+                "26": {
+                    "latihan-pengungsian-bangunan-perpustakaan-utmkl-zon-1-kampus-utmkl": {},
+                    "program-khidmat-masyarakat-penjilidan-bahan-bacaan-format-braille-jabatan-perpustakaan-utm-2024": {}
+                }
+            }
+        },
+        "2025": {
+            "01": {
+                "17": {
+                    "lawatan-rsi-indonesia-school-sumatera-selatan-indonesia-ke-perpustakaan-utmkl": {},
+                    "lawatan-universitas-krisnadwipayana-indonesia-ke-perpustakaan-utm-kuala-lumpur": {}
+                },
+                "24": {
+                    "august-2024-utm-library-empowers-academic-integrity-with-turnitin-programs": {},
+                    "explore-learn-and-thrive-utm-librarys-user-education-programs-october-2024": {},
+                    "july-2024-utm-librarys-focus-on-information-literacy": {},
+                    "lawatan-ke-perpustakaan-utm-oleh-seksyen-projek-khas-hab-pendidikan-tinggi-pagoh-spk-hptp": {},
+                    "user-education-webinar-december-2024-utm-library-wraps-up-the-year-with-innovative-learning-opportunities": {},
+                    "user-education-webinar-november-2024-a-record-breaking-month-for-utm-librarys-user-education-programs": {}
+                }
+            },
+            "02": {
+                "14": {
+                    "program-read-relax-siri-19-2024": {},
+                    "program-wacana-ilmu-seminar-etika-alam-sekitar-mencari-keseimbangan-di-era-moden": {},
+                    "sesi-townhall-pelaporan-pencapaian-pelan-tindakan-2024-dan-pelan-tindakan-strategik-envision-jabatan-perpustakaan-utm-2025-pelan-tindakan-2025": {}
+                },
+                "21": {
+                    "kerjasama-akses-terbuka-perkukuh-ekosistem-penyelidikan-negara": {}
+                },
+                "24": {
+                    "program-khidmat-masyarakat-rumah-perlindungan-fitrah-qaseh": {}
+                },
+                "28": {
+                    "pameran-utm-sanjungan-bangsa-bersempena-majlis-perutusan-naib-canselor-ke-8-tahun-2025": {}
+                }
+            },
+            "03": {
+                "04": {
+                    "ai-tools-for-academic-writing-for-librarians": {},
+                    "lawatan-penanda-aras-pejabat-jurutulis-dewan-negeri-johor-ke-jabatan-perpustakaan-utm": {},
+                    "majlis-amanat-ketua-pustakawan-utm-2025": {}
+                }
+            }
+        },
+        "author": {
+            "abasrahmat": {},
+            "adamhazriq": {},
+            "afiqizzuddin": {},
+            "aidanadhirah": {},
+            "aizzah": {},
+            "akmalalif": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "anfahmi": {},
+            "aniqfarhan": {},
+            "asyikin": {},
+            "atiff": {},
+            "ayesha": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "azaleha": {},
+            "azmi": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "azmikhalib": {},
+            "aznurkl": {},
+            "aznurulkl": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {},
+                    "25": {},
+                    "26": {},
+                    "27": {},
+                    "28": {},
+                    "29": {},
+                    "3": {},
+                    "30": {},
+                    "31": {},
+                    "32": {},
+                    "33": {},
+                    "34": {},
+                    "35": {},
+                    "36": {},
+                    "37": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "azrulnizam": {},
+            "bsalihuddin": {},
+            "dinaamalia": {},
+            "ezathulimma": {},
+            "fadzleena": {},
+            "fazlimasari": {},
+            "fikri": {},
+            "habibah": {},
+            "haliza": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "hamizahs": {},
+            "hasanul": {},
+            "haslindasabari": {},
+            "kamariahmj": {},
+            "kamisahyusoff": {},
+            "kartini": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "kbahiyah": {},
+            "khairun": {},
+            "khalidjaafar": {},
+            "liza": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {}
+                }
+            },
+            "malif": {},
+            "marlina": {},
+            "masnizah": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {}
+                }
+            },
+            "mdrazib": {},
+            "mfikriyusof": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "mfuad": {},
+            "mhazim": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "mohdrizal": {},
+            "msayid": {},
+            "muhammadsyafiq": {},
+            "muzaimah": {},
+            "nabilahj": {},
+            "narimah": {},
+            "nasrashidah": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "nazrinda": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "neffendy": {},
+            "nhalimah": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "noraishah": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "norashikinj": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "norasiahm": {},
+            "norazalina": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "norazhar": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "norazila": {},
+            "norfamieza": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "norhafisah": {},
+            "norshaliza": {},
+            "norsyuhada": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "nuramirahatiqah": {},
+            "nurashilah": {},
+            "nurfarain": {},
+            "nurmazwan": {},
+            "nurnazurahnordin": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "nurrull": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {}
+                }
+            },
+            "nurulhasyimah": {},
+            "rizaaizatadib": {},
+            "rohayu": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "roziana": {},
+            "sarasyima": {},
+            "shaliza": {},
+            "shamsuraini": {},
+            "shitynoor": {},
+            "shradhiah": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {}
+                }
+            },
+            "sitiliyana": {},
+            "sitinorlela": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "sitinuraisyah": {},
+            "smarlia": {},
+            "snhashidah": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "surayaj": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "syafiqs": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "syahranah": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "syakirailmi": {},
+            "syazwania": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "syazwanisyamimi": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "tuansyahirah": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "yfarhan": {},
+            "yusrul": {},
+            "zafarina": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "zulaihi": {},
+            "zulizuan": {},
+            "zurainiz": {},
+            "zurina": {}
+        },
+        "category": {
+            "announcement": {},
+            "audit": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "awards-recognitions": {},
+            "bicara-karya": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "book-talk": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {}
+                }
+            },
+            "course": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "gallerium-utm": {},
+            "highlights": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "hpt-pagoh": {},
+            "ijtihad-pustaka": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "k-sharing": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {}
+                }
+            },
+            "khidmat-masyarakat": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "latest-stories": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "library-event": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {},
+                    "25": {},
+                    "26": {},
+                    "27": {},
+                    "28": {},
+                    "29": {},
+                    "3": {},
+                    "30": {},
+                    "31": {},
+                    "32": {},
+                    "33": {},
+                    "34": {},
+                    "35": {},
+                    "36": {},
+                    "37": {},
+                    "38": {},
+                    "39": {},
+                    "4": {},
+                    "40": {},
+                    "41": {},
+                    "42": {},
+                    "43": {},
+                    "44": {},
+                    "45": {},
+                    "46": {},
+                    "47": {},
+                    "48": {},
+                    "49": {},
+                    "5": {},
+                    "50": {},
+                    "51": {},
+                    "52": {},
+                    "53": {},
+                    "54": {},
+                    "55": {},
+                    "56": {},
+                    "57": {},
+                    "58": {},
+                    "59": {},
+                    "6": {},
+                    "60": {},
+                    "61": {},
+                    "62": {},
+                    "63": {},
+                    "64": {},
+                    "65": {},
+                    "66": {},
+                    "67": {},
+                    "68": {},
+                    "69": {},
+                    "7": {},
+                    "70": {},
+                    "71": {},
+                    "72": {},
+                    "73": {},
+                    "74": {},
+                    "75": {},
+                    "76": {},
+                    "77": {},
+                    "78": {},
+                    "79": {},
+                    "8": {},
+                    "80": {},
+                    "81": {},
+                    "9": {}
+                }
+            },
+            "library-services": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "library-visits": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "look-up": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "news": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "read-at-uni": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {},
+                    "25": {},
+                    "26": {},
+                    "27": {},
+                    "28": {},
+                    "29": {},
+                    "3": {},
+                    "30": {},
+                    "31": {},
+                    "32": {},
+                    "33": {},
+                    "34": {},
+                    "35": {},
+                    "36": {},
+                    "37": {},
+                    "38": {},
+                    "39": {},
+                    "4": {},
+                    "40": {},
+                    "41": {},
+                    "42": {},
+                    "43": {},
+                    "44": {},
+                    "45": {},
+                    "46": {},
+                    "47": {},
+                    "48": {},
+                    "49": {},
+                    "5": {},
+                    "50": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "roadshow": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "uncategorized": {},
+            "utm-johor-bahru": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {},
+                    "25": {},
+                    "26": {},
+                    "27": {},
+                    "28": {},
+                    "29": {},
+                    "3": {},
+                    "30": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "utm-kuala-lumpur": {
+                "page": {
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {},
+                    "15": {},
+                    "16": {},
+                    "17": {},
+                    "18": {},
+                    "19": {},
+                    "2": {},
+                    "20": {},
+                    "21": {},
+                    "22": {},
+                    "23": {},
+                    "24": {},
+                    "25": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {}
+                }
+            },
+            "webinar": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {}
+                }
+            },
+            "workshop": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {}
+                }
+            }
+        },
+        "library-events": {},
+        "library-visit": {},
+        "page": {
+            "10": {},
+            "100": {},
+            "101": {},
+            "102": {},
+            "103": {},
+            "104": {},
+            "105": {},
+            "106": {},
+            "107": {},
+            "108": {},
+            "109": {},
+            "11": {},
+            "110": {},
+            "111": {},
+            "112": {},
+            "113": {},
+            "114": {},
+            "115": {},
+            "116": {},
+            "117": {},
+            "118": {},
+            "119": {},
+            "12": {},
+            "120": {},
+            "121": {},
+            "122": {},
+            "123": {},
+            "124": {},
+            "125": {},
+            "126": {},
+            "127": {},
+            "128": {},
+            "129": {},
+            "13": {},
+            "130": {},
+            "131": {},
+            "132": {},
+            "133": {},
+            "134": {},
+            "135": {},
+            "136": {},
+            "137": {},
+            "138": {},
+            "139": {},
+            "14": {},
+            "140": {},
+            "141": {},
+            "142": {},
+            "143": {},
+            "144": {},
+            "145": {},
+            "146": {},
+            "147": {},
+            "148": {},
+            "149": {},
+            "15": {},
+            "150": {},
+            "151": {},
+            "152": {},
+            "153": {},
+            "154": {},
+            "155": {},
+            "156": {},
+            "157": {},
+            "158": {},
+            "159": {},
+            "16": {},
+            "160": {},
+            "161": {},
+            "162": {},
+            "163": {},
+            "164": {},
+            "165": {},
+            "166": {},
+            "167": {},
+            "168": {},
+            "169": {},
+            "17": {},
+            "170": {},
+            "171": {},
+            "172": {},
+            "173": {},
+            "174": {},
+            "175": {},
+            "176": {},
+            "177": {},
+            "178": {},
+            "179": {},
+            "18": {},
+            "180": {},
+            "181": {},
+            "182": {},
+            "183": {},
+            "184": {},
+            "185": {},
+            "186": {},
+            "187": {},
+            "188": {},
+            "189": {},
+            "19": {},
+            "190": {},
+            "191": {},
+            "192": {},
+            "193": {},
+            "194": {},
+            "195": {},
+            "196": {},
+            "197": {},
+            "198": {},
+            "199": {},
+            "2": {},
+            "20": {},
+            "200": {},
+            "201": {},
+            "202": {},
+            "203": {},
+            "204": {},
+            "205": {},
+            "206": {},
+            "207": {},
+            "208": {},
+            "209": {},
+            "21": {},
+            "210": {},
+            "211": {},
+            "212": {},
+            "213": {},
+            "214": {},
+            "215": {},
+            "216": {},
+            "217": {},
+            "218": {},
+            "219": {},
+            "22": {},
+            "220": {},
+            "221": {},
+            "222": {},
+            "223": {},
+            "224": {},
+            "225": {},
+            "226": {},
+            "227": {},
+            "228": {},
+            "229": {},
+            "23": {},
+            "230": {},
+            "231": {},
+            "232": {},
+            "233": {},
+            "234": {},
+            "235": {},
+            "236": {},
+            "237": {},
+            "238": {},
+            "239": {},
+            "24": {},
+            "240": {},
+            "241": {},
+            "242": {},
+            "243": {},
+            "244": {},
+            "245": {},
+            "246": {},
+            "247": {},
+            "248": {},
+            "249": {},
+            "25": {},
+            "250": {},
+            "251": {},
+            "252": {},
+            "253": {},
+            "254": {},
+            "255": {},
+            "256": {},
+            "26": {},
+            "27": {},
+            "28": {},
+            "29": {},
+            "3": {},
+            "30": {},
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {},
+            "36": {},
+            "37": {},
+            "38": {},
+            "39": {},
+            "4": {},
+            "40": {},
+            "41": {},
+            "42": {},
+            "43": {},
+            "44": {},
+            "45": {},
+            "46": {},
+            "47": {},
+            "48": {},
+            "49": {},
+            "5": {},
+            "50": {},
+            "51": {},
+            "52": {},
+            "53": {},
+            "54": {},
+            "55": {},
+            "56": {},
+            "57": {},
+            "58": {},
+            "59": {},
+            "6": {},
+            "60": {},
+            "61": {},
+            "62": {},
+            "63": {},
+            "64": {},
+            "65": {},
+            "66": {},
+            "67": {},
+            "68": {},
+            "69": {},
+            "7": {},
+            "70": {},
+            "71": {},
+            "72": {},
+            "73": {},
+            "74": {},
+            "75": {},
+            "76": {},
+            "77": {},
+            "78": {},
+            "79": {},
+            "8": {},
+            "80": {},
+            "81": {},
+            "82": {},
+            "83": {},
+            "84": {},
+            "85": {},
+            "86": {},
+            "87": {},
+            "88": {},
+            "89": {},
+            "9": {},
+            "90": {},
+            "91": {},
+            "92": {},
+            "93": {},
+            "94": {},
+            "95": {},
+            "96": {},
+            "97": {},
+            "98": {},
+            "99": {}
+        },
+        "submit-news": {},
+        "submit-roadshow": {}
+    },
+    "videos-interactive-guides": {},
+    "vision-mission-goals": {},
+    "web-team": {},
+    "work-life-of-women-in-malaysia-issues-and-challenges": {},
+    "wp-content": {
+        "uploads": {
+            "2015": {
+                "11": {
+                    "bahandeposit.pdf": {},
+                    "borang.pdf": {},
+                    "deposit_sample.pdf": {},
+                    "guide_input1.pdf": {},
+                    "input_artdoi.pdf": {},
+                    "masalah_carian1.pdf": {},
+                    "masalah_input2.pdf": {},
+                    "overview.pdf": {},
+                    "panduan.pdf": {},
+                    "permission_letter.pdf": {},
+                    "tgjwb-editor.pdf": {},
+                    "tjwb-pendeposit.pdf": {},
+                    "wujud_akaun_2013.pdf": {}
+                }
+            },
+            "2018": {
+                "03": {
+                    "przs2-1-1024x550.jpg": {},
+                    "psz-1024x558.jpg": {}
+                },
+                "09": {
+                    "pszkl-e1491986295373.jpg": {}
+                }
+            },
+            "2019": {
+                "04": {
+                    "Buku-Panduan-20182019-BI.pdf": {},
+                    "Buku-Panduan-20182019-BM.pdf": {},
+                    "Library-Handbook-2017_2018_BI.pdf": {},
+                    "Library-Handbook-2017_2018_BM.pdf": {},
+                    "THESIS-GUIDELINES-31.12.2018.pdf": {},
+                    "thesis_flow-3.pdf": {}
+                },
+                "05": {
+                    "AnnualReport20131.pdf": {},
+                    "Buletin-April-Jun-2018.pdf": {},
+                    "Buletin-Koleksi-Intelektual-Johor.pdf": {},
+                    "Final_Buletin-Apr-Jun-2017_Nazrin_redited-by-SNMA.pdf": {},
+                    "Final_Buletin-Julai-Sept-2017_26.4.2018.pdf": {},
+                    "Final_Buletin_Jan-Mac2017_26.4.2018.pdf": {},
+                    "Final_Buletin_Jan-Mac2018_edited26.4.2018.pdf": {},
+                    "LAPORAN-TAHUNAN-2016_Web-Library.pdf": {},
+                    "Laporan-Tahunan-2017-terbaru-compressed-min.pdf": {},
+                    "annualreport_2004.pdf": {},
+                    "annualreport_2005.pdf": {},
+                    "annualreport_2010.pdf": {},
+                    "annualreport_2015.pdf": {}
+                }
+            },
+            "2020": {
+                "01": {
+                    "pagoh-600x800-1.jpg": {},
+                    "przs-600x800-1.jpg": {},
+                    "pszjb-600x800-1.jpg": {},
+                    "pszkl.jpg": {}
+                },
+                "09": {
+                    "Buku-Panduan-Perpustakaan-UTM_2019_2020_edited.pdf": {},
+                    "UTM-Library-Handbook_2019_2020_edited.pdf": {}
+                },
+                "12": {
+                    "Basic-Info-Faculty-Perpustakaan-UTM-2010.pdf": {},
+                    "Basic-Info-Faculty-Perpustakaan-UTM-2011.pdf": {},
+                    "Basic-Info-PUTM-2013.pdf": {},
+                    "Basic-Info-PUTM-2017.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2010.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2011.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2012.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2018.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2019.pdf": {},
+                    "Basic-Info-Perpustakaan-UTM-2020.pdf": {}
+                }
+            },
+            "2021": {
+                "02": {
+                    "howtofndexmpprs_portal-01-1400x360.png": {}
+                },
+                "03": {
+                    "HOW-TO-APPLY-FOR-INTERLIBRARY-LOAN-ILL.pdf": {},
+                    "HOW-TO-CHECK-YOUR-ILL-APPLICATION-STATUS.pdf": {},
+                    "NEW-5.jpg": {}
+                },
+                "04": {
+                    "SDI-April-2021-Open-Science-in-Higher-Education_compressed.pdf": {}
+                },
+                "06": {
+                    "Picture2.png": {},
+                    "WhatsApp-Image-2021-05-04-at-16.00.55-2.jpeg": {}
+                },
+                "09": {
+                    "researchweek2021_fb-01.png": {}
+                },
+                "11": {
+                    "gmbr-special-01.png": {},
+                    "gmbr-special2-01.png": {},
+                    "gmbr-special3-01.png": {}
+                },
+                "12": {
+                    "gmbr-special4-01-01.png": {}
+                }
+            },
+            "2022": {
+                "03": {
+                    "csi_portal.png": {}
+                },
+                "08": {
+                    "EMERALD-13072022-01.png": {}
+                },
+                "09": {
+                    "Lexis-17082022-01.png": {}
+                }
+            },
+            "2023": {
+                "01": {
+                    "11-One-Petro.png": {},
+                    "12-ProQuest.png": {},
+                    "13-Elsevier.png": {},
+                    "14-Scopus.png": {},
+                    "15-SpringerNature.png": {},
+                    "17-WOS.png": {},
+                    "2-almanhal.png": {},
+                    "3-ASME.png": {},
+                    "4-ACM-DL.png": {},
+                    "5-Datastream.png": {},
+                    "6-Emerald.png": {},
+                    "7-Informit.png": {},
+                    "8-IEEExplore.png": {},
+                    "9-JSTOR.png": {},
+                    "Picture1.png": {}
+                },
+                "06": {
+                    "BuletinPerpsutakaan-Jan-Mac-2013.pdf": {},
+                    "BuletinPerpsutakaan-Jul-Sept-2010.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2010.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2011.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2012.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2013-Copy.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2014.pdf": {},
+                    "BuletinPerpustakaan-Apr-Jun-2015.pdf": {},
+                    "BuletinPerpustakaan-April-Jun-2016.pdf": {},
+                    "BuletinPerpustakaan-Jan-Mac-2011.pdf": {},
+                    "BuletinPerpustakaan-Jan-Mac-2012.pdf": {},
+                    "BuletinPerpustakaan-Jan-Mac-2014.pdf": {},
+                    "BuletinPerpustakaan-Jan-Mac-2015.pdf": {},
+                    "BuletinPerpustakaan-Jan-Mac-2016.pdf": {},
+                    "BuletinPerpustakaan-Jul-Sep-2011.pdf": {},
+                    "BuletinPerpustakaan-Jul-Sep-2013.pdf": {},
+                    "BuletinPerpustakaan-Julai-Sept-2015.pdf": {},
+                    "BuletinPerpustakaan-Julai_Sept-2016.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2010.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2011.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2013.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2014.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2015.pdf": {},
+                    "BuletinPerpustakaan-Okt-Dis-2016.pdf": {},
+                    "BuletinPerpustakaan-Okt_Dis-2012.pdf": {},
+                    "BuletinPerpustakaanJan-Mac-2010.pdf": {},
+                    "BulletinPerpustakaan-Jul-Sept-2014.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2006.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2008.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2009.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2011.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2012.pdf": {},
+                    "LaporanTahunanPerpustakaanUTM2014.pdf": {}
+                },
+                "08": {
+                    "Carta-Organisasi_Jun-2022-01-1.png": {}
+                },
+                "11": {
+                    "WhatsApp-Image-2023-11-09-at-14.24.04.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.24.31.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.25.00.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.36.50.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.38.18.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.38.52.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.39.20.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.39.49.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.40.17.jpeg": {},
+                    "WhatsApp-Image-2023-11-09-at-14.44.12.jpeg": {}
+                }
+            },
+            "2024": {
+                "02": {
+                    "Declaration-of-Thesis-1-23.pdf": {}
+                },
+                "03": {
+                    "MyCite_Tahun_2023_RASMI.pdf": {},
+                    "WhatsApp-Image-2024-03-11-at-12.23.22_f0af0842.jpg": {},
+                    "WhatsApp-Image-2024-03-11-at-12.25.43_c50494d5.jpg": {},
+                    "WhatsApp-Image-2024-03-11-at-12.26.25_476fbfdb.jpg": {}
+                },
+                "04": {
+                    "Poster-Gale140524.png": {}
+                },
+                "05": {
+                    "Poster-EndNote-X9-160524.png": {},
+                    "WhatsApp-Image-2024-05-05-at-09.31.50_d07cf5ff.jpg": {}
+                },
+                "06": {
+                    "Check-and-update-the-profile.pdf": {},
+                    "Librarain_Maintaining-of-Other-Peoples-Profiles-Overview.pdf": {},
+                    "Q1-Q2-Journals.pdf": {},
+                    "Researcher_maintaining-your-own-profile-Profile.pdf": {}
+                },
+                "07": {
+                    "BORANG-KEAHLIAN-LUAR-PERPUSTAKAAN-UTM_2022.pdf": {}
+                },
+                "08": {
+                    "Keahlian-Luar-3.png": {},
+                    "Poster-turnitin-4-instructors_260824.png": {}
+                },
+                "11": {
+                    "IMG-20230614-WA0016.jpg": {}
+                }
+            },
+            "2025": {
+                "01": {
+                    "JANUARI-2025-Exploring-the-dynamics-and-significant-impacts-of-internationalization-on-higher-education.pdf": {}
+                }
+            }
+        }
+    },
+    "wp-login.php": {}
 }
