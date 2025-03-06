@@ -1,3 +1,572 @@
 {
-    "": {}
+    "": {},
+    "actconference": {
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "57": {
+                        "2023": {
+                            "05": {
+                                "Scholars-Inn-UTMKL2.jpg": {},
+                                "Scholars-Inn-UTMKL3.jpg": {},
+                                "bowling2.jpg": {},
+                                "superiorking-residensi.jpg": {},
+                                "superiortwin-residensi3.jpg": {},
+                                "superiortwin-swimming-pool.jpg": {},
+                                "tamu1.jpg": {},
+                                "tamu2.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ahibsbizconnection": {
+        "issue12021": {},
+        "issue4": {},
+        "secondissue2021": {},
+        "thirdissue": {}
+    },
+    "ijibs": {},
+    "aac": {},
+    "aarc": {},
+    "academics": {},
+    "accounting-finance-faculty-members": {},
+    "actconference2024": {
+        "accomodation": {},
+        "aic": {},
+        "callforcases": {},
+        "callforpaper2024": {},
+        "case-study-abstracts": {},
+        "committee": {},
+        "doctoralcolloquium": {},
+        "granddinner": {},
+        "iarc": {},
+        "keynotespeakers": {},
+        "paper-abstracts": {},
+        "programoverview": {},
+        "registration": {},
+        "sponsor": {},
+        "workshop": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "58": {
+                        "2024": {
+                            "03": {
+                                "Author-Guidelines.docx": {},
+                                "Author-Guidelines_revised-11032024.docx": {},
+                                "Consent-letter-from-Case-Company.docx": {},
+                                "Teaching-Case-Template_revised-11032024.docx": {},
+                                "Teaching-Note-Template_revised-11032024.docx": {},
+                                "Template-for-extended-abstract-AHIBS-ACT-2024-2.docx": {}
+                            },
+                            "04": {
+                                "DC_Template.doc": {}
+                            },
+                            "05": {
+                                "AHIBS-ACT-2024-BOOTH-TC.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "adjunct-professor": {},
+    "adriana_intro": {},
+    "ahibs-advisory-council-members": {},
+    "ahibs-brand-book-4": {},
+    "ahibs-iarc-2023-proceedings-volume-i": {},
+    "ahibs-iarc-2023-proceedings-volume-ii": {},
+    "ahibs-iarc-2024-proceedings": {},
+    "ahibs-ific-2023-proceedings": {},
+    "ahibs-postgraduate": {},
+    "ahibs-staff": {
+        "page": {
+            "2": {}
+        }
+    },
+    "ahibsresearchunit": {},
+    "alumni": {},
+    "asanali_intro": {},
+    "azam_intro": {},
+    "beni_intro": {},
+    "blog": {
+        "2017": {
+            "02": {
+                "21": {
+                    "dean-ckgsb-at-utm-ibs": {},
+                    "miti-urges-engagements-with-members-of-academia": {},
+                    "utm-ibs-eligibility-for-pre-accreditation-process": {}
+                }
+            },
+            "11": {
+                "23": {
+                    "lecture-series-utm-ibs-innovation-business-strategies-discourse": {}
+                }
+            }
+        },
+        "2019": {
+            "09": {
+                "19": {
+                    "aac-news1": {}
+                }
+            },
+            "10": {
+                "02": {
+                    "international-staff-exchange-program": {}
+                }
+            }
+        },
+        "2020": {
+            "01": {
+                "23": {
+                    "makeover-of-our-staff-lounge-at-ahibs-kl": {}
+                }
+            },
+            "02": {
+                "05": {
+                    "active-learning-workshop": {}
+                }
+            }
+        },
+        "2021": {
+            "03": {
+                "29": {
+                    "pandemic-and-sustainability": {}
+                }
+            },
+            "04": {
+                "30": {
+                    "way-forward-driving-tvet-education-in-malaysia": {}
+                }
+            },
+            "12": {
+                "14": {
+                    "green-behaviour-matters": {}
+                }
+            }
+        },
+        "2022": {
+            "06": {
+                "23": {
+                    "hari-raya-aidilfitri": {},
+                    "sustainable-fashion-the-way-for-future-but-where-are-we-now": {}
+                }
+            },
+            "10": {
+                "04": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-1-2022-2023": {}
+                }
+            },
+            "12": {
+                "21": {
+                    "theeconomywa": {}
+                },
+                "25": {
+                    "adolescencementalhealth": {},
+                    "csr": {},
+                    "healthyspine": {}
+                },
+                "26": {
+                    "bee-modular-utm-and-community-empowerment": {},
+                    "is-it-worth-to-invest-on-green-social-media-influencers": {},
+                    "the-metaverse-tourism-a-new-way-of-sustainable-tourism": {},
+                    "vrshopping": {}
+                }
+            }
+        },
+        "2023": {
+            "03": {
+                "23": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-2-2022-2023": {}
+                }
+            },
+            "07": {
+                "12": {
+                    "a-paradigm-shift-in-investing-risks-and-rewards": {},
+                    "embracing-autonomous-vehicles-transforming-society-and-improving-public-health": {},
+                    "health-and-wellness-programs-in-corporate-settings-expanding-physiotherapy-services-to-the-workplace": {},
+                    "healthcare-fragmentation-the-headache-for-healthcare-leaders": {},
+                    "interacting-with-ai-a-closer-look-at-chatgpt": {},
+                    "linkedin-unleashed-igniting-your-businesss-marketing-success-on-the-worlds-premier-professional-platform": {},
+                    "strategy-beyond-covid-19-now-and-next": {}
+                }
+            },
+            "08": {
+                "30": {
+                    "disaster-management-how-ontology-saves-communities": {},
+                    "remove-antibiotics-in-water-by-just-using-biomass-how-that-possible": {},
+                    "smartprenuer-are-you-one": {},
+                    "sustainable-consumption-is-it-a-myth-or-the-reality": {}
+                }
+            },
+            "09": {
+                "04": {
+                    "how-halal-industry-can-embrace-the-4th-industrial-revolution": {},
+                    "respect-does-it-matter": {},
+                    "transitioning-from-passion-to-action-the-motivations-driving-ecopreneurial-intentions": {},
+                    "understanding-investor-behavior-what-you-need-to-know": {},
+                    "unlocking-the-secrets-of-entrepreneurship-a-deep-dive-into-the-tawhidic-approach": {},
+                    "would-you-choose-digital-only-banks": {}
+                },
+                "05": {
+                    "does-the-sustainability-practise-of-human-resources-increase-employee-productivity": {},
+                    "exploring-human-nature-through-the-power-of-fun-beliefs": {},
+                    "how-artificial-intelligence-reshapes-higher-education": {},
+                    "is-it-worth-investing-on-green-product-innovation": {},
+                    "the-case-for-streamlining-malaysian-third-sector-regulation": {}
+                }
+            },
+            "10": {
+                "02": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-1-2023-2024": {}
+                }
+            },
+            "12": {
+                "18": {
+                    "climate-changes-in-malaysia-wake-up-its-real": {},
+                    "covid-business-matrix-cobum-for-a-remade-world": {},
+                    "fueling-organizational-resilience-through-additive-manufacturing-see-you-covid-19": {},
+                    "life-is-too-short-to-be-wasted": {},
+                    "overconsumption-does-it-matter": {},
+                    "positive-communication-is-at-the-core": {},
+                    "work-life-balance-back-to-the-basic": {}
+                }
+            }
+        },
+        "2024": {
+            "03": {
+                "12": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-2-2023-2024": {}
+                }
+            },
+            "07": {
+                "16": {
+                    "ai-how-smart-machines-are-supercharging-business-strategy": {}
+                },
+                "19": {
+                    "a-tale-of-time-mastery-the-triumph-of-a-career-women": {},
+                    "malaysiaaid-libya-transforming-to-global-halal-economy-powerhouse": {},
+                    "physiotherapy-in-health-maintenance-of-the-doctoral-students": {},
+                    "the-third-sector-an-essential-and-dynamic-segment-of-the-economy": {}
+                }
+            },
+            "09": {
+                "20": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-1-2024-2025": {}
+                }
+            },
+            "12": {
+                "10": {
+                    "the-synergy-of-entrepreneurship-and-aia-blueprint-for-innovation": {},
+                    "transforming-consumer-experience-and-accelerating-adoption": {}
+                },
+                "11": {
+                    "family-business-here-to-stay-for-a-long-time": {},
+                    "love-pets-buy-pet-insurance-for-your-loved-one": {},
+                    "preparing-for-the-age-of-longevity": {}
+                }
+            }
+        },
+        "2025": {
+            "03": {
+                "04": {
+                    "class-schedule-for-mbamba-odldbaphdmsc-foodi-sem-2-2024-2025": {}
+                }
+            }
+        },
+        "author": {
+            "azam": {},
+            "basheer": {},
+            "beni": {},
+            "darween": {},
+            "dr-normalmj": {},
+            "farah": {},
+            "farzana": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "haliyana": {},
+            "harcharanjitsingh": {},
+            "hidayati": {},
+            "iskandar": {},
+            "julianneo": {},
+            "nazimahahibs": {},
+            "nomahaza": {},
+            "profasanali": {},
+            "profnurnaha": {},
+            "rafi": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "rafidah": {},
+            "ramayah": {},
+            "razli": {},
+            "shathees": {},
+            "sitiasma": {},
+            "teopohchuin": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "webmaster": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "zarinasalam": {},
+            "zuraidahsulaiman": {}
+        },
+        "category": {
+            "ahibs-bizconnection": {
+                "csr": {},
+                "digital-business": {
+                    "page": {
+                        "2": {}
+                    }
+                },
+                "economy": {},
+                "finance": {},
+                "management": {
+                    "page": {
+                        "2": {}
+                    }
+                },
+                "marketing-ahibs-bizconnection": {},
+                "page": {
+                    "2": {},
+                    "3": {}
+                },
+                "secondissue": {},
+                "social-return": {}
+            },
+            "class-schedule": {},
+            "employee-well-being": {},
+            "event": {},
+            "marketing": {},
+            "news": {},
+            "scholarly-insights": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "staff-activity": {}
+        }
+    },
+    "booking-ahibs": {},
+    "case-study-collection-volume-1": {},
+    "case-study-collection-volume-2": {},
+    "class-schedule": {
+        "page": {
+            "2": {}
+        }
+    },
+    "conference-proceedings": {},
+    "current-student": {},
+    "dba": {},
+    "disruptivemarketpreneur": {},
+    "download-academic-guide": {},
+    "download-for-staff": {},
+    "download-postgraduate-studies": {},
+    "drfauziah-intro": {
+        "fsa@utm.my": {}
+    },
+    "economic-faculty-members": {},
+    "entrepreneurship-faculty-members": {},
+    "executive-education": {},
+    "executives": {},
+    "farah-akmar-intro": {},
+    "farzana_intro": {},
+    "fic-2022-proceedings": {},
+    "gra-vacancy": {},
+    "green-leaf-at-ahibs-audit-2023": {},
+    "green-leaf-at-ahibs-infographic": {},
+    "green-leaf-at-ahibs-program": {},
+    "haliyanakhalid": {},
+    "harcharanjit-intro": {
+        "harcharanjit@utm.my": {}
+    },
+    "history": {
+        "client-charter": {},
+        "green-leaf-at-ahibs": {},
+        "quality": {},
+        "ranking": {},
+        "thedean": {},
+        "vision-and-mission": {}
+    },
+    "human-resource-management": {},
+    "ibsrg": {},
+    "information-system-faculty-members": {},
+    "iskandar": {},
+    "issue-5-2023": {},
+    "issue-6-2023": {},
+    "issue-7-2024": {},
+    "issue-8-2024": {},
+    "jinsights": {
+        "page": {
+            "2": {}
+        }
+    },
+    "life-ahibs": {},
+    "linkages": {},
+    "maizatul_intro": {},
+    "marketing-faculty-members": {},
+    "mazuwin-intro": {},
+    "mba-current": {},
+    "mba-latest": {},
+    "meet-and-mingle-details": {},
+    "mobility-programme": {},
+    "mscfoodi": {},
+    "nh_intro": {},
+    "nomahaza_intro": {
+        "nomahaza.kl@utm.my": {}
+    },
+    "noraizamohdzamil": {
+        "cv_noraiza_17-3-2021": {}
+    },
+    "norhidayati": {},
+    "normal": {
+        "normal@utm.my": {}
+    },
+    "ong_intro": {},
+    "ongchoonhee": {},
+    "phd": {},
+    "pitch-for-funding": {},
+    "poh-chuin-intro": {},
+    "programs": {
+        "dba": {
+            "dba-apel-q": {}
+        },
+        "mba-latest": {
+            "mba-odl": {}
+        },
+        "mba": {},
+        "phd": {}
+    },
+    "quality-management-system-documents": {},
+    "rafidah-intro": {
+        "rafidah.othman@utm.my": {}
+    },
+    "razli-intro": {},
+    "research-2": {
+        "books": {
+            "ahibsresearch@utm.my": {}
+        },
+        "internationalresearchprojects": {}
+    },
+    "research": {
+        "ibsrg": {},
+        "lsvrg-homepage": {}
+    },
+    "rk": {},
+    "rohaida_intro": {},
+    "rosminiomar": {},
+    "rossilah_intro": {},
+    "safe": {},
+    "shathees": {},
+    "shathees_intro": {},
+    "societal-impact": {},
+    "staff-list-academic": {},
+    "staff-list-administration": {},
+    "theresa-intro": {},
+    "video": {},
+    "wp-content": {
+        "uploads": {
+            "2019": {
+                "08": {
+                    "SHAC_SBSC.pdf": {}
+                },
+                "09": {
+                    "CV-Dr-Nazimah-Hussin-CRG-24092019.pdf": {},
+                    "PHOTO-2020-05-01-21-26-36-1.jpg": {},
+                    "PHOTO-2020-05-01-21-26-36.jpg": {}
+                }
+            },
+            "2020": {
+                "02": {
+                    "active-learning2.jpg": {},
+                    "active-learning3.jpg": {},
+                    "active-learning4.jpg": {}
+                },
+                "07": {
+                    "CV-Dr-Rossilah-AHIBS.pdf": {}
+                },
+                "09": {
+                    "CV-Maizaitulaidawati.pdf": {}
+                },
+                "10": {
+                    "Guideline-to-Online-Registration-Course-2.pdf": {}
+                }
+            },
+            "2021": {
+                "08": {
+                    "MSc-Foodi-Programme-Brochure_UTMLatest-1-1.pdf": {},
+                    "Poster-MSc-Foodi-Programme-UTM.pdf": {}
+                },
+                "10": {
+                    "BURSAR-CIRCULAR-NO.-012021-ENFORCEMENT-OF-UNIVERSITI-TEKNOLOGI-MALAYSIA-RULES-STUDENT-FINANCIAL.pdf": {},
+                    "Final08-LAMPIRAN-II-Peraturan-Akademik-Pengajian-Siswazah-BMBIKelulusan-Senat-29Jan2020latest11MAC2020.pdf": {},
+                    "MBA-Course-Structure.zip": {}
+                }
+            },
+            "2022": {
+                "03": {
+                    "Online-registration-steps-International-Students.jpeg": {},
+                    "e-registration-Guide-for-New-Students.jpeg": {}
+                }
+            },
+            "2023": {
+                "03": {
+                    "Class-Schedule-for-MBA-DBA-PhD-Semester-2-2022-2023-v3.zip": {},
+                    "JADUAL-SEM-2-SESI-2022_2023-UPDATED-22032023.zip": {},
+                    "MSC-FOODI-course-structure-course-offering-and-class-schedule-Sem-2-20222023-v2-2.zip": {},
+                    "Tentative-Course-Offering-MBA-DBA-19.3.2023.zip": {}
+                }
+            },
+            "2024": {
+                "08": {
+                    "CONTACT-PERSON-1.pdf": {},
+                    "Course-Registration-Guidelines.mp4": {},
+                    "DBA-REGISTRATION-KITS.pdf": {},
+                    "Facilities-CBH.jpg": {},
+                    "Facilities-Kaizen.jpg": {},
+                    "Facilities-The-ACT-Lab.jpg": {},
+                    "Facilities-bonding-space.jpg": {},
+                    "Facilities-gym.jpg": {},
+                    "Facilities-lecture-room-big.jpg": {},
+                    "Facilities-lecture-room-small.jpg": {},
+                    "Facilities-staff-lounge.jpg": {},
+                    "Facilities-syndicate-rooms.jpg": {},
+                    "GRADING-SYSTEM.pdf": {},
+                    "MBA-REGISTRATION-KITS.pdf": {},
+                    "MSc-FOODI-REGISTRATION-KITS.pdf": {},
+                    "PhD-REGISTRATION-KITS.pdf": {}
+                },
+                "09": {
+                    "dr-adriana-1-e1726125309240.png": {},
+                    "dr-aiza-1-e1726125045611.png": {},
+                    "dr-haliyana-1-e1726125827933.png": {},
+                    "dr-hidayati-1-e1726125139486.png": {},
+                    "dr-mazuwin-1-e1726125412868.png": {},
+                    "dr-shathees-1-e1726125570362.png": {},
+                    "dr_asma--e1726122849547.png": {},
+                    "haji-razli-1-e1726124947981.png": {},
+                    "husna--e1726124534333.png": {}
+                }
+            },
+            "2025": {
+                "01": {
+                    "AFIQ-e1737334066647.png": {},
+                    "kak-imma-removebg-e1736845085467.png": {}
+                }
+            }
+        }
+    },
+    "zas_intro": {}
 }

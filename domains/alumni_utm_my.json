@@ -1,3 +1,9 @@
 {
-    "": {}
+    "": {},
+    "Account": {
+        "frmForgotPassword.aspx": {},
+        "frmSearchAccount.aspx": {}
+    },
+    "default.aspx": {},
+    "frmRequestAccount.aspx": {}
 }

@@ -281,7 +281,9 @@
     "info-and-guideline": {},
     "master-cs": {},
     "master-csy": {},
-    "master-ic": {},
+    "master-ic": {
+        "fcmicomp@utm.my": {}
+    },
     "master-of-philosophy-cs": {},
     "master-of-philosophy-se": {},
     "master-of-science-ds": {},
@@ -346,7 +348,9 @@
         "psm": {},
         "submissions": {}
     },
-    "prisms": {},
+    "prisms": {
+        "fcinfosec@utm.my": {}
+    },
     "psm": {
         "2014": {
             "09": {

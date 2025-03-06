@@ -1,3 +1,41 @@
 {
-    "": {}
+    "": {},
+    "aboutus": {},
+    "activities": {},
+    "ai-and-planningscheduling": {},
+    "awards": {},
+    "bioinformatics-2": {},
+    "bioinformatics": {},
+    "conference": {},
+    "contact-us-2": {},
+    "feed": {},
+    "image-processing": {},
+    "industrial-partnerships": {},
+    "jurnal": {},
+    "people": {},
+    "planning-and-scheduling": {},
+    "projects": {},
+    "research": {},
+    "software-engineering-2": {},
+    "software-engineering": {},
+    "staff": {},
+    "students": {},
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "2662": {
+                    "2015": {
+                        "11": {
+                            "aibig-e1505767712407.jpg": {}
+                        }
+                    },
+                    "2020": {
+                        "03": {
+                            "lawatan-lab-1.jpg": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

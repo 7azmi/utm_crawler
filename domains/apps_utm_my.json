@@ -1,3 +1,108 @@
 {
-    "": {}
+    "": {},
+    "Login": {},
+    "Register": {},
+    "Rooms": {},
+    "Space": {},
+    "about-us": {},
+    "contact-us": {},
+    "events": {
+        "calendar": {},
+        "past-events": {},
+        "upcoming-events": {}
+    },
+    "getattachment": {
+        "Rooms": {
+            "Bilik-Kebudayaan-KSJ": {
+                "BILIK-KEBUDAYAAN-KSJ-1.jpeg": {}
+            },
+            "Bilik-Nilam": {
+                "Bilik-Nilam-1.jpeg": {},
+                "Bilik-Nilam-2.jpeg": {}
+            },
+            "Bilik-Rehat-Pensyarah-2": {
+                "Bilik-Urus-Setia-1.jpeg": {},
+                "Bilik-Urus-Setia-2.jpeg": {},
+                "Bilik-Urus-Setia-3.jpeg": {},
+                "Bilik-Urus-Setia-4.jpeg": {}
+            }
+        },
+        "Space": {
+            "Dataran_Ilmu": {
+                "dewanbesardataranilmu-1.jpg": {}
+            }
+        }
+    },
+    "getmetafile": {
+        "13300a74-844f-45b4-bd83-c221bac235c1": {
+            "uploaded-soon-icon": {}
+        },
+        "26b744d8-cc64-4b25-a218-a6bfadf00e7d": {
+            "Bilik-Nilam-3": {}
+        },
+        "4e1436e9-c477-4ba4-954b-6c7ee7149b03": {
+            "uploaded-soon-icon": {}
+        },
+        "51b4fc89-23d9-4f16-a05c-e0186f471f8a": {
+            "uploaded-soon-icon": {}
+        },
+        "672b9b54-b6c2-48b7-8613-c6c3041f8b46": {
+            "dewanbesardataranilmu": {}
+        },
+        "6ddbc5fd-f323-4212-bee4-ddc1c19e763c": {
+            "Bilik-Ilmuan-1": {}
+        },
+        "6fde0e2f-b65b-4e27-b7b9-a492088b3f97": {
+            "Bilik-Urus-Setia-1": {}
+        },
+        "77e760e5-98eb-4529-bebc-2557bf69dd46": {
+            "BILIK-KEBUDAYAAN-KSJ-2": {}
+        },
+        "81cc64f1-77a9-4090-8879-c958ec711f45": {
+            "uploaded-soon-icon": {}
+        },
+        "8f7c0425-5799-40f3-aa44-cc4cb5527839": {
+            "uploaded-soon-icon": {}
+        },
+        "9c2e15f3-3084-4720-a830-ef3896addd9b": {
+            "uploaded-soon-icon": {}
+        },
+        "9c8f9271-600a-4032-9525-a9dc3017c5be": {
+            "Bilik-Delima-3": {}
+        },
+        "a3252724-1a52-4708-b83f-8c3c91986704": {
+            "Bilik-Ilmuan-2": {}
+        },
+        "c62a9a78-2a99-4e59-b76f-a249001dc6f3": {
+            "Bilik-Ilmuan-3": {}
+        },
+        "e7f8b1a5-d6bc-486c-afa4-68aabc019c94": {
+            "WhatsApp-Image-2025-01-09-at-11-32-42": {}
+        },
+        "f631d83c-d141-4cca-b7af-a446f0e67728": {
+            "WhatsApp-Image-2025-01-09-at-11-32-42": {}
+        }
+    },
+    "login": {},
+    "promotions": {},
+    "rooms": {
+        "bilik-delima": {},
+        "bilik-ilmuan-1": {},
+        "bilik-ilmuan-2": {},
+        "bilik-ilmuan-3": {},
+        "bilik-kebudayaan-ksj": {},
+        "bilik-kuliah-anjung-menara-1": {},
+        "bilik-nilam": {},
+        "bilik-rehat-pensyarah-1": {},
+        "bilik-rehat-pensyarah-2": {}
+    },
+    "space": {
+        "astaka_ksj": {},
+        "dataran_ilmu": {},
+        "dataran_mjiit_lobi": {},
+        "dataran_mjiit_padang": {},
+        "jalan_cantik": {},
+        "lot_booth": {},
+        "lot_food_truck": {}
+    }
 }

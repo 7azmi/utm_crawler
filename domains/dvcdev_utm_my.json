@@ -1,3 +1,820 @@
 {
-    "": {}
+    "": {},
+    "about-us": {},
+    "about": {
+        "board-of-directors": {}
+    },
+    "advancement": {
+        "aktiviti": {},
+        "carta-organisasi": {},
+        "hubungi-kami": {},
+        "kakitangan": {},
+        "kalendar-aktiviti": {},
+        "latar-belakang": {},
+        "polisi": {}
+    },
+    "alumni-utm-antara-korban-insiden-helikopter-terhempas-di-pangkalan-tldm": {},
+    "alumni": {},
+    "background": {},
+    "bengkel-penambahbaikan-payhub-cashless-initiative-jtncp-utm": {},
+    "bmd": {
+        "1048-2": {},
+        "2023": {
+            "06": {
+                "12": {
+                    "988": {},
+                    "994": {},
+                    "slide-1": {},
+                    "slide-2": {}
+                }
+            }
+        },
+        "about-us-2": {},
+        "about-us": {},
+        "borang": {},
+        "enquiries": {},
+        "organization-structure": {}
+    },
+    "bpa-kl": {},
+    "bpa": {
+        "cuba": {},
+        "feed": {}
+    },
+    "careercentre": {},
+    "cmu": {},
+    "contract-advertisement": {},
+    "counsellingcentre": {},
+    "department-dvcai": {
+        "files": {
+            "2022": {
+                "01": {
+                    "Pekeliling-Akademik-Kaedah-PnP-Semasa-Pandemik-Bil.-1.2022.pdf": {}
+                }
+            }
+        }
+    },
+    "dvcdev": {},
+    "edutourism": {
+        "corporatesvideos": {},
+        "photo-album": {}
+    },
+    "endowmen": {
+        "about-utm-endowment": {},
+        "biasiswa-endowmen-utm": {},
+        "bidaan-no-plat-kenderaan-utm": {
+            "tawaran-bidaan": {}
+        },
+        "board-of-trustee": {},
+        "contactus": {},
+        "director-message2": {},
+        "donation-options": {},
+        "endowmen-utm-account": {},
+        "endowment-management-committee": {},
+        "endowment-utm-project": {},
+        "gallery": {},
+        "menara-endowment": {},
+        "organization-chart": {},
+        "potongan-gaji": {},
+        "publication": {},
+        "way-to-give-2": {}
+    },
+    "enquiries": {},
+    "erasmuss-program-engagement-broadens-the-global-reach-of-utm-in-turkiye": {},
+    "event-calendar": {},
+    "feedback": {},
+    "harta-tanah": {
+        "2024": {
+            "08": {
+                "08": {
+                    "perbincangan-kumpulan-berfokus-bagi-persediaan-sesi-libat-urus-bersama-ahli-lembaga-pengarah-cadangan-pembangunan-tanah-utm-di-setapak-kuala-lumpur": {}
+                },
+                "21": {
+                    "mesyuarat-pengurusan-seksyen-harta-tanah-bil-5-2024": {}
+                }
+            },
+            "09": {
+                "04": {
+                    "kerja-pengukuran-kawasan-guna-tanah-ptd115939": {}
+                }
+            },
+            "10": {
+                "13": {
+                    "kerja-pengukuran-tapak-bangunan-stor-pelupusan-buangan-terjadual-bahan-kimia": {}
+                }
+            }
+        },
+        "about-us": {},
+        "carta-organisasi": {},
+        "client-charter": {},
+        "core-business": {},
+        "enquiries-2": {},
+        "form": {},
+        "staff-directory": {},
+        "vission-mission": {}
+    },
+    "healthcentre": {},
+    "hospitality": {
+        "hubungi-kami": {},
+        "pelbagai-borang": {},
+        "perumahanstaf": {},
+        "soalan-lazim": {},
+        "staff-directories": {},
+        "unit-kediaman-pelajar": {
+            "perumahan-pelajar-berkeluarga-universiti": {}
+        },
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "24": {
+                        "2023": {
+                            "06": {
+                                "Bil-1-2023-Notis-kepada-Pelajar_.pdf": {},
+                                "College-Application-Session-2024_2025.pdf": {},
+                                "NOTICE-TO-STUDENT-NO.-1-2024.pdf": {},
+                                "NOTIS-KEPADA-PELAJAR-BIL-1-2024.pdf": {},
+                                "No-1-2023-Notice-to-Student_.pdf": {}
+                            },
+                            "09": {
+                                "Bil-3-2023-Notis-kepada-Pelajar.pdf": {},
+                                "No-3-2023-Notice-to-Student.pdf": {}
+                            }
+                        },
+                        "2024": {
+                            "05": {
+                                "NKP-Bil-2-2024-UTMSPACE.pdf": {}
+                            },
+                            "06": {
+                                "Permohonan-Kolej-Sesi-2024_2025.pdf": {}
+                            },
+                            "07": {
+                                "Bil-4-2024-Notis-Cuti-2-20242025-1.pdf": {},
+                                "No-4-2024-Sem-Break-20242025-1.pdf": {}
+                            }
+                        },
+                        "2025": {
+                            "01": {
+                                "Bil-1-2025-Cuti-Sem-1.pdf": {},
+                                "No-1-2025-Sem-Break-1.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "international": {},
+    "job-advertisement": {},
+    "jtncp-utm-sambut-lawatan-jland-group-ke-lokasi-telaga-akuifer": {},
+    "kelestarian": {},
+    "legal": {},
+    "location-utm": {},
+    "majlis-penyerahan-basikal-ahli-pengurusan-tertinggi": {},
+    "melakar-impian-2025-oleh-ybrs-prof-ts-dr-edy-tonnizam-mohamad": {},
+    "message-from-tncp": {},
+    "office-vc": {},
+    "online-services": {},
+    "oshe": {
+        "2019-photos": {},
+        "2020-photo": {},
+        "action-report-e-form": {},
+        "akkp-2019": {},
+        "annual-report-oshe": {},
+        "background": {},
+        "certification": {},
+        "client-charter": {},
+        "emergency-contact-number": {},
+        "emergency-response-team-ert": {},
+        "environmental-unit": {},
+        "fiesta-oshe": {},
+        "flowchart": {},
+        "guidelines-on-control-and-safe-handling-of-nanomaterials": {},
+        "ibc": {},
+        "infografik": {},
+        "list-forms": {},
+        "lokasi-audit-mengikut-kategori": {},
+        "management": {},
+        "osh-masterplan-2021-2025": {},
+        "osh": {},
+        "oshe-activities-2022": {},
+        "oshe-assist": {},
+        "pekeliling-pentadbiran-bil-292016-2": {},
+        "policy": {},
+        "radiationsafety": {},
+        "safety-alert": {},
+        "vision-mission": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "17": {
+                        "2024": {
+                            "02": {
+                                "OSH-Monitoring-Inspection-Investigation-Diagram-scaled.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "oshe-kl": {
+        "accomplishments": {},
+        "client-charter": {},
+        "contact-us": {},
+        "disclaimer": {},
+        "download": {},
+        "faq": {},
+        "functions": {},
+        "history": {},
+        "image-gallery": {},
+        "jkkp-ptj-utmkl": {},
+        "jkkputmkl": {},
+        "muat-turun": {
+            "talian-kecemasan": {}
+        },
+        "objectives": {},
+        "okk-chart": {},
+        "organization-chart": {},
+        "oshe-assist": {},
+        "osheadmin": {},
+        "osheutmkl-ert-chart": {},
+        "osheutmkl-jkkp-chart": {},
+        "osheutmkl-staff-directory": {},
+        "oshmp": {},
+        "policy": {},
+        "services": {},
+        "special-committee": {},
+        "utmkl-evacuation-zones": {},
+        "utmkl-expertgroup": {},
+        "video-gallery": {},
+        "vision-mission": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "31": {
+                        "2024": {
+                            "04": {
+                                "Sijil-ISO-45001-OSHMS-OSHE-UTM-2024-2027.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "oshesmart": {},
+    "page": {
+        "2": {},
+        "3": {}
+    },
+    "pembangunan": {
+        "2024": {
+            "11": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "feed": {}
+    },
+    "perancangankorporat": {},
+    "professors-council": {},
+    "program-gotong-royong-mengecat-perumahan-desa-bakti": {},
+    "program-jom-balik-raya-2024": {},
+    "promosi-pemasaran": {
+        "2024": {
+            "03": {
+                "26": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "author": {
+            "syafiqanis": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "commercial": {},
+        "endowmen": {},
+        "event-calendar": {},
+        "fasiliti-sukan": {},
+        "feed": {},
+        "penjanaan-utm-kl": {},
+        "scholars-inn": {},
+        "utm-geotourism": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "45": {
+                        "2024": {
+                            "09": {
+                                "Slide1-scaled.jpg": {},
+                                "Slide10-scaled.jpg": {},
+                                "Slide11-scaled.jpg": {},
+                                "Slide12-scaled.jpg": {},
+                                "Slide13-scaled.jpg": {},
+                                "Slide14-scaled.jpg": {},
+                                "Slide15-scaled.jpg": {},
+                                "Slide16-scaled.jpg": {},
+                                "Slide17-scaled.jpg": {},
+                                "Slide18-scaled.jpg": {},
+                                "Slide19-scaled.jpg": {},
+                                "Slide2-scaled.jpg": {},
+                                "Slide20-scaled.jpg": {},
+                                "Slide21-scaled.jpg": {},
+                                "Slide22-scaled.jpg": {},
+                                "Slide23-scaled.jpg": {},
+                                "Slide24-scaled.jpg": {},
+                                "Slide25-scaled.jpg": {},
+                                "Slide26-scaled.jpg": {},
+                                "Slide27-scaled.jpg": {},
+                                "Slide28-scaled.jpg": {},
+                                "Slide29-scaled.jpg": {},
+                                "Slide3-scaled.jpg": {},
+                                "Slide30-scaled.jpg": {},
+                                "Slide31-scaled.jpg": {},
+                                "Slide32-scaled.jpg": {},
+                                "Slide33-scaled.jpg": {},
+                                "Slide34-scaled.jpg": {},
+                                "Slide35-scaled.jpg": {},
+                                "Slide4-scaled.jpg": {},
+                                "Slide5-scaled.jpg": {},
+                                "Slide6-scaled.jpg": {},
+                                "Slide7-scaled.jpg": {},
+                                "Slide8-scaled.jpg": {},
+                                "Slide9-scaled.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "qrim": {},
+    "scholars-inn": {
+        "about": {},
+        "category": {
+            "announcements": {},
+            "reservation": {}
+        },
+        "contact": {},
+        "eco-tourism": {},
+        "facilities": {},
+        "scholars-banquet": {},
+        "scholarscafe": {},
+        "types-single-queen-aircond": {
+            "deluxe-room": {},
+            "scholar-room": {},
+            "single-queen-room-aircond-fan": {},
+            "suite-room": {}
+        },
+        "vip-visits": {}
+    },
+    "selamat-bersara-dan-terima-kasih-encik-mahmood-bin-talus": {},
+    "selamat-bersara-dan-terima-kasih-encik-mazelan-bin-tahib": {},
+    "selamat-bersara-dan-terima-kasih-encik-yahya-bin-mohamad": {},
+    "selamat-bersara-dan-terima-kasih-encik-zawawi-bin-mat-dom": {},
+    "selamat-bersara-puan-rohaiza-binti-rabon": {},
+    "selamat-datang-cik-norsyafiqah-binti-abd-wahab": {},
+    "selamat-datang-cik-nur-aliah-binti-zaizisham": {},
+    "selamat-datang-cik-nurul-umairah-binti-aminuddin": {},
+    "selamat-datang-cik-siti-fatimah-binti-a-ghani": {},
+    "selamat-datang-encik-khairurrafiq-bin-alias": {},
+    "selamat-datang-encik-muhammad-naim-bin-ngishak": {},
+    "selamat-datang-encik-muhammad-omar-bin-zainal-abidin": {},
+    "selamat-datang-encik-nazirul-naim-bin-rushdan": {},
+    "selamat-datang-encik-shahril-annuar-bin-bahrom": {},
+    "selamat-datang-encik-syafiq-bin-musa": {},
+    "selamat-datang-encik-zulhilmi-bin-ab-kamal": {},
+    "selamat-datang-puan-amalina-binti-abu-bakar": {},
+    "selamat-datang-puan-nur-maizurah-binti-mohd-yusoff": {},
+    "selamat-datang-puan-suriati-binti-parni": {},
+    "selamat-datang": {
+        "page": {
+            "2": {}
+        }
+    },
+    "service-cluster": {
+        "about-us": {},
+        "enquiries": {},
+        "info": {},
+        "mission-vission": {},
+        "organization-structure": {},
+        "services": {},
+        "shuttle-time-table": {},
+        "staff-directories": {},
+        "unit-business-outlet-staff": {},
+        "unit-ruang-staff": {},
+        "unit-tempah-ruang": {},
+        "utm-fleet-staff": {}
+    },
+    "sesi-perjumpaan-naib-canselor-utm-bersama-team-pengurusan-jtncp-perkukuh-halatuju-pembangunan-universiti": {},
+    "setinggi-penghargaan-dan-terima-kasih-encik-faisal-bin-ali-ali-barzom": {},
+    "setinggi-penghargaan-dan-terima-kasih-encik-jamalulail-bin-hanafi": {},
+    "setinggi-penghargaan-dan-terima-kasih-encik-mohamad-nouril-ammin-bin-othman": {},
+    "setinggi-penghargaan-dan-terima-kasih-encik-mohd-zabir-bin-hj-kadiran": {},
+    "setinggi-penghargaan-dan-terima-kasih-puan-nurul-atikah-binti-mohd-amin": {},
+    "setinggi-penghargaan-puan-raja-nurdahliana-binti-raja-dahland": {},
+    "setinggi-penghargaan-terima-kasih-puan-nurul-aqidah-binti-othman": {},
+    "setinggi-tahniah-dan-terima-kasih-encik-fadzilah-bin-abdullah": {},
+    "setinggi-tahniah-dan-terima-kasih-encik-hafizzudin-bin-othman": {},
+    "setinggi-tahniah-encik-hafiz-nor-azri-bin-halimi": {},
+    "setinggi-tahniah-puan-norqumariah-binti-saad": {},
+    "setinggi-tinggi-tahniah-encik-amirul-bin-rahman": {},
+    "setinggi-tinggi-tahniah-encik-asmawi-bin-ibrahim": {},
+    "setinggi-tinggi-tahniah-encik-mohd-faizal-bin-salleh": {},
+    "setinggi-tinggi-tahniah-encik-mohd-hanif-bin-md-tahir": {},
+    "setinggi-tinggi-tahniah-encik-mohd-hazan-bin-kenit": {},
+    "setinggi-tinggi-tahniah-encik-muhamad-saihan-bin-sabar": {},
+    "setinggi-tinggi-tahniah-encik-muhamad-syafiq-bin-rozlee": {},
+    "setinggi-tinggi-tahniah-encik-muhammad-bin-muzammel": {},
+    "setinggi-tinggi-tahniah-encik-muhammad-fadli-afiq-bin-ali": {},
+    "setinggi-tinggi-tahniah-encik-muhammad-ismawi-bin-ismail": {},
+    "setinggi-tinggi-tahniah-encik-mzulkafli-bin-mhd-hanafiah": {},
+    "setinggi-tinggi-tahniah-encik-nazri-bin-mohamed": {},
+    "setinggi-tinggi-tahniah-encik-nazwar-bin-arshad": {},
+    "setinggi-tinggi-tahniah-encik-rozaidi-mohamed-noor": {},
+    "setinggi-tinggi-tahniah-encik-ts-dzulzazreen-bin-mohd-zubir": {},
+    "setinggi-tinggi-tahniah-prof-dr-yusof-bin-boon-2": {},
+    "setinggi-tinggi-tahniah-puan-marina-binti-mohamad-tahir": {},
+    "setinggi-tinggi-tahniah-puan-nabihah-bt-ramli": {},
+    "setinggi-tinggi-tahniah-puan-norhaslinda-binti-mohd-salleh": {},
+    "setinggi-tinggi-tahniah-puan-sabirah-binti-sarpan": {},
+    "smo": {},
+    "spf": {
+        "2023": {
+            "06": {},
+            "10": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "feed": {},
+        "fungsi": {},
+        "galeri-gambar-dsi": {},
+        "galeri-gambar-l50": {},
+        "galeri-gambar-n24": {},
+        "galeri-gambar-p19": {},
+        "hubungi-kami": {},
+        "struktur-organisasi-2": {},
+        "tentang-kami": {},
+        "unit-perkhidmatan": {}
+    },
+    "sport-facilities": {
+        "about-us": {},
+        "enquiries": {},
+        "gallery": {},
+        "mission-vission": {},
+        "organizational-structure": {},
+        "staff-directories": {}
+    },
+    "spp": {
+        "2017": {
+            "03": {},
+            "11": {},
+            "12": {}
+        },
+        "2018": {
+            "01": {},
+            "02": {},
+            "04": {},
+            "05": {},
+            "06": {},
+            "09": {},
+            "10": {},
+            "11": {}
+        },
+        "2019": {
+            "01": {},
+            "03": {},
+            "04": {},
+            "05": {},
+            "06": {},
+            "07": {},
+            "08": {},
+            "09": {},
+            "12": {}
+        },
+        "2020": {
+            "01": {},
+            "06": {},
+            "07": {},
+            "08": {},
+            "09": {},
+            "10": {},
+            "11": {}
+        },
+        "2021": {
+            "02": {},
+            "03": {},
+            "04": {},
+            "05": {},
+            "07": {},
+            "08": {},
+            "09": {},
+            "10": {},
+            "11": {},
+            "12": {}
+        },
+        "2022": {
+            "01": {},
+            "02": {},
+            "03": {},
+            "04": {},
+            "05": {},
+            "06": {},
+            "07": {},
+            "08": {},
+            "09": {},
+            "10": {},
+            "11": {},
+            "12": {}
+        },
+        "2023": {
+            "01": {},
+            "02": {},
+            "03": {},
+            "04": {},
+            "05": {},
+            "06": {},
+            "08": {},
+            "09": {},
+            "10": {},
+            "11": {},
+            "12": {}
+        },
+        "2024": {
+            "01": {},
+            "02": {},
+            "03": {},
+            "04": {},
+            "05": {},
+            "06": {}
+        },
+        "aduanphb": {},
+        "apps": {
+            "reservation": {
+                "Web": {}
+            }
+        },
+        "author": {
+            "hamidah": {}
+        },
+        "borang-borang-am": {},
+        "cadangan-menaiktaraf-hutan-rekreasi-1-dan-hutan-rekreasi-2-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "cadangan-pembinaan-bangunan-sementara-utm-tropical-rainforest-research-consortium-di-bandar-penawar-johor": {},
+        "cartaorganisasi": {},
+        "category": {
+            "dokumen": {
+                "laporan-tahunan-phb": {},
+                "muat-turun": {}
+            },
+            "e-perolehan": {},
+            "ict": {},
+            "jadual-pembersihan": {},
+            "pengumuman": {},
+            "sebut-harga": {},
+            "tender": {},
+            "uncategorized": {}
+        },
+        "comments": {
+            "feed": {}
+        },
+        "d06-kontrak-b": {},
+        "direktori": {},
+        "feed": {},
+        "hubungi-kami": {},
+        "kerja-baikpulih-bilik-pensyarah-di-blok-c07-fakulti-kejuruteraan-awam-universiti-teknologi-malaysia-johor-bahru-johor-panggil-semula": {},
+        "kerja-kerja-membekal-pokok-hutan-tropika-pokok-buluh-dan-pokok-herba-di-hutan-rekreasi-universiti-teknologi-malaysia-johor-bahru-johor-panggil-semula": {},
+        "kerja-kerja-penggantian-kemasan-lantai-kemasan-tingkap-dan-kelengkapan-usang-rosak-di-bangunan-akademik-dan-bangunan-sokongan-fasa-1-2024-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "kerja-membaikpulih-rumah-felo-di-aras-2-blok-l08-kolej-tun-hussein-onn-ktho-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "kontrak": {},
+        "list-berita": {},
+        "makluman-perisian-ms-365": {},
+        "makluman-pindaan-tarikh-jual-tender-dan-tarikh-tutup-tender-bagi-tajuk": {},
+        "membekal-bahan-input-benih-pokok-durian-dan-baja-di-dusun-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "membekal-memasang-menyusun-dan-mengatur-perabot-berasaskan-upholsteri-2024-di-bangunan-akademik-dan-bangunan-sokongan-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "muatturun": {},
+        "perkhidmatan-pembersihan-kawasan-dan-penyenggaraan-landskap-di-universiti-teknologi-malaysia-kampus-johor-bahru-johor-kawasan-l1-dan-kawasan-l2": {},
+        "utm-b25-2024-utm-penggantian-tangki-air-agihan-di-bangunan-asrama-kolej-tun-razak-kolej-dato-onn-jaafar-dan-scholars-inn-universiti-teknologi-malaysia-johor-bahru-johor": {},
+        "wp-login.php": {}
+    },
+    "structure-3": {},
+    "structure": {},
+    "sustainable": {},
+    "tajaan-khas-berbuka-puasa-dan-penyampaian-sumbangan-kepada-pelajar-sempena-ramadhan-1445h-2024m": {},
+    "team-kewangan-jtncp-terima-penarafan-5-bintang-anugerah-amalan-kewangan-terbaik": {},
+    "tncp": {},
+    "undergraduates": {},
+    "utm-fleet": {
+        "about-bo": {},
+        "about-ossr": {},
+        "about-utm-fleet": {},
+        "bus-schedule": {},
+        "business-outlet": {},
+        "enquiries": {},
+        "gallery": {},
+        "info": {},
+        "introduction-utm-fleet": {},
+        "organization-structure": {},
+        "ossr": {},
+        "shuttle-map-2": {},
+        "shuttle-services-information": {},
+        "shuttle-time-table": {},
+        "staff-directories": {},
+        "unit-business-outlet-staff": {},
+        "unit-ruang-staff": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "37": {
+                        "2023": {
+                            "06": {
+                                "UTMFleet-Organization-Chart-I.jpg": {},
+                                "UTMFleet-Organization-Chart-II.jpg": {}
+                            },
+                            "10": {
+                                "LINK-JADUAL-BAS-KAMPUS-SEM1-SESI-20232024.png": {},
+                                "QR-CODE-JADUAL-BAS-KAMPUS-SEM1-SESI-20232024.png": {}
+                            }
+                        },
+                        "2024": {
+                            "05": {
+                                "Pemerkasaan-Struktur-Organisasi-Bahagian-Pengurusan-Aset-JTNCP.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "utmgeotourism": {
+        "about-us-2": {},
+        "accommodations": {},
+        "activity": {},
+        "clientcharter": {},
+        "enquiries": {},
+        "functions": {},
+        "lawatan-tinjau-produk-bagi-program-pembangunan-pakej-edutourism-bersama-bahagian-pembangunan-pakej-tourism-malaysia": {},
+        "majlis-konvokesyen-ke-67-universiti-teknologi-malaysia": {},
+        "majlis-penyerahan-telaga-air-utm-tahun-2023-jabatan-timbalan-naib-canselor-pembangunan-universiti-teknologi-malaysia": {},
+        "mancing": {},
+        "mision-vission": {},
+        "organization-structure": {},
+        "perkhemahan-badan-beruniform-sk-ij-convent-johor-bahru": {},
+        "placesinterest": {},
+        "program-helping-hands-4-0-anjuran-persatuan-mahasiswa-hindu-universiti-teknologi-malaysia": {},
+        "program-kem-motivasi-kepimpinan-murid-maktab-sultan-abu-bakar": {},
+        "program-teambuilding-pejabat-pendaftar-universiti-teknologi-malaysia": {},
+        "recreational": {},
+        "siri-gotong-royong-utm-berseri-lata-jernih-indah-berseri": {},
+        "spacerental": {},
+        "staff-directories": {}
+    },
+    "website-list-dvcdev": {},
+    "wp-content": {
+        "uploads": {
+            "2024": {
+                "02": {
+                    "PEMERKASAAN-STURKTUR-ORGANISASI-JABATAN-TIMBALAN-NAIB-CANSELOR-PEMBANGUNAN.jpg": {}
+                },
+                "08": {
+                    "Naskah-Sebut-Harga-LED.pdf": {}
+                },
+                "10": {
+                    "HEBAHAN-TAWARAN-KONVO-68.pdf": {},
+                    "Iklan-Sebut-Harga.pdf": {},
+                    "Naskah-Sebut-Harga-Lengkap.pdf": {}
+                }
+            },
+            "2025": {
+                "02": {
+                    "Air-Akuifer-5.jpg": {},
+                    "Air-Akuifer-UTM-2.jpg": {},
+                    "Air-Akuifer-UTM-3.jpg": {},
+                    "Air-Akuifer-UTM-4.jpg": {},
+                    "Air-Akuifer-UTM.jpg": {},
+                    "Struktur-Organisasi-Bahagian-Pemajuan-JTNCP.jpg": {},
+                    "Struktur-Organisasi-Bahagian-Pengurusan-Aset-JTNCP.jpg": {},
+                    "Struktur-Pejabat-Jabatan-Timbalan-Naib-Canselor-Pembangunan.jpg": {},
+                    "Struktur-Pejabat-OSHE-Jabatan-Timbalan-Naib-Canselor-Pembangunan.jpg": {},
+                    "gotong-royong2.jpg": {},
+                    "gotong_royong1.jpg": {},
+                    "gotong_royong3.jpg": {},
+                    "gotong_royong4.jpg": {},
+                    "gotong_royong5.jpg": {},
+                    "gotong_royong6.jpg": {},
+                    "gotong_royong7.jpg": {},
+                    "gotong_royong8.jpg": {},
+                    "melakar-impian-1.jpg": {},
+                    "melakar-impian-10.jpg": {},
+                    "melakar-impian-2.jpg": {},
+                    "melakar-impian-3.jpg": {},
+                    "melakar-impian-4.jpg": {},
+                    "melakar-impian-5.jpg": {},
+                    "melakar-impian-6.jpg": {},
+                    "melakar-impian-8.jpg": {},
+                    "melakar-impian-9.jpg": {},
+                    "payhub1.jpg": {},
+                    "payhub2.jpg": {},
+                    "payhub3.jpg": {},
+                    "perjumpaan-NC-UTM-1.jpg": {}
+                },
+                "03": {
+                    "5bintang.jpg": {},
+                    "5bintang_1.jpg": {}
+                }
+            },
+            "sites": {
+                "17": {
+                    "2022": {
+                        "11": {
+                            "ISO-45001-OSHMS-UTM-OSHE.png": {}
+                        }
+                    }
+                },
+                "20": {
+                    "2016": {
+                        "04": {
+                            "12973596_1197299280288546_8057078376845744405_o.jpg": {}
+                        }
+                    },
+                    "2018": {
+                        "02": {
+                            "DSC_0344.jpg": {},
+                            "e556d3a1-4ea8-4dc0-beac-20fbc675efd5.jpg": {}
+                        },
+                        "03": {
+                            "WhatsApp-Image-2018-02-26-at-10.54.23-AM-4-e1519778572739.jpeg": {}
+                        }
+                    }
+                },
+                "24": {
+                    "2021": {
+                        "10": {
+                            "College-Application.pdf": {},
+                            "Notice-to-Student-No-3.2021-1.pdf": {},
+                            "Notis-kepada-Pelajar-Bil-3.2021.pdf": {},
+                            "Process-of-Emptying-Room-7.pdf": {},
+                            "Proses-Mengosongkan-Bilik.pdf": {},
+                            "Proses-Permohonan-Kolej.pdf": {}
+                        }
+                    },
+                    "2022": {
+                        "01": {
+                            "Pekeliling-Pelajar-142021-Prosedur-Pergerakan-Pelajar-Memasuki-Kampus-UTM-JBKL-Mulai-15-Oktober-2021.pdf": {},
+                            "Student-Circular-142021-Procedures-for-Students-Movement-to-Enter-UTM-JBKL-Campuses-Beginning-15-October-2021.pdf": {}
+                        },
+                        "02": {
+                            "Pek-Pelajar-0122.pdf": {},
+                            "Pekeliling-Pelajar-Bil-22022-Arahan-Pergerakan-Pelajar-Berikutan-Situasi-Covid-19.pdf": {},
+                            "Student-Circular-No.-12022-Student-Movement-Instructions-Following-the-Covid-19-Situation.pdf": {},
+                            "Student-Circular-No.-22022-Student-Movement-Instructions-Following-the-Covid-19-Situation.pdf": {}
+                        },
+                        "03": {
+                            "College-Application-Process-Sem-2-20212022.pdf": {},
+                            "Panduan-Pergerakan-Pelajar-Edisi-Ke-3-2022.pdf": {},
+                            "Student-Movement-Guidelines-3rd-Edition-2022.pdf": {}
+                        },
+                        "04": {
+                            "Bil-2-2022-Notis-kepada-Pelajar.pdf": {},
+                            "HealthDesk-Information-5.4.22.pdf": {},
+                            "No-2-2022-Notice-to-Student.pdf": {},
+                            "Panduan-Pergerakan-Pelajar-Edisi-Ke-4.pdf": {},
+                            "Pekeliling-Pelajar-Bil-32022-Prosedur-Pergerakan-Pelajar-bagi-Fasa-Peralihan-Endemik.pdf": {},
+                            "Student-Circular-No-32022-Student-Movement-Procedures-for-Transition-Phase-to-Endemic-UTM.pdf": {}
+                        },
+                        "05": {
+                            "Bil-3-2022-Notis-kepada-Pelajar.pdf": {},
+                            "No-4-2022-Notice-to-Student_TP.pdf": {}
+                        },
+                        "06": {
+                            "Bil-5-2022-Notis-kepada-Pelajar-1.pdf": {},
+                            "No-5-2022-Notice-to-Student.pdf": {}
+                        },
+                        "07": {
+                            "Bil-6-2022-Notis-kepada-Pelajar_sign.pdf": {},
+                            "No-6-2022-Notice-to-Student_sign.pdf": {}
+                        },
+                        "09": {
+                            "Bil-7-2022-Notis-kepada-Pelajar_sign.pdf": {},
+                            "No-7-2022-Notice-to-Student_sign.pdf": {}
+                        }
+                    }
+                },
+                "36": {
+                    "2014": {
+                        "01": {
+                            "endowmen-buletin.pdf": {}
+                        }
+                    },
+                    "2018": {
+                        "02": {
+                            "LAPORAN-ENDOWMEN-2017.pdf": {},
+                            "buletin-jan-2.compressed.pdf": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

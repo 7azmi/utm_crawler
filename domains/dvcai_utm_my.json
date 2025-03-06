@@ -1,3 +1,823 @@
 {
-    "": {}
+    "": {},
+    "Peraturan": {},
+    "Polisi": {},
+    "Prosedur": {},
+    "academic-visitingadjunct-schemes": {},
+    "academic-visitor": {},
+    "announcement-letter-2021": {},
+    "announcement-letter-2022": {},
+    "announcement-letter-2023": {},
+    "announcement-letter": {},
+    "anugerahck": {},
+    "award": {},
+    "bahan-rujukan-halatuju-kurikulum": {},
+    "borang-permohonan-webex": {},
+    "borang-permohonan": {},
+    "circular-letter-2021": {},
+    "circular-letter-2022": {},
+    "circular-letter": {},
+    "department-dvcai": {},
+    "dvcai": {
+        "2012": {
+            "01": {
+                "04": {
+                    "apple-announces-new-iphone-4-the-steve-jobs-keynote": {},
+                    "bench-lifts-celtics-to-tie-series": {},
+                    "british-no-2-alex-bogdanovic-faces-anxious-wait-at-queens": {},
+                    "children-of-all-ages-delighted-by-enslavement-of-topsy-the-elephant": {},
+                    "critics-notebook-glee-sings-to-a-forgotten-generation": {},
+                    "england-v-bangladesh-paul-collingwoods-earned-his-rest-but-hell-be-badly-missed": {},
+                    "immigration-law-supporters-rally-in-arizona": {},
+                    "lakers-looking-to-get-the-low-down-again-in-game-3-against-celtics": {},
+                    "massive-flow-of-bullshit-continues-to-gush-from-bp-headquarters": {},
+                    "new-video-shows-haiti-earthquake": {},
+                    "page": {
+                        "2": {}
+                    },
+                    "rousting-africas-sleeping-giant": {},
+                    "the-comeback-country": {},
+                    "the-job-hunt": {},
+                    "the-shape-of-things-to-come": {},
+                    "the-worlds-largest-super-ferry": {},
+                    "today-is-the-best-tax-day-of-your-life": {},
+                    "vehicles-travel-during-rush-hour-on-interstates-10-and-110-near-downtown": {},
+                    "world-cup-2010-portugal-wing-nani-ruled-out-of-tournament-with-collar-bone-injury": {}
+                },
+                "09": {
+                    "perjumpaan-bersama-pelajar-antarabangsa": {}
+                }
+            },
+            "02": {
+                "20": {
+                    "expose-pupils-to-practical-side-of-science-2": {},
+                    "lack-of-interest-in-engineering": {},
+                    "utm-among-the-five-universities-in-the-world-that-offers-phd-in-engineering-education": {}
+                },
+                "27": {
+                    "pelan-global-utm-2012-2020": {}
+                }
+            },
+            "03": {}
+        },
+        "2013": {
+            "02": {},
+            "03": {
+                "05": {},
+                "07": {
+                    "1225": {}
+                }
+            },
+            "04": {}
+        },
+        "2015": {
+            "03": {
+                "24": {
+                    "professiorial-inaugural-lecture-series-73-2": {}
+                },
+                "26": {
+                    "45th-meeting-bill-12015-jktncra-at-universiti-malaysia-terengganu-umt": {}
+                },
+                "30": {
+                    "memorandum-of-undrstanding-mou-signing-ceremony-between-universiti-teknologi-malaysia-and-bmw-technology-centre-sdn-bhd-on-30th-march-2015": {}
+                }
+            },
+            "04": {
+                "01": {
+                    "keratan-akhbar-majlis-menandatangani-memorandum-persefahaman-mou-antara-bmw-asia-technology-center-sdn-bhd-dan-universiti-teknologi-malaysia-utm": {}
+                },
+                "07": {
+                    "utm-monthly-engagement-april-2015": {}
+                },
+                "13": {
+                    "dinner-for-programme-study-abroad-fair-2015": {},
+                    "public-lecture-islam-and-islamic-studies-in-post-911-america-by-professor-robert-rozehnal-14th-april-2015": {}
+                },
+                "26": {
+                    "utm-54th-convocation-ceremony-second-day-26-april-2015": {}
+                }
+            },
+            "05": {
+                "17": {
+                    "malaysia-3mt-competition-2015": {}
+                }
+            },
+            "07": {
+                "01": {},
+                "06": {},
+                "13": {
+                    "memorandum-of-agreement-between-utm-and-muhammadiyah-islamic-college-kim-singapore": {
+                        "dscn1780": {},
+                        "utmkim-1": {},
+                        "utmkim-2": {},
+                        "utmkim-3": {},
+                        "utmkim-5": {}
+                    }
+                }
+            },
+            "09": {
+                "03": {
+                    "aunseed-net-graduate-degree-program-scholarship-jfy2016-masters-phd-sandwich-integrated-graduate-degree-program": {}
+                },
+                "06": {
+                    "aunseed-net-call-for-proposals-3-research-grants-and-research-fellowship-jfy-2016": {}
+                },
+                "11": {
+                    "dvcai-briefing-to-new-postgraduate-students-7th-september-2015": {}
+                },
+                "21": {
+                    "mesyuarat-jawatankuasa-timbalan-timbalan-naib-canselor-rektor-akademik-antarabangsa-ipta-ke-47-bil-32015": {}
+                }
+            },
+            "10": {
+                "18": {
+                    "mrun-iru-steering-committee-meeting-at-utm-johor-bahru": {}
+                }
+            },
+            "11": {
+                "15": {
+                    "invitation-to-huawei-ceo-faculty-entrepreneurial-lecture-in-utm-kl": {}
+                }
+            },
+            "12": {
+                "17": {
+                    "the-48th-committee-meeting-of-deputy-vice-chancellor-rector-academic-international-ipta-no-42015": {}
+                }
+            }
+        },
+        "2016": {
+            "04": {
+                "19": {
+                    "14-apr-2016-women-in-academia-forum": {}
+                }
+            },
+            "06": {
+                "22": {
+                    "sharing-surah-al-hujurat-verse-13": {}
+                }
+            },
+            "08": {
+                "01": {
+                    "meeting-with-university-of-tehran": {},
+                    "taklimat-penawaran-permintaan-guna-tenaga-oleh-agensi2-talentcorp-jabatan-perangkaan-malaysia-jobstreet-com-ilmiah": {}
+                },
+                "02": {
+                    "ieaaie-2016-the-29-th-international-conference-on-industrial-engineering-other-applications-of-applied-intelligent-systems": {}
+                },
+                "08": {
+                    "8th-utm-university-presidents-forum-upf-2016": {}
+                },
+                "11": {
+                    "cakna-kepimpinan-tncaa-bersama-dekan-fakultisekolah": {}
+                }
+            }
+        },
+        "2017": {
+            "02": {
+                "05": {
+                    "congratulations-prof-dr-zainuddin-abdul-manan": {}
+                }
+            }
+        },
+        "2018": {
+            "08": {
+                "08": {
+                    "discussion-on-driving-utm-azman-hashim-endowed-international-business-school-ahibs": {}
+                }
+            },
+            "09": {
+                "10": {
+                    "engagement-faculty-of-science": {}
+                }
+            },
+            "10": {
+                "30": {
+                    "mou-between-utm-and-malaysia-green-technology-corporation-greentech-malaysia": {},
+                    "uberising-quality-education": {}
+                }
+            }
+        },
+        "author": {
+            "abrashidutm-my": {},
+            "ardiyanto": {},
+            "caelileague": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "webmaster": {
+                "page": {
+                    "2": {}
+                }
+            }
+        },
+        "category": {
+            "blog": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "branding": {},
+            "news": {},
+            "other": {},
+            "photo": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "uncategorized": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "video": {}
+        }
+    },
+    "forms": {},
+    "garispanduan": {},
+    "guideline-jtncaa": {},
+    "kk-permohonan-kelulusan-program": {},
+    "main-circular": {
+        "academic-circular": {
+            "2016-2": {},
+            "2020-2": {},
+            "2021-2": {},
+            "2022-2": {},
+            "2023-2": {},
+            "2024-2-2": {},
+            "2025-2": {}
+        },
+        "circular-letter": {
+            "2023-2": {},
+            "circular-letter-2024": {}
+        }
+    },
+    "majlis-anugerah-kecemerlangan-staf-jabatan-tncaa-tahun-2018": {},
+    "majlis-anugerah-kecemerlangan-staf-jabatan-tncaa-tahun-2020": {},
+    "mas-2022": {},
+    "mas-2024": {},
+    "mas-anugerah-kriteria-2024": {},
+    "mas-jtncaa": {},
+    "mas_2022": {
+        "mas-anugerah-kriteria": {}
+    },
+    "mqa": {},
+    "notis-akademik": {},
+    "odvcai-jb": {},
+    "odvcai-kl": {},
+    "organization-chart": {},
+    "pemakluman-mqa": {},
+    "pencalonan-anugerah-ahli-akademik-harapan": {},
+    "pencalonan-anugerah-tokoh-akademik": {},
+    "penganugerahan-anugerah-ijazah-kehormat-dan-gelaran-profesor-emeritus": {},
+    "peraturan-polisi-prosedur-tncaa": {},
+    "peraturan-separuh-masa": {},
+    "peraturan-sepenuh-masa": {},
+    "piagam-pelanggan": {},
+    "polisi-spk": {},
+    "speech-dvcai": {},
+    "staff-directory-kl": {},
+    "staff-directory": {},
+    "syarahan-profesor": {},
+    "tv": {},
+    "utmcaq": {
+        "2024": {
+            "02": {
+                "08": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "author": {
+            "nooremylia": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "chairs_message": {},
+        "feed": {},
+        "handbook": {},
+        "iqa": {},
+        "jkku-main": {},
+        "letter-kpt": {},
+        "pakat-2": {},
+        "prism": {},
+        "program-review": {},
+        "prosedur": {},
+        "sharing-series": {},
+        "surat-mqa": {},
+        "teamcaq": {},
+        "vision_mision": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "20": {
+                        "2024": {
+                            "02": {
+                                "GGP-PDD-2023-kurikulum.pdf": {},
+                                "Template-Slaid-MSA-latest2024.pptx": {}
+                            },
+                            "04": {
+                                "KK2-Kertas-Kerja-Program-Akademik-Baharu-UTM_PG-1.docx": {},
+                                "PEMBANGUNAN-PROG-BAHARU-HASLINDA-17.4.2024-resize.pdf": {}
+                            },
+                            "06": {
+                                "KK-SENAT-Kerangka-Semakan-Kurikulum-Prasiswazah-FOCU-16-43.pdf": {},
+                                "Kertas-Kerja-Penjumudan-Program-Final-1.docx": {}
+                            },
+                            "07": {
+                                "JKPT_SLIDE-PROGRAM-BAHARU.pptx": {},
+                                "JKPT_SLIDE-SEMAKAN-KURIKULUM-UTM.pptx": {},
+                                "JKPT_TEMPLAT-PEMBENTANGAN-MSA.pptx": {}
+                            },
+                            "08": {
+                                "FLOWCHART-JBL.pdf": {},
+                                "FLOWCHART-KURIKULUM-8.pdf": {},
+                                "FLOWCHART-PERMOHONAN-LOKASI-13.08.2024.pdf": {},
+                                "Mapping-Graduate-Attribute-VS-MQF-2-VS-EAC.pdf": {},
+                                "Prosedur-Pembangunan-Program-Akademik-Final-2024-1.pdf": {}
+                            },
+                            "09": {
+                                "KEMAHIRAN-INSANIAH.pdf": {},
+                                "KK-Penawaran-Program-Akademik-Secara-Luar_Pesisir.docx": {},
+                                "Matriks-Kursus-vs-FOCu-UTM-1.xlsx": {},
+                                "Template-Slaid-ODL-2nd-update.pptx": {}
+                            },
+                            "10": {
+                                "ESD-MQF2024.xlsx": {},
+                                "Final-Template-Slaid-Program-Akademik-Baharu-update.pptx": {}
+                            },
+                            "11": {
+                                "KK3-Semakan-Kurikulum-UTM_PG-11.docx": {},
+                                "KK3-Semakan-Kurikulum-UTM_UG-11.docx": {}
+                            }
+                        },
+                        "2025": {
+                            "01": {
+                                "TEMPLATE-SLAID-SEMAKAN-KURIKULUM-2024-new.pptx": {}
+                            },
+                            "02": {
+                                "15.-PEMBANGUNAN-PROGRAM-AKADEMIK-BAHARU_24.02.2025.pdf": {},
+                                "7.-SLAID-PRISMS_update-24.02.2025.pdf": {},
+                                "BORANG-PENILAIAN-AUDIT-DALAM_17022025.docx": {},
+                                "LATEST-25-NOV_-PROF-SUKR-CHCKED_final-revise-version_INTERNAL-AUDIT-FLOW-CHART2-14.2.2024.pdf": {},
+                                "PROSES-JAMINAN-KUALITI-AKADEMIK-DALAMAN-UTM-BERKAITAN-PELAKSANAAN-PROSES-PENILAIAN-DAN-PEMANTAUAN-PENCAPAIANCLO-DAN-PLO-SERTA-PENAMBAHBAIKAN-PROGRAM-AKADEMIK-5.pdf": {},
+                                "SENARAI-SEMAK-PENGHANTARAN-KERTAS-KERJA-SEMAKAN-KURIKULUM_UTMCAQ.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "vision-mission": {},
+    "welcome-greet": {},
+    "wp-content": {
+        "uploads": {
+            "2016": {
+                "01": {
+                    "Pekeliling-Peperiksaan-Sem-1-sesi-2016-2017.pdf": {}
+                },
+                "08": {
+                    "1.-Presentation-JKPT-PRIS.pdf": {},
+                    "1.-Taklimat-Halatuju-Kurikulum-UTMKL.UTMJB-Ogos-2016.pdf": {},
+                    "21st-CENTURY-SKILLS-SPS.pdf": {},
+                    "2_1_RASIONALISASI-PERANAN-JKPT-DAN-PROSES-PERMOHONAN-PROGRAM-AKADEMIK-BAHARUV3.pdf": {},
+                    "Bidang-tujahan-UA.pdf": {},
+                    "Format-Kertas-Cadangan-Permohonan-Saringan-Awal-Terbaharu-4-APRIL-2016-edited-FINAL.doc": {},
+                    "ILMIA_PERMINTAAN-DAN-PENAWARAN-GUNA-TENAGA-kpt-200716.pdf": {},
+                    "Jabatan-Statistik_Permintaan-penawaran-tenaga-buruh.pdf": {},
+                    "JobStreet-com_Presentation_for_MOHE_29July2016-2.pdf": {},
+                    "KA21-NAA-Kurikulum-Abad-Ke21-UGS.pdf": {},
+                    "Prof.-Jane-Univ-Presidents-Forum.pdf": {},
+                    "Rumusan-Urusetia-ST.pdf": {},
+                    "SILIBUS-MPU-2013.pdf": {},
+                    "SLIDES-P-BPPA.pdf": {},
+                    "Senarai-Semak-Kertas-Cadangan-Permohonan-Saringan-Awal-4-APRIL-2016.pdf": {},
+                    "Slide-JPA.pdf": {},
+                    "Slide-MIDA.pdf": {},
+                    "Slide-MQA.pdf": {},
+                    "Taklimat-Fakulti-Program-Sarjana-Muda-Kej.pdf": {},
+                    "Taklimat-Penawaran-Permintaan-GunaTenaga-Negara-_ILMIA_Lee-Chee-Sung-v2.pdf": {},
+                    "Talentcorp_Presentation-to-JKPT-_v3.pdf": {},
+                    "UPD-ISU-penawaran-program.pdf": {}
+                }
+            },
+            "2019": {
+                "09": {
+                    "Kriteria-Anugerah-PTJ-TERBAIK.pdf": {},
+                    "Kriteria-dan-Borang-Anugerah-Sukan-AKS-2019.pdf": {},
+                    "Kriteria-dan-Borang-Daftar-Inovasi-Jabatan-TNCAA-2019.pdf": {},
+                    "Kriteria-dan-Borang-Pencalonan-Anugerah-Khidmat-Masyarakat-AKS-2019.pdf": {},
+                    "Template-Laporan-Pembentangan-PTJ-Terbaik-2018_JTNCA.ppt": {}
+                }
+            },
+            "2020": {
+                "05": {
+                    "Pekeliling-Akademik-1-2020-GARIS-PANDUAN-PEMBELAJARAN-DALAM-TALIAN.pdf": {},
+                    "Pekeliling-Akademik-2-2020-PENGUMUMAN-BERKAITAN-AKTIVITI-PEMBELAJARAN-DAN-PENGAJARAN-UTM.pdf": {},
+                    "Pekeliling-Akademik-3-.pdf": {},
+                    "Pekeliling-Akademik-4-2020-PENGURUSAN-AKTIVITI-PEMBELAJARAN-DAN-PENGAJARAN-BAGI-SEMESTER-2-SESI-20192020-SEMASA-KRISIS-PANDEMIK-COVID-19-BAGI-PELAJAR-PRASISWAZAH-DAN-PASCASISWAZAH.pdf": {},
+                    "Pekeliling-Akademik-5-2020-NOTIS-TERKINI-BERKAITAN-AKTIVITI.pdf": {}
+                },
+                "06": {
+                    "FAQs-returning-to-campus.pdf": {},
+                    "PEKELILING-AKADEMIK-7-PANDUAN-PULANG-KE-KAMPUS-BAGI-AKTIVITI-PEMBELAJARAN-DAN-PENGAJARAN-SERTA-AKITIVITI-PENYELIDIKAN-DI-UTM-SEMASA-DAN-SELEPAS-TEMPOH-PERINTAH-KAWALAN-PERGERAKAN.pdf": {},
+                    "Pekeliling-Akademik-6-BEBAN-KREDIT-MINIMUM-SEMASA-KRISIS-PANDEMIK-COVID19-latest.pdf": {},
+                    "SENARAI-JEMPUTAN-@-TETAMU-LUAR-PROGRAM-SPP.docx": {},
+                    "Senarai-Semak-SPP-Online.doc": {},
+                    "garis-panduan-english-7.6.2020.pdf": {},
+                    "garis-panduan-malay-7.6.2020.pdf": {}
+                },
+                "07": {
+                    "Buku-Panduan-SPP-V5-20120516-latest.doc": {},
+                    "Kriteria-dan-Borang-Anugerah-Kehadiran-Terbaik-2020.pdf": {},
+                    "Kriteria-dan-Borang-Anugerah-Sukan-2020.pdf": {},
+                    "Kriteria-dan-Borang-Daftar-Inovasi-Jabatan-TNCAA-2020.pdf": {},
+                    "Kriteria-dan-Borang-Pencalonan-Anugerah-Khidmat-Masyarakat-2020.pdf": {},
+                    "PEKELILING-AKADEMIK-92020-PELAKSANAAN-LATIHAN-INDUSTRI-LATIHAN-PRAKTIK-BAGI-PELAJAR-PROGRAM-PRASISWAZAH-YANG-TERKESAN-AKIBAT-PANDEMIK-COVID19.pdf": {},
+                    "Pekeliling-Akademik-Bil.8-2020-GARIS-PANDUAN-PEPERIKSAAN-AKHIR-DALAM-TALIAN-SEMASA-PANDMIK-COVID-19Malay.pdf": {},
+                    "Pekeliling-Akademik-Bil.8-2020-ONLINE-FINAL-EXAM-GUIDELINES-DURING-COVID19-English.pdf": {}
+                },
+                "08": {
+                    "Kriteria-Anugerah-PTJ-TERBAIK.pdf": {},
+                    "LAMP-1-KPT.pdf": {},
+                    "PEKELILING-AKADEMIK-BIL-101.pdf": {},
+                    "Template-Laporan-Pembentangan-PTJ-Terbaik-2018_JTNCA-fINAL.ppt": {}
+                },
+                "11": {
+                    "Pekeliling-Akademik-11-2020-Penangguhan-Kuliah-Sempana-Deepavali-2020.pdf": {}
+                },
+                "12": {
+                    "1.-Borang-Keluar-Pejabat-Cuti-Gantian-Pej-TNC-A.doc.docx": {},
+                    "10.-Borang-Cuti-Menjaga-Anak-UTM.pdf": {},
+                    "2.-Borang-Pergerakkan-Staf-Pejabat-TNCAA.doc": {},
+                    "3.-Borang-kebenaran-Pulang-Awal-Staf-Mengandung-UTM.pdf": {},
+                    "4.-Borang-Permohonan-Tuntutan-Rawatan-Klinik-Bukan-Panel-UTM.pdf": {},
+                    "5.-Cuti-Kuarantin-UTM.pdf": {},
+                    "6.-Borang-Pengesahan-Rawatan-Pergigian-Staf-Tanggungan-UTM.pdf": {},
+                    "7.-Borang-Permohonan-Tuntutan-Rawatan-Klinik-Bukan-Panel-TNCAA-Staf-Kontrak.doc": {},
+                    "8.-Borang-Untuk-Sijil-Time-Slip.docx": {},
+                    "9.-Borang-Untuk-Sijil-Cuti-Sakit.docx": {},
+                    "PEKELILING-AKADEMIK-BIL-12.2020-KAEDAH-PENGAJARAN-DAN-PEMBELAJARAN-SEMESTER-1-2020.2021.pdf": {}
+                }
+            },
+            "2021": {
+                "01": {
+                    "Borang-maklumat-SPP-2018.doc": {}
+                },
+                "02": {
+                    "Borang-Permohonan-Pelawat-Adjung-Baharu-2021.docx": {},
+                    "Versi-2.0-PEKELILING-AKADEMIK-BIL-1.2021-KAEDAH-PENGAJARAN-DAN-PEMBELAJARAN-SEMESTER-II.pdf": {}
+                },
+                "03": {
+                    "Senarai-Syarahan-Perdana-Profesor-UTM-Updated-020321.pdf": {}
+                },
+                "04": {
+                    "2-Pekeliling-Akademik-bil.22020-DD19042021-Penambahbaikan-Kaedah-PP-Sem-II-20202021.pdf": {}
+                },
+                "05": {
+                    "PEKELILING-AKADEMIK-BIL.-3-2021-PINDAAN-KAEDAH-PENGAJARAN-DAN-PEMBELAJARAN-SEMESTER-II-SESI-20202021.pdf": {}
+                },
+                "09": {
+                    "Pekeliling-bil-5-2021-Kaedah-PnP-Sem-I-20212022.pdf": {}
+                },
+                "10": {
+                    "Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD.pdf": {},
+                    "pekeliling-bil-6-2021-Pemakluman-30-Rebat-Yuran-Viva-Reviva.pdf": {}
+                },
+                "12": {
+                    "Pekeliling-Akademik-Bil-07-2021-Penangguhan-Kuliah-Sempena-Deepavali-2021.pdf": {}
+                }
+            },
+            "2022": {
+                "01": {
+                    "Notice-of-Postponement-Lectures-TnL-Activities-V2.pdf": {},
+                    "Pekeliling-Akademik-Kaedah-PnP-Semasa-Pandemik-Bil.-1.2022.pdf": {},
+                    "SUR-PEMAKLUMAN-BANJIR.pdf": {},
+                    "Surat-Penangguhan-Kuliah.pdf": {},
+                    "UTM.J.08.0110.1221-Jld.-4-40-pemakluman-kalendar-akademik-v2.pdf": {}
+                },
+                "02": {
+                    "UTM.J.08.0110.1221-Jld.-4-40-pemakluman-kalendar-akademik-v2.pdf": {}
+                },
+                "04": {
+                    "Frequently-Asked-Questions.pdf": {},
+                    "Pekeliling-Kaedah-PnP-Fasa-Peralihan-Endemik-Sem-2-Sesi-2122.pdf": {},
+                    "SURAT-PEKELILING-23-Pemakluman-Khas-Pelajar-Antarabangsa-bagi-Pembelajaran-Bersemuka-Bhg-2-Sem-II-Sesi-2021.pdf": {}
+                },
+                "05": {
+                    "PEKELILING-AKADEMIK-BIL.-32022-KALENDAR-AKADEMIK-SESI-2022-2023.pdf": {},
+                    "mas_0.jpg": {},
+                    "mas_4.jpg": {},
+                    "mas_5.jpg": {},
+                    "mas_6.jpg": {},
+                    "mas_8.jpg": {},
+                    "mas_9.jpg": {}
+                },
+                "06": {
+                    "Borang-Permohonan-Pelawat-Adjung-Baharu-2021-1.docx": {}
+                },
+                "07": {
+                    "Artwork1-02.jpg": {}
+                },
+                "08": {
+                    "Kertas-Kerja-Permohonan-Kelulusan.docx": {},
+                    "PEKELILING-AKADEMIK-BIL-4-PEMAKAIAN-PROSEDUR-PENYELIDIKAN-PASCASISWAZAH-ProPS-06-BAGI-MENGGANTIKAN-KOD-AMALAN-PENYELIDIKAN-PASCASISWAZAH-KAPS-10.pdf": {},
+                    "Pekeliling-5.-Cadangan-Kaedah-PnP-Fasa-Peralihan-Endemik-Mulai-Sem-22_23-final.pdf": {},
+                    "ProPS-06-Prosedur-Penyelidikan-Pascasiswazah.pdf": {}
+                },
+                "10": {
+                    "Borang-Skim-Lantikan-Tenaga-Pelawat-Antarabangsa.pdf": {},
+                    "Borang-Skim-Lantikan-Tenaga-Pelawat-Tempatan.pdf": {},
+                    "PA-Bil.-6.2022-Attch-Program-Sarjana-Muda.pdf": {},
+                    "PA-Bil.-6.2022-Pemakaian-Peraturan-Akademik-Program-Sarjana-Muda-Pengajian-Sepenuh-Masa-Edisi-Keenam-Belas.pdf": {},
+                    "PA-Bil.-8.2022-Penangguhan-Kuliah-Dan-Aktiviti.pdf": {},
+                    "SR-Kertas-Kerja-Senat.pdf": {}
+                }
+            },
+            "2023": {
+                "04": {
+                    "1.-Examiners-Report-on-First-Assessment.pdf": {},
+                    "2.-Examiners-Report-for-PhD.pdf": {},
+                    "3.-Examiners-Report-for-Master-by-Research.pdf": {},
+                    "4.-Examiners-Report-for-DBA.pdf": {},
+                    "5.-Examiners-Report-for-EngD.pdf": {},
+                    "PEKELILING-AKADEMIK-BIL-02_2023-PINDAAN-BORANG-LAPORAN-PENILAIAN-PERINGKAT-PERTAMA-DAN-BORANG-PENILAIAN-TESIS-OLEH-PEMERIKSA_SPS.pdf": {},
+                    "PEKELILING-AKADEMIK-BIL.-1-KALENDAR-AKADEMIK-SESI-2023-2024.pdf": {}
+                },
+                "06": {
+                    "1-Panduan-Penganugerahan-Gelaran-Profesor-Emeritus-V3.pdf": {},
+                    "2-SURAT-PEKELILING-IJAZAH-KEHORMAT-2023.pdf": {},
+                    "Pemakluman-Penyediaan-Fail-Kursus-2023.pdf": {}
+                },
+                "08": {
+                    "PEKELILING-AKADEMIK-BIL.-3-2023-PEMAKAIAN-PROSEDUR-PEMBELAJARAN-DALAM-TALIAN-UNIVERSITI-TEKNOLOGI-MALAYSIA.pdf": {},
+                    "Pembatalan-Dasar-Pelaksanaan-Takwim-Peperiksaan-Di-Universiti-Awam.pdf": {}
+                },
+                "09": {
+                    "PEKELILING-AKADEMIK-BIL.-4-2023-PENANGGUHAN-SESI-KULIAH-KELAS-SEMPENA-MAJLIS-TEMU-ANWAR-DI-UTM-JOHOR-BAHRU.pdf": {}
+                },
+                "11": {
+                    "PEKELILING-AKADEMIK-BIL.-5-2023-PEMAKAIAN-GARIS-PANDUAN-PENULISAN-TESIS-UTM-2023.pdf": {}
+                }
+            },
+            "2024": {
+                "01": {
+                    "Buku-Peraturan-Akademik-Program-Diploma-Pengajian-Separuh-Masa-Edisi-Kelima-Belas-2019-z.pdf": {},
+                    "Buku-Peraturan-Akademik-Program-Diploma-Pengajian-Sepenuh-Masa-Edisi-Kelima-Belas-2019-1.pdf": {},
+                    "Buku-Peraturan-Akademik-Program-Sarjana-Muda-Pengajian-Separuh-Masa-Edisi-Ketujuh-2019-z.pdf": {},
+                    "Buku-Peraturan-Akademik-Program-Sarjana-Muda-Program-Kerjasama-Antarabangsa-Edisi-Pertama-2018-z.pdf": {},
+                    "GARIS-PANDUAN-PEMBELAJARAN-DALAM-TALIAN-COVID-19-z.pdf": {},
+                    "Garis-Panduan-GGP-PDD-z.pdf": {},
+                    "Garis-Panduan-GGP-QVSAMC-z.pdf": {},
+                    "Garis-Panduan-MOOC-UTM-2023-z.pdf": {},
+                    "Lawatan-Auditor-SWA-z.pdf": {},
+                    "ONLINE-FINAL-EXAMINATION-GUIDELINES-z.pdf": {},
+                    "PERATURAN-AKADEMIK-PROGRAM-EKSEKUTIF-Edisi-2017.pdf": {},
+                    "POLISI-DAN-KOD-AMALAN-PEMBELAJARAN-DAN-PENGAJARAN-PRASISWAZAH-z.pdf": {},
+                    "PROSEDUR-AUDIT-PROGRAM-AKADEMIK-PROFESIONAL-z.pdf": {},
+                    "PROSEDUR-AUDIT-PROGRAM-AKADEMIK-SWA-AKREDITASI-z.pdf": {},
+                    "PROSEDUR-PEMANTAUAN-DAN-PENAMBAHBAIKAN-PROGRAM-AKADEMIK-TAHUNAN-APAR-APAER-z.pdf": {},
+                    "PROSEDUR-PENGECUALIAN-DAN-PENGURANGAN-YURAN-PENGAJIAN-STAF-UTM-z.pdf": {},
+                    "PROSEDUR-PENGURUSAN-REKOD-AKADEMIK-PENYELIDIKAN-PELAJAR-PASCASISWAZAH-z.pdf": {},
+                    "PROSEDUR-PERLANTIKAN-PERTUKARAN-PENAMATAN-PENYELIAAN-PELAJAR-PENYELIDIKAN-PASCA-SISWAZAH-z.pdf": {},
+                    "Pengunaan-Edisi-Terkini-Garis-Panduan-Amalan-Baik-GGP-AoSL-z.pdf": {},
+                    "Penyenaraian-Program-dalam-Senarai-MQA-z.pdf": {},
+                    "Peraturan-Akademik-Pengajian-Siswazah-z.pdf": {},
+                    "Peraturan-Akademik-Program-Sarjana-Muda-z.pdf": {},
+                    "Polisi-Akademik-UTM-z.pdf": {},
+                    "Prosedur-Biasiswa-Pascasiswazah-z.pdf": {},
+                    "Prosedur-Insentif-dan-Geran-Pelajar-Pascasiswazah-z.pdf": {},
+                    "Prosedur-Pembangunan-Program-Akademik-z.pdf": {},
+                    "Prosedur-Pengurusan-Hadiah-Akademik-Program-Sarjana-Muda-dan-Diploma-z.pdf": {},
+                    "Prosedur-Penyelidikan-Pascasiswazah-z.pdf": {},
+                    "Slaid-Carta-Alir-Penganugerahan-Ijazah-Kehormat-UTM-z.pdf": {},
+                    "THESIS-WRITING-GUIDELINES-2023-z.pdf": {},
+                    "Tujuh-Tumpuan-Utama-untuk-Membangunkan-Graduan-Berorientasikan-Masa-Hadapan-1.pdf": {}
+                },
+                "02": {
+                    "STRATAA-ACADEMIC-CIRCULAR-NO.-1.2024-ENGLISH.pdf": {},
+                    "Template-Minit-Bebas-Kertas-Kerja-Kelulusan-TNCAA.doc": {},
+                    "pekelililng-bil1_2024.pdf": {}
+                },
+                "03": {
+                    "Borang-Pencalonan-AAAH-UTM-2023.doc": {},
+                    "Borang-Pencalonan-ATA-UTM-2023.doc": {},
+                    "Kriteria-dan-Panduan-Permohonan-AAAH-2023-CK-2024.pdf": {},
+                    "Kriteria-dan-Panduan-Permohonan-ATA-2023-CK-2024.pdf": {},
+                    "SLIDE-AMANAT-TNCAA-2024_UPDATE-13.3.2024-compressed.pdf": {},
+                    "Surat-Pekeliling-Akademik-Bil.-12024.pdf": {}
+                },
+                "04": {
+                    "Borang-PSH.pdf": {},
+                    "PA-2.2024-Pelepasan-Kuliah-melibatkan-Hari-Perayaan-Hari-Cuti-Umum.pdf": {},
+                    "Panduan-UTMNewshub.pdf": {}
+                },
+                "05": {
+                    "TEMPLATE-MINIT-BEBAS-2024.docx": {}
+                },
+                "07": {
+                    "STRATAA-BIL.-5.2024-M-E-PEKELILING-AKADEMIK-PENGURANGAN-YURAN-PEPERIKSAAN-1.pdf": {},
+                    "STRATAA-BIL.-6.2024-FULL-M-E-PEKELILING-AKADEMIK-PEMAKAIAN-GARIS-PANDUAN-LATIHAN-INDUSTRI.pdf": {},
+                    "STRATAA-PA-3.2024-M-E-FULL-PEKELILING-AKADEMIK-BIL.-3.2024-PEMAKAIAN-GARIS-PANDUAN-PENGGUNAAN-KECERDASAN-BUATAN-GENERATIF-DALAM-PENGAJARAN-PEMBELAJARAN-1.pdf": {},
+                    "STRATAA-PA-4.2024-M-E-FULL-PEKELILING-AKADEMIK-BIL.-4.2024-PEMAKAIAN-GARIS-PANDUAN-PEMBELAJARAN-DAN-PENGAJARAN.pdf": {}
+                },
+                "08": {
+                    "logonew@2x.png": {}
+                },
+                "09": {
+                    "AI.png": {},
+                    "AKM.png": {},
+                    "AKT.png": {},
+                    "APAC.png": {},
+                    "APC.png": {},
+                    "APIC.png": {},
+                    "ARP-1.png": {},
+                    "ASPAC.png": {},
+                    "AST.png": {},
+                    "ASTARA.png": {},
+                    "ATS.png": {},
+                    "Artboard-2@2x.png": {},
+                    "BORANG-PENGESAHAN-PEMULANGAN-PERALATAN-ICT.pdf": {},
+                    "BORANG-PENYERAHAN-PEMINJAMAN-PERALATAN-ICT.pdf": {},
+                    "EKSA.png": {},
+                    "Poster-MAS-2024-Permohonan.png": {}
+                },
+                "10": {
+                    "Poster-MAS-2024-new_Artboard-2.png": {},
+                    "Poster-MAS-2024-new_Atur-Cara-.png": {},
+                    "Poster-MAS-2024-new_Atur-Cara-1.png": {},
+                    "Poster-MAS-2024-new_Atur-Cara-2.png": {},
+                    "Poster-MAS-2024-new_Atur-Cara-3.png": {},
+                    "Poster-MAS-2024-new_Poster-MAS-2024.png": {},
+                    "Poster-MAS-2024@3x.png": {},
+                    "STRATAA-BIL-7.2024-B.MELAYU-PEKELILING-AKADEMIK-PEMAKAIAN-PELAKSANAAN-PENILAIAN-PERINGKAT-PERTAMA.pdf": {},
+                    "STRATAA-BIL-7.2024-ENGLISH-PEKELILING-AKADEMIK-PEMAKAIAN-PELAKSANAAN-PENILAIAN-PERINGKAT-PERTAMA.pdf": {}
+                }
+            },
+            "2025": {
+                "01": {
+                    "BORANG-PENCALONAN-Ijazah-kehormat-_-Prof-Emeritus-Konvo-UTM-MK-69.docx": {},
+                    "STRATAA-2025-BIL-1.2025-B.M.-PEKELILING-AKADEMIK-PEMAKAIAN-ATRIBUT-GRADUAN-GA-F1.pdf": {},
+                    "STRATAA-2025-BIL-2.2025-B.M.-PEKELILING-AKADEMIK-PERUBAHAN-KAEDAH-PP-SEM-II-SESI-2024.2025.pdf": {},
+                    "STRATAA-2025-BIL-2.2025-ENGLISH-PEKELILING-AKADEMIK-PERUBAHAN-KAEDAH-PP-SEM-II-SESI-2024.2025.pdf": {},
+                    "STRATAA-BIL_9.2024_BM_PEKELILING_AKADEMIK_PENYELARASAN_KALENDAR_AKADEMIK_SESI_2024-2025_PERUBAHAN_CUTI1.pdf": {},
+                    "STRATAA-BIL_9.2024_E_PEKELILING_AKADEMIK_PENYELARASAN_KALENDAR_AKADEMIK_SESI_2024-2025_PERUBAHAN_CUTI_H1.pdf": {}
+                },
+                "03": {
+                    "Panduan-Post-Facebook-JTNCAA.pdf": {}
+                }
+            },
+            "sites": {
+                "2": {
+                    "2015": {
+                        "04": {
+                            "10003042_945759752140819_8244903140277154549_n.jpg": {},
+                            "10360249_945759148807546_6053266245248805854_n.jpg": {},
+                            "10417588_945760422140752_1606064499331555014_n.jpg": {},
+                            "11069758_945760602140734_3507788221050006723_n.jpg": {},
+                            "11133833_945759375474190_2840300651778678530_n.jpg": {},
+                            "DSC_5941.jpg": {},
+                            "DSC_5945.jpg": {},
+                            "DSC_5947.jpg": {},
+                            "DSC_5948.jpg": {},
+                            "DSC_5949.jpg": {},
+                            "DSC_5951.jpg": {},
+                            "DSC_5953.jpg": {},
+                            "DSC_5954.jpg": {},
+                            "DSC_5956.jpg": {},
+                            "DSC_5959.jpg": {},
+                            "DSC_5964.jpg": {}
+                        },
+                        "05": {
+                            "1.jpg": {},
+                            "10.jpg": {},
+                            "11.jpg": {},
+                            "12.jpg": {},
+                            "2.jpg": {},
+                            "3.jpg": {},
+                            "4.jpg": {},
+                            "5.jpg": {},
+                            "6.jpg": {},
+                            "7.jpg": {},
+                            "8.jpg": {},
+                            "9.jpg": {}
+                        },
+                        "09": {
+                            "11222978_965886953471954_157879304554960749_o.jpg": {},
+                            "11227047_965891736804809_6766361835515447708_o.jpg": {},
+                            "11951527_965890773471572_6835112070586115458_o.jpg": {},
+                            "11952824_965884866805496_6484225970996364306_o.jpg": {},
+                            "11999624_965894443471205_4892177803404472020_o.jpg": {},
+                            "11999761_965887830138533_1200474682461656578_o.jpg": {},
+                            "12027253_965893513471298_1329636562525993527_o.jpg": {},
+                            "12028809_965881530139163_6895591439298115899_o.jpg": {},
+                            "12030334_965888670138449_7937932829378849844_o.jpg": {},
+                            "12032714_965895486804434_6745684836833242406_o.jpg": {},
+                            "12034491_965886053472044_7291492800759761634_o.jpg": {},
+                            "20150920163729.jpg": {},
+                            "20150920163805.jpg": {},
+                            "20150920164025.jpg": {},
+                            "20150920164100.jpg": {},
+                            "20150920164108.jpg": {},
+                            "20150920164115.jpg": {}
+                        },
+                        "10": {
+                            "20151017164956.jpg": {},
+                            "20151017165022.jpg": {},
+                            "20151017165030.jpg": {},
+                            "20151017165037.jpg": {},
+                            "20151017165046.jpg": {},
+                            "20151017165052.jpg": {},
+                            "20151017165058.jpg": {},
+                            "20151017165113.jpg": {},
+                            "20151017165120.jpg": {},
+                            "20151017165127.jpg": {},
+                            "20151017165134.jpg": {},
+                            "20151017165141.jpg": {},
+                            "20151017165148.jpg": {},
+                            "20151017165205.jpg": {},
+                            "20151017165215.jpg": {},
+                            "20151017165223.jpg": {},
+                            "20151017165230.jpg": {},
+                            "20151017165236.jpg": {},
+                            "20151017165244.jpg": {}
+                        }
+                    },
+                    "2016": {
+                        "04": {
+                            "Women-1.jpg": {},
+                            "women-3.jpg": {},
+                            "women-5.jpg": {},
+                            "women-6.jpg": {}
+                        },
+                        "06": {
+                            "banner-surah-hujurat-web-1.jpg": {}
+                        },
+                        "08": {
+                            "13654123_826525487482870_1719493286452123545_n.jpg": {},
+                            "13661953_1094850507218910_3058930115164084454_o.jpg": {},
+                            "13680417_1094867370550557_4953605695639722330_o.jpg": {},
+                            "13680801_10201863216897795_900075717776046058_n.jpg": {},
+                            "13690928_826524940816258_5388560731444193143_o.jpg": {},
+                            "13724026_826524494149636_9147871093403014392_o.jpg": {},
+                            "13737486_826525484149537_152113879395055938_o.jpg": {},
+                            "13767290_826524860816266_3025903320178656415_o.jpg": {},
+                            "13782204_10201863217057799_7335750508765778711_n.jpg": {},
+                            "13872832_10207696709318202_7379155325745211033_n.jpg": {},
+                            "13872863_10207696699757963_4777078553988650507_n.jpg": {},
+                            "13876614_10207696701638010_858986862513343576_n.jpg": {},
+                            "13882567_10207696709918217_4846608461896718706_n.jpg": {},
+                            "13891917_1101911113179516_13052173863833822_n.jpg": {},
+                            "13891934_10207696710678236_34603370203017908_n.jpg": {},
+                            "13892014_10207696700877991_2266564814101353629_n.jpg": {},
+                            "13892255_1094866950550599_1960679932615710807_n.jpg": {},
+                            "13903195_10207696704558083_4327056484250094547_n.jpg": {},
+                            "13903357_10207696707158148_1899509392150474300_n.jpg": {},
+                            "13912685_10207696703318052_3672877650610935752_n.jpg": {},
+                            "13912777_10207696699957968_2857154284937629496_n.jpg": {},
+                            "13912786_10207696702078021_1060271067910636358_n.jpg": {},
+                            "13914014_1101916486512312_7919594043769468730_o.jpg": {},
+                            "13920764_10207696702518032_222882260345454605_n.jpg": {},
+                            "13920875_10207696701197999_4501495276135168064_n.jpg": {},
+                            "13923702_1094868523883775_7794027306725717179_o.jpg": {},
+                            "13925246_10207696700237975_244948726726209124_n.jpg": {},
+                            "13932668_10207696703678061_3466508913483255996_n.jpg": {},
+                            "IEAAIE_Program_v4-.pdf": {},
+                            "Iboard-UPF-2016-551x413.jpg": {}
+                        }
+                    },
+                    "2017": {
+                        "02": {
+                            "index.jpeg": {}
+                        }
+                    },
+                    "2018": {
+                        "08": {
+                            "38624488_2260430244186018_3932562615603036160_o.jpg": {}
+                        },
+                        "09": {
+                            "40684322_1855743961174332_8190799918223327232_o.jpg": {},
+                            "40772592_1855743894507672_1692572136620687360_o.jpg": {},
+                            "40840097_1855744174507644_1382253181752311808_o.jpg": {},
+                            "40868954_1855744001174328_4519940015131721728_o.jpg": {},
+                            "40883798_1855743224507739_219385271622303744_o.jpg": {},
+                            "40940617_1855744041174324_3832207973132795904_o.jpg": {},
+                            "40967375_1855743777841017_8773654523915796480_o.jpg": {}
+                        },
+                        "10": {
+                            "44760800_2318999534995755_5472688508709634048_o.jpg": {},
+                            "uberising.jpg": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
