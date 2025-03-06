@@ -1,0 +1,5 @@
+links i struggled with:
+- apssa2018_utmspace_edu_my.json : bottleneck
+- builtsurvey_utm_my.json : bottleneck
+- convocation_utm_my.json : [ERROR] Failed to fetch https://convocation.utm.my: HTTPSConnectionPool(host='convocation.utm.my', port=443): Read timed out. (read timeout=15)
+- coursefinder.utm.my : [ERROR] Failed to fetch coursefinder.utm.my: Invalid URL 'coursefinder.utm.my': No scheme supplied. Perhaps you meant https://coursefinder.utm.my?
