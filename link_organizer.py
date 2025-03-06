@@ -3,12 +3,14 @@ import os
 from urllib.parse import urlparse
 from collections import defaultdict
 
+
 class LinkOrganizer:
-    def __init__(self, txt_files, output_dir="output"):
+    def __init__(self, txt_files, output_dir="domains"):
         self.txt_files = txt_files
         self.output_dir = output_dir
         self.hierarchical_data = defaultdict(lambda: defaultdict(dict))  # Store links hierarchically
         self.existing_data = {}  # Store existing JSON data for comparison
+        self.stats = {"added": 0, "skipped": 0, "invalid": 0}  # Track stats
 
     def is_valid_url(self, url):
         """Check if the URL is valid."""
@@ -31,17 +33,19 @@ class LinkOrganizer:
                 try:
                     return json.load(f)
                 except json.JSONDecodeError:
-                    print(f"Warning: Could not decode JSON file {file_path}")
+                    print(f"⚠️ Warning: Could not decode JSON file {file_path}")
         return {}
 
     def process_links(self):
         """Process links from the text files and organize them hierarchically."""
         for txt_file in self.txt_files:
+            print(f"📂 Processing file: {txt_file}")
             with open(txt_file, "r") as file:
                 for line in file:
                     url = line.strip()
                     if not self.is_valid_url(url):
-                        print(f"Skipping invalid URL: {url}")
+                        print(f"❌ Skipping invalid URL: {url}")
+                        self.stats["invalid"] += 1
                         continue  # Skip invalid URLs
 
                     normalized_url = self.normalize_url(url)
@@ -63,9 +67,11 @@ class LinkOrganizer:
                         current_level = current_level[part]
 
                     if new_entry:
-                        print(f"Added new URL: {normalized_url}")
+                        print(f"✅ Added new URL: {normalized_url}")
+                        self.stats["added"] += 1
                     else:
-                        print(f"Skipped (already exists): {normalized_url}")
+                        print(f"🔄 Skipped (already exists): {normalized_url}")
+                        self.stats["skipped"] += 1
 
     def save_to_json(self):
         """Save the hierarchical data to JSON files."""
@@ -76,7 +82,14 @@ class LinkOrganizer:
             output_file = os.path.join(self.output_dir, f"{domain_key}.json")
             with open(output_file, "w") as f:
                 json.dump(data, f, indent=4)
-            print(f"Data saved to {output_file}")
+            print(f"💾 Data saved to {output_file}")
+
+        # Print summary stats
+        print("\n📊 Processing Summary:")
+        print(f"✅ New URLs added: {self.stats['added']}")
+        print(f"🔄 Skipped URLs (already exist): {self.stats['skipped']}")
+        print(f"❌ Invalid URLs skipped: {self.stats['invalid']}")
+        print("🎉 Process completed!")
 
 
 # Example usage
