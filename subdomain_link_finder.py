@@ -77,7 +77,7 @@ class DomainMapper:
         self.executor.shutdown(wait=True)
 
 # Usage
-mapper = DomainMapper("https://utmspace.edu.my/", max_workers=300)
+mapper = DomainMapper("https://www.utm.my", max_workers=10)
 mapper.start_crawling()
 
 # Print all collected links

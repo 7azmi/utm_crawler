@@ -94,7 +94,7 @@ class LinkOrganizer:
 
 # Example usage
 if __name__ == "__main__":
-    txt_files = ["data_unstructured/utmscholar.utm.my.txt"]
+    txt_files = ["data_unstructured/comp.utm.my.txt"]
     organizer = LinkOrganizer(txt_files)
     organizer.process_links()
     organizer.save_to_json()

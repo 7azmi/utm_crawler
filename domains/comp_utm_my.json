@@ -1,3 +1,536 @@
 {
-    "": {}
+    "": {},
+    "academic": {},
+    "academic-staff-associate-professor": {},
+    "academic-staff-lecturer": {},
+    "academic-staff-professor": {},
+    "academic-staff-senior-lecturer": {},
+    "admin-support-staff": {},
+    "qms": {
+        "about": {},
+        "borang-spk": {},
+        "contact-us": {},
+        "quality-management-system": {},
+        "sp2024": {},
+        "team": {}
+    },
+    "research": {
+        "2024": {
+            "02": {
+                "10": {
+                    "holo-professor-utms-first-home-grown-real-time-holographic-telepresence-technology": {}
+                }
+            },
+            "04": {
+                "28": {
+                    "nict-grant-congratulations": {}
+                }
+            },
+            "06": {
+                "28": {
+                    "17th-postgraduate-annual-research-seminar-2024-pars2024": {}
+                }
+            },
+            "07": {
+                "05": {
+                    "bengkel-aplikasi-scratch-1-0": {}
+                },
+                "10": {
+                    "d-i-a-n-a-intelligent-avatar-x-proto-m": {}
+                },
+                "13": {
+                    "%f0%9d%90%85%f0%9d%90%a8%f0%9d%90%ab%f0%9d%90%a0%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%a0-%f0%9d%90%9a-%f0%9d%90%8d%f0%9d%90%9e%f0%9d%90%b0-%f0%9d%90%80%f0%9d%90%a5%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%9a": {}
+                }
+            },
+            "08": {
+                "20": {
+                    "infinite-loop-media-sdn-bhd-signing-a-letter-of-intent-loi": {}
+                }
+            },
+            "09": {
+                "24": {
+                    "717": {},
+                    "letter-of-intent-loi-signing-ceremony-between-utm-and-hackquest": {}
+                },
+                "28": {
+                    "penerima-national-geran-frgs-2024": {}
+                }
+            }
+        },
+        "about": {
+            "organization": {},
+            "research-focus-area": {},
+            "welcome-note": {}
+        },
+        "category": {
+            "grants": {},
+            "innovation": {},
+            "news": {},
+            "seminar-conference": {}
+        },
+        "contact": {},
+        "grants-innovations": {},
+        "internal-research-grant": {},
+        "international-research-grants": {},
+        "national-grant": {},
+        "news-events": {},
+        "our-experts": {},
+        "page": {
+            "2": {}
+        },
+        "people": {},
+        "publication": {}
+    },
+    "technical-support-staff": {},
+    "2024": {
+        "03": {
+            "31": {
+                "digital-transformation-advancements-workshop-enhances-digital-presence-of-universitas-negeri-malang-um-indonesia-in-collaboration-with-faculty-of-computing-utm": {}
+            }
+        },
+        "08": {
+            "05": {
+                "utm-perkasa-kompetensi-digital-para-guru-di-sekitar-johor-bahru": {}
+            },
+            "09": {
+                "kembara-scratch-1-0": {}
+            }
+        },
+        "09": {
+            "03": {
+                "fc-and-infinite-loop-media-sdn-bhd-sign-a-letter-of-intent-loi": {},
+                "pelajar-fc-raih-pingat-perak-dan-gangsa-dalam-digital-inovation-creativeprenur-2-0": {}
+            }
+        },
+        "10": {
+            "10": {},
+            "12": {},
+            "24": {
+                "aplikasi-sistem-digitalisasi-tingkatkan-kualiti-staf-fc": {},
+                "computation-raih-penarafan-perak-di-festival-inovasi-utm-2024": {},
+                "fakulti-komputeran-cemerlang-anjur-kursus-peningkatan-kemahiran": {},
+                "green-fc-komited-pelihara-alam-sekitar-melalui-program-kudah-di-pantai": {},
+                "jpmpp-utm-diseru-galas-tugas-dengan-penuh-amanah-dan-dedikasi": {}
+            },
+            "25": {},
+            "28": {
+                "aplikasi-scratch-pemangkin-minat-pelajar-sekolah-rendah-terhadap-dunia-it-dan-pengaturcaraan": {}
+            }
+        },
+        "11": {
+            "04": {
+                "utm-joins-jtdc-to-drive-local-talent-advancement-and-skill-growth": {}
+            },
+            "05": {
+                "utms-faculty-of-computing-joins-forces-with-aptikom-at-rakornas-2024-in-medan-indonesia": {}
+            },
+            "21": {
+                "faculty-of-computing-explore-south-korea-in-gop-2024": {},
+                "team-cyberx-whilefalsebr8-in-hack-a-day-capture-the-flag-competition": {}
+            },
+            "28": {
+                "nexaholo-project-showcased-at-national-exhibition-putrajaya-festival-of-ideas-2024": {},
+                "penggunaan-google-looker-studio-tingkat-pemantauan-akademik-sekolah": {},
+                "utm-jadi-universiti-pertama-tubuh-makmal-satelit-anti-jenayah-kewangan-nfcc": {}
+            }
+        },
+        "12": {
+            "01": {
+                "faculty-of-computings-master-of-cyber-security-in-open-distance-learning-now-graduating-its-first-batch-draws-over-100-working-professionals": {}
+            }
+        }
+    },
+    "2025": {
+        "01": {
+            "14": {
+                "project-nexaholo-ai-shines-at-majlis-perutusan-tahun-baharu-2025-championing-malaysias-digital-transformation": {}
+            }
+        },
+        "02": {
+            "21": {
+                "ts-dr-nur-haliza-muncul-penerima-ikon-anugerah-ibu-zain-2025": {}
+            }
+        }
+    },
+    "academic-staff-associate-professor-2": {},
+    "acai": {
+        "contact": {},
+        "expert-areas": {},
+        "people": {}
+    },
+    "alias": {},
+    "assoc-professor": {},
+    "author": {
+        "akfadhli": {},
+        "nazrisamin": {
+            "page": {
+                "2": {},
+                "4": {}
+            }
+        }
+    },
+    "awards": {},
+    "bachelor-in-software-engineering-w-honours": {},
+    "booking-regulation": {},
+    "category": {
+        "community-engagement": {},
+        "events-competitions": {},
+        "faculty": {},
+        "partnerships-collaborations": {},
+        "utmnewshub": {
+            "page": {
+                "2": {}
+            }
+        }
+    },
+    "comp": {
+        "wp-content": {
+            "uploads": {
+                "2013": {
+                    "01": {
+                        "Borang-Permohonan-Cetakan-Soalan-Ujian.docx": {}
+                    },
+                    "07": {
+                        "BORANG-G_PENILAIAN-Latihan-Ikhtisas-OLEH-MENTOR-dari-emel-UTMLead-17.12.14.pdf": {},
+                        "BORANG-SEMAKAN-permohonan-Cuti-Sebatikal-2014-dari-e-mel-UTMLead-11.12.14.pdf": {},
+                        "Borang-Aduan-Kerosakan.xlsx": {},
+                        "Borang-Lapor-Diri-Cuti-Sabatikal-atau-Latihan-Ikhtisas.pdf": {},
+                        "Borang-Permohonan-Cuti-Sebatikal-2014-dari-e-mel-UTMLead-11.12.14.pdf": {},
+                        "Embedding-Google-Calendar.pdf": {},
+                        "How-to-Create-Profile-Picture.pdf": {},
+                        "How-to-CreateName-Tagline.pdf": {},
+                        "How-to-Upload-and-Share-Pdf-File.pdf": {},
+                        "How-to-login-to-your-personal-site.pdf": {},
+                        "LAMPIRAN-D_LAPORAN-AKHIR-AKHIR-TAHUN-LATIHAN-IKHTISAS.pdf": {},
+                        "PEKELILING-PTDBRN-Cuti-Sebatikal-BIL_32_2013-dari-e-mel-UTMLead-11.12.14.pdf": {},
+                        "PERATURAN-LATIHAN-IKHTISAS-1.pdf": {},
+                        "Pages-Posts.pdf": {},
+                        "TurnItIn-UTMProceduresBM.pdf": {}
+                    },
+                    "11": {
+                        "BOR.-KURSUS-ANJ.-LUAR-BIRU.pdf": {},
+                        "BOR.-KURSUS-ANJ.-LUAR-HIJAU.pdf": {},
+                        "BORANG-PERMOHONAN-CUTI-BERSALIN-awal-terkini.pdf": {},
+                        "Borang-Felo.pdf": {},
+                        "Borang-Permohonan-Pensyarah-Pelawat-Mword.pdf": {},
+                        "Borang-Tempahan-Scholars-Inn.pdf": {},
+                        "Borang-kenderaan.pdf": {},
+                        "Brg.-Lapor-Diri-Cuti-Tanpa-Gaji.pdf": {},
+                        "Lab-Reservation-Form.pdf": {},
+                        "PART-TIME-Lecturer-Form.pdf": {},
+                        "Student-Working-Scheme.pdf": {},
+                        "brg_conflict_of_interest.pdf": {}
+                    }
+                }
+            }
+        }
+    },
+    "conference2025": {
+        "2024": {
+            "09": {
+                "26": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "author": {
+            "norazman": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "feed": {}
+    },
+    "contact-us": {},
+    "cs": {
+        "contact": {},
+        "expert-areas": {},
+        "people": {}
+    },
+    "dates-course-registration-pg": {},
+    "doctor-of-philosophy-ci": {},
+    "doctor-of-philosophy-cs": {},
+    "doctor-of-philosophy-field-computer-science": {},
+    "doctor-of-philosophy-se": {},
+    "ec": {},
+    "elementor-11966": {},
+    "elementor-12563": {},
+    "event": {
+        "2nd-international-conference-on-smart-city-and-information-system-icscis-2025": {},
+        "4th-international-conference-on-cybersecurity-ai-and-digital-economy-csaide-2025": {},
+        "5th-international-conference-on-computer-graphics-image-and-virtualisation-iccgiv-2025": {}
+    },
+    "events": {
+        "category": {
+            "research": {
+                "month": {}
+            }
+        },
+        "list": {},
+        "month": {},
+        "today": {}
+    },
+    "facilities": {},
+    "fcinfosec@utm.my": {},
+    "fcmicomp@utm.my": {},
+    "fcri": {},
+    "graduate-research-vacancy": {},
+    "history": {},
+    "iasrg": {},
+    "iirg": {},
+    "info-and-guideline": {},
+    "master-cs": {},
+    "master-csy": {},
+    "master-ic": {},
+    "master-of-philosophy-cs": {},
+    "master-of-philosophy-se": {},
+    "master-of-science-ds": {},
+    "membership-profile": {},
+    "membership-registration": {},
+    "news": {},
+    "niche-areas-2": {},
+    "old": {
+        "cs": {
+            "academics": {
+                "secr-programme-specification": {}
+            }
+        },
+        "ppsm": {
+            "contacts": {},
+            "presentation": {},
+            "psm-1": {},
+            "psm-2": {}
+        },
+        "proceeding": {
+            "current": {}
+        },
+        "psm": {
+            "psm-title-samples": {}
+        },
+        "secr": {},
+        "wp-content": {
+            "blogs.dir": {
+                "2698": {
+                    "files": {
+                        "2021": {
+                            "11": {
+                                "Borang-Transfer-Credit-untuk-pelajar.pdf": {},
+                                "Course-Synopsis-for-Transfer-Courses.pdf": {},
+                                "SECBH-CURRICULUM-STRUCTURE.pdf": {},
+                                "SECJH-20212022-1.pdf": {},
+                                "SECRH-CURRICULUM-STRUCTURE.pdf": {},
+                                "courseStructureSECVH_131_intake_Sept2021-22.pdf": {},
+                                "transfer-credit-list-UTMKL.pdf": {}
+                            }
+                        },
+                        "2022": {
+                            "02": {
+                                "transfer-credit-list-MMU.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "organization-chart": {},
+    "page2-2": {},
+    "password-reset": {},
+    "pcrg": {},
+    "people": {},
+    "piagam-pelanggan-dan-polisi-kualiti": {},
+    "postgraduate-timetable": {},
+    "postgraduate": {},
+    "ppsm": {
+        "programme": {},
+        "psm": {},
+        "submissions": {}
+    },
+    "prisms": {},
+    "psm": {
+        "2014": {
+            "09": {
+                "07": {
+                    "your-psm-guideline-psm-handbook-notes": {}
+                }
+            }
+        },
+        "2017": {
+            "01": {
+                "26": {
+                    "a-flash-view-of-psm": {}
+                }
+            }
+        },
+        "2019": {
+            "03": {
+                "04": {
+                    "psm2-online-system-user-manual-student": {}
+                },
+                "13": {
+                    "psm-thesis-template-2019": {}
+                }
+            }
+        },
+        "2024": {
+            "03": {
+                "24": {
+                    "psm-fc-briefing-sem22324": {}
+                }
+            },
+            "10": {
+                "02": {
+                    "sem12425-psm1-calendar-brief": {},
+                    "sem12425-psm2-calendar-brief": {}
+                },
+                "09": {
+                    "fc-psm-briefing-slides-sem12425": {},
+                    "plagiarism-and-ai": {}
+                }
+            }
+        },
+        "about-psm": {},
+        "author": {
+            "akfadhli": {},
+            "hazinah": {}
+        },
+        "category": {
+            "calendar": {},
+            "frontpage": {},
+            "news": {},
+            "psm-tips": {},
+            "psm1": {},
+            "psm2": {},
+            "slide": {}
+        },
+        "committee-member": {},
+        "idea": {},
+        "lab": {},
+        "proceeding": {},
+        "project-offered": {},
+        "psm-1": {},
+        "psm-2": {},
+        "psm-calendar": {},
+        "psm-form": {},
+        "psm-materials": {},
+        "psm-presentation": {},
+        "psm-system-online": {},
+        "psm-title-samples": {},
+        "psmi": {},
+        "qiu-fyp-only": {},
+        "statistic": {}
+    },
+    "qms8": {},
+    "register": {},
+    "registration-kits-1-1": {},
+    "registration-kits": {},
+    "research-organization": {},
+    "research-rg": {},
+    "resources": {},
+    "se": {
+        "contact": {},
+        "expert-areas": {},
+        "our-people": {}
+    },
+    "secbh": {},
+    "secjh": {},
+    "secph": {},
+    "secrh": {},
+    "secvh": {},
+    "serg": {},
+    "single-post": {},
+    "slider": {},
+    "software-engineering-3": {},
+    "study-plan-timetable-pg": {},
+    "study-plan-timetable": {},
+    "support-page": {},
+    "thank-you": {},
+    "ug-direct-entry": {},
+    "ug-timetable": {},
+    "undergraduate-timetable-sem1-2024-2025": {},
+    "undergraduate": {},
+    "user": {},
+    "webex-background": {},
+    "wp-content": {
+        "uploads": {
+            "2021": {
+                "04": {
+                    "WORKSPACE-APPLICATION-FORM.pdf": {}
+                },
+                "06": {
+                    "BORANG-SEWA-LAB-2021.docx": {}
+                },
+                "10": {
+                    "SC-PG-Handbook-20212022.pdf": {},
+                    "SC-UG-Handbook-20212022.pdf": {}
+                }
+            },
+            "2022": {
+                "08": {
+                    "BORANG-CTR-BAGI-URUSAN-KEMATIAN-KELUARGA.docx": {},
+                    "BORANG-CTR-DAN-PELEPASAN-PEJABAT.docx": {},
+                    "BORANG-PERMOHONAN-KELUAR-PEJABAT.docx": {}
+                }
+            },
+            "2023": {
+                "04": {
+                    "FC-flybook-SP-2023-V2a.pdf": {}
+                }
+            },
+            "filebase": {
+                "Administrative%20Form": {
+                    "BORANG%20BATAL%20CUTI%20REHAT.docx": {},
+                    "BORANG%20BERTUGAS%20RASMI%20DI%20LUAR%20PEJABAT.docx": {},
+                    "BORANG%20CTR%20ISTERI%20BERSALIN.docx": {},
+                    "BORANG%20CTR%20SUKAN%20DLL.docx": {},
+                    "BORANG%20CTR%20UMRAH.docx": {},
+                    "BORANG%20CUTI%20BERSALIN.pdf": {},
+                    "BORANG%20CUTI%20GANTIAN%20LAMPIRAN.docx": {},
+                    "BORANG%20LAPOR%20DIRI.docx": {},
+                    "BORANG%20PENGESAHAN%20KEHADIRAN%20BERMASALAH.doc": {},
+                    "Borang%20M.C.xlsx": {},
+                    "Cuti%20Kuarantin.pdf": {},
+                    "Cuti%20Menjaga%20Anak%20Kuarantin.pdf": {},
+                    "Cuti%20Tanpa%20Rekod.pdf": {},
+                    "PERAKUAN%20TIDAK%20HADIR%20KE%20PEJABAT%20ATAS%20SEBAB-SEBAB%20KECEMASAN.docx": {},
+                    "Pembelian%20Cermin%20Mata.pdf": {},
+                    "Rawatan%20Gigi.pdf": {},
+                    "TUNTUTAN%20BUKAN%20KLINIK%20PANEL.pdf": {}
+                },
+                "Facilities": {
+                    "BORANG%20BARU%20SEWAAN%20FC.docx": {}
+                },
+                "Programme%20of%20Study%20Forms": {
+                    "ABSTRACT-APPROVAL.doc": {},
+                    "AMDPG07-Deferment-of-Study-International-Student.pdf": {},
+                    "AMDPG08-Deferment-of-Study-Local-Student.pdf": {},
+                    "AMDPG09-Change-Of-Program-Study-Type-Of-Study-.pdf": {},
+                    "AMDPG10-Application-of-Academic-Transcript-new.pdf": {},
+                    "AMDPG13-Withdrawal-Of-Study-1.pdf": {},
+                    "AMDPG14-Change-Of-Address-.pdf": {},
+                    "AMDPG15-Change-Of-Ic-Number-Passport-Name-.pdf": {},
+                    "AMDPG18-Appeal-Reinstatement.pdf": {},
+                    "ApplicationForCreditTransferExemption.pdf": {},
+                    "Course-Withdrawal-Form.pdf": {},
+                    "CourseRegistrationAmendment.pdf": {},
+                    "INCENTIVE-CLAIM-FORM-2016-14122016.pdf": {},
+                    "LAPORAN-PEMERIKSAAN-TESIS-ENG.-DOC.pdf": {},
+                    "borangethesis.pdf": {},
+                    "brg-pengesahan-kerjasama.pdf": {},
+                    "checklistthesissubmission.pdf": {}
+                },
+                "academic_resource": {
+                    "DIGITALPeraturan-Akademik-Program-Sarjana-Muda-edisi-16-2023-Final.pdf": {},
+                    "Master%20of%20CS.pdf": {},
+                    "Registration_Kit_2024-2025_Sem1": {
+                        "ACADEMIC-CALENDAR-DEGREE-AND-POSTGRADUATE-2024_2025-1.pdf": {},
+                        "Infografik%20UG%20Sem%201%2020242025.pdf": {},
+                        "Postgraduate-2024-2025": {
+                            "LATEST%20-%20WORK%20SCHEDULE%20FOR%20APEL%20C%20APPLICATION_FC%20%2809092024%29.pdf": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
