@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 import concurrent.futures
 import threading
-from queue import Queue
+from queue import Queue, Empty
+import time
+
 
 class DomainMapper:
     def __init__(self, base_url, max_workers=10):
@@ -12,16 +14,25 @@ class DomainMapper:
         self.lock = threading.Lock()
         self.queue = Queue()
         self.executor = concurrent.futures.ThreadPoolExecutor(max_workers=max_workers)
+        self.stop_event = threading.Event()  # Stop signal for workers
 
-    def get_links(self, url):
-        """Fetch and parse links from a given URL."""
-        try:
-            response = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-            print(f"[DEBUG] {url} -> Status Code: {response.status_code}")  # Debug
-            response.raise_for_status()
-        except requests.RequestException as e:
-            print(f"[ERROR] Failed to fetch {url}: {e}")  # Show error
-            return set()
+    def get_links(self, url, max_retries=1):
+        """Fetch and parse links from a given URL with retries."""
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+                print(f"[DEBUG] {url} -> Status Code: {response.status_code}")  # Debugging
+
+                if response.status_code != 200:
+                    return set()  # Skip non-200 responses
+
+                response.raise_for_status()
+                break  # Success, exit retry loop
+            except requests.RequestException as e:
+                print(f"[ERROR] Failed to fetch {url} (Attempt {attempt + 1}/{max_retries}): {e}")
+                time.sleep(2)  # Small delay before retrying
+        else:
+            return set()  # If max retries exceeded, return empty set
 
         soup = BeautifulSoup(response.text, "html.parser")
         links = set()
@@ -38,10 +49,11 @@ class DomainMapper:
 
     def crawl(self):
         """Worker function for crawling URLs."""
-        while True:
-            url = self.queue.get()
-            if url is None:
-                break
+        while not self.stop_event.is_set():
+            try:
+                url = self.queue.get(timeout=10)  # Timeout to prevent infinite wait
+            except Empty:
+                break  # No more tasks, exit thread
 
             with self.lock:
                 if url in self.visited:
@@ -65,19 +77,22 @@ class DomainMapper:
         self.queue.put(self.base_url)
 
         # Start worker threads
-        workers = [self.executor.submit(self.crawl) for _ in range(self.executor._max_workers)]
-
-        self.queue.join()
-
-        # Stop workers
+        workers = []
         for _ in range(self.executor._max_workers):
-            self.queue.put(None)
+            thread = threading.Thread(target=self.crawl, daemon=True)  # Daemon threads
+            workers.append(thread)
+            thread.start()
+
+        # Wait for all workers
+        for thread in workers:
+            thread.join()
 
         self.executor.shutdown(wait=True)
 
+
 # Fixed usage
-corrected_url = "https://digital.utm.my/"  # Remove extra "https://"
-mapper = DomainMapper(corrected_url, max_workers=100)
+corrected_url = "https://dvcdev.utm.my/"  # Replace with the domain you want
+mapper = DomainMapper(corrected_url, max_workers=20)  # Reduce max_workers to avoid server overload
 mapper.start_crawling()
 
 # Print collected links
