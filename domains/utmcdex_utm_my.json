@@ -1,3 +1,104 @@
 {
-    "": {}
+    "": {},
+    "about": {
+        "creative-technology-staff": {},
+        "management-staff": {},
+        "organisation-chart": {},
+        "supportive-staff": {}
+    },
+    "anugerah-pengajaran": {},
+    "ar23": {},
+    "audit-dan-pertandingan-zon-terbaik": {
+        "page": {
+            "2": {}
+        }
+    },
+    "audit-silang-oshe-bangunan-blok-f54-2": {},
+    "author": {
+        "fareez": {},
+        "zulazri": {}
+    },
+    "brisk-walk-dan-plogging-sempena-merdeka": {},
+    "category": {
+        "facebulletin": {
+            "page": {
+                "2": {}
+            }
+        },
+        "kapella": {}
+    },
+    "cmlt": {
+        "about-cmlt": {}
+    },
+    "commercial-services": {},
+    "e-catalogue": {},
+    "e-proctoring": {},
+    "explore-race-merdeka-2024": {
+        "page": {
+            "2": {}
+        }
+    },
+    "face-bulletin": {},
+    "gallery": {},
+    "gunung-arong-pengembaraan-di-puncak-dunia": {},
+    "helpdesk": {},
+    "inisiatif-kewangan-kelab-kappela-mini-mart-kappela": {},
+    "jamuan-makan-malam-kappela-di-teluk-gorek-mersing-suasana-meriah-dan-aktiviti-menarik": {},
+    "johan-zon-eksa-terbaik-2023-sempena-majlis-apresiasi-staf-jtncaa-2024": {},
+    "klinik-pengemaskinian-data-peribadi-dan-perkhidmatan-di-hrmis": {},
+    "kursus-pembinaan-pasukan": {},
+    "kursus-pengurusan-dan-pentadbiran-kewangan-utm-cdex": {
+        "page": {
+            "2": {}
+        }
+    },
+    "lawatan-audit-taskforce-excellence-academic-services-utm": {},
+    "majlis-makan-malam-program-utm-global-connect-2024": {},
+    "micro-credential": {},
+    "moocs-utm": {},
+    "nali-events": {},
+    "nali2023": {},
+    "nali2024": {},
+    "our-facilities": {},
+    "p-h-g": {},
+    "pertandingan-laci-terbaik-2024": {},
+    "program-the-biggest-loser-oh-my-kg": {},
+    "projek-charity-bubur-lambuk-sukarelawan-agihan-makanan-iftar": {},
+    "research-led-teaching": {},
+    "riang-ria-raya-utm-cdex": {},
+    "services": {
+        "course-training-in-teaching-and-learning-ctl-helpdesk": {},
+        "e-learningutm-helpdesk": {},
+        "eppp-utm-helpdesk": {},
+        "support-for-lt-excellence-innovation": {},
+        "utm-mit-blossom-helpdesk": {},
+        "utmotion-utm-helpdesk": {}
+    },
+    "smu": {
+        "about-nali": {},
+        "about-smu": {}
+    },
+    "terima-kasih-encik-arshad-musa": {},
+    "terima-kasih-prof-madya-ir-dr-hayati-abdullah-dan-cik-hazwani-mohd-zahar": {},
+    "utm-cdex-juara-dua-tahun-berturut-turut-reruai-terbaik": {},
+    "utm-moocs-helpdesk": {},
+    "vision-mission-objectives": {},
+    "welcome-msg": {},
+    "wp-content": {
+        "uploads": {
+            "2024": {
+                "02": {
+                    "Pembelajaran-AI-UTM.pdf": {},
+                    "e-Katalog-latest-version-2024.pdf": {}
+                },
+                "09": {
+                    "EBOOK-Alternative-Assessment-in-Higher-Education-2022.pdf": {}
+                },
+                "12": {
+                    "4-1.png": {},
+                    "6-2.jpg": {}
+                }
+            }
+        }
+    }
 }

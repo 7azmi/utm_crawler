@@ -1,3 +1,89 @@
 {
-    "": {}
+    "": {},
+    "account": {},
+    "asset-record": {},
+    "background": {},
+    "blog": {
+        "2024": {
+            "09": {
+                "09": {
+                    "reminder-regarding-compliance-with-financial-regulations": {}
+                }
+            },
+            "10": {
+                "15": {
+                    "call-for-application-scope-he-academic-connectivity-grant-under-german-academic-exchange-service-daad": {}
+                }
+            }
+        },
+        "2025": {
+            "02": {
+                "13": {
+                    "open-for-application-science-engineering-research-grant-by-malaysia-toray-science-foundation-mtsf-2025": {},
+                    "pembukaan-geran-bagi-icgeb-research-grants-2025-collaborative-research-programme-crp-dan-crp-icgeb-early-career-return": {}
+                }
+            }
+        }
+    },
+    "customer-policy-2": {},
+    "fastlane": {},
+    "fd": {},
+    "fellowship": {},
+    "formsguidelines": {},
+    "gd": {},
+    "governance-corporate": {},
+    "gra-vacancy": {},
+    "hr": {},
+    "management": {},
+    "password-protected-site": {},
+    "payment": {},
+    "pmmd": {},
+    "procurement": {},
+    "project-funding": {},
+    "project-management": {},
+    "project-monitoring": {},
+    "record": {},
+    "research-funding-guidelines": {},
+    "rmc-bulletin": {},
+    "ruid": {},
+    "structure": {},
+    "travelog": {},
+    "vision-mission": {},
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "79": {
+                    "2023": {
+                        "08": {
+                            "KRITERIA-antarabangsa-14-Ogos-2023.pdf": {}
+                        }
+                    },
+                    "2024": {
+                        "07": {
+                            "International-Scouting-Calendar-Scouting-2024.pdf": {}
+                        },
+                        "08": {
+                            "RMC-background1.png": {},
+                            "visi-misi-objektif.png": {}
+                        },
+                        "10": {
+                            "e-Customer-Feedback.png": {}
+                        }
+                    },
+                    "2025": {
+                        "03": {
+                            "tq-ain.png": {},
+                            "tq-amirah.png": {},
+                            "tq-farah.png": {},
+                            "tq-hanafi.png": {},
+                            "tq-sapiah.png": {},
+                            "welcome1-2025.png": {},
+                            "welcome2-2025.png": {},
+                            "welcome3-2025.png": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

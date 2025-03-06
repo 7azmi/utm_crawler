@@ -1,3 +1,1372 @@
 {
-    "": {}
+    "": {},
+    "cqm": {},
+    "epl": {
+        "2023": {
+            "04": {
+                "17": {
+                    "test-event-2": {},
+                    "test-event-3": {},
+                    "test-event1": {}
+                }
+            }
+        },
+        "activities": {},
+        "contact-us": {},
+        "facilities-and-equipments": {},
+        "grant": {},
+        "homepage": {},
+        "intellectual-properties": {},
+        "our-members": {
+            "nurulainibani": {}
+        },
+        "prizes-awards": {},
+        "publication": {}
+    },
+    "gcc": {
+        "achievements": {},
+        "activities": {},
+        "contact-us": {},
+        "projects": {},
+        "rg-members": {}
+    },
+    "huckm": {
+        "2020": {
+            "12": {
+                "01": {},
+                "18": {},
+                "21": {},
+                "page": {
+                    "2": {}
+                }
+            }
+        },
+        "2021": {
+            "03": {
+                "10": {}
+            }
+        },
+        "3rd-international-conference-on-human-capital-and-knowledge-management-ichckm-2017": {},
+        "activities-2017": {},
+        "activities-2018": {},
+        "activities-2019": {},
+        "activities-2020": {},
+        "activities": {},
+        "category": {
+            "activity-2017": {},
+            "activity-2020": {},
+            "uncategorized": {}
+        },
+        "e-content": {},
+        "international-conference-ichckm": {},
+        "kursus-penggunaan-perisian-ibm-spss": {},
+        "members-2": {},
+        "nali-2020-virtual-exhibition-competiton": {},
+        "news": {},
+        "organization-chart": {},
+        "our-focus": {},
+        "postgraduate-opportunities": {},
+        "program-borderless-thinking": {},
+        "training-workshop-on-computer-science-education": {},
+        "vison-mission": {},
+        "webinar-long-document-for-writing": {}
+    },
+    "mprotech": {
+        "collaboration": {},
+        "contact": {},
+        "people": {},
+        "sample-page": {},
+        "workshop": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "281": {
+                        "2021": {
+                            "11": {
+                                "Screenshot-2021-11-24-at-9.07.39-AM.png": {},
+                                "Screenshot-2021-11-24-at-9.53.09-AM.png": {},
+                                "image-3.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "obi": {
+        "2018": {
+            "11": {
+                "27": {
+                    "hello-world": {}
+                }
+            },
+            "12": {
+                "06": {
+                    "research-talk-with-dr-erwin-fielt-of-qut": {}
+                },
+                "21": {
+                    "obi-dec-2018-meeting": {}
+                }
+            }
+        },
+        "achievements": {},
+        "author": {
+            "adminrs": {},
+            "azaliah": {}
+        },
+        "category": {
+            "uncategorized": {}
+        },
+        "comments": {
+            "feed": {}
+        },
+        "community-engagement": {},
+        "consultation": {},
+        "feed": {},
+        "research-interest": {},
+        "research-students": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "280": {
+                        "2018": {
+                            "11": {
+                                "slr.png": {}
+                            },
+                            "12": {
+                                "CCINKL-SKUAD-AZAM-01-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-02-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-03-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-04-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-05-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-06.jpg": {},
+                                "CCINKL-SKUAD-AZAM-07.jpg": {},
+                                "CCINKL-SKUAD-AZAM-08-150x150.jpg": {},
+                                "CCINKL-SKUAD-AZAM-09-1.jpg": {},
+                                "IMG_20181114_153937.jpg": {},
+                                "IMG_20181114_153951.jpg": {},
+                                "IMG_20181114_153958.jpg": {},
+                                "IMG_20181114_154139.jpg": {},
+                                "erwin_qut.jpeg": {},
+                                "erwin_qut20181206.jpeg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "wp-login.php": {}
+    },
+    "policy": {},
+    "royalbelumtemenggor": {},
+    "softtrust": {},
+    "u-ban": {
+        "2017": {
+            "07": {
+                "18": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "2018": {
+            "01": {
+                "01": {
+                    "technical-visit-to-mimos-technology-park-malaysia": {}
+                },
+                "19": {
+                    "u-ban-strategic-plannning": {}
+                }
+            },
+            "02": {
+                "26": {
+                    "simulation-of-disaster-management-in-serendah-selangor": {}
+                }
+            },
+            "03": {
+                "05": {
+                    "technical-visit-national-instrument": {}
+                }
+            },
+            "04": {
+                "24": {
+                    "hackathon-utm-ericsson": {}
+                }
+            }
+        },
+        "2019": {
+            "05": {
+                "31": {
+                    "asean-ivo-meeting-in-utm-kl": {},
+                    "inatex-2019-utmjb": {},
+                    "knowledge-sharing-colloquium": {},
+                    "proposal-defend-viva-student-u-ban-2019": {},
+                    "softt2019": {},
+                    "telkom-u-visit": {},
+                    "visit-to-mardi": {}
+                },
+                "page": {
+                    "2": {}
+                }
+            }
+        },
+        "2021": {
+            "11": {
+                "12": {
+                    "uban-ventura-iot-sdn-bhd-discussion-on-potential-collaboration": {}
+                }
+            },
+            "12": {
+                "08": {
+                    "ieee-symposium-on-future-telecommunication-technologies-2021-softt-2021": {},
+                    "visitation-to-ventura-iot-sdn-bhd": {}
+                }
+            }
+        },
+        "2022": {
+            "03": {
+                "03": {
+                    "bengkel-perancangan-strategik-u-ban-2022": {}
+                }
+            },
+            "05": {
+                "24": {
+                    "community-grant-workshop": {}
+                }
+            },
+            "08": {
+                "08": {
+                    "icssa-2022": {}
+                },
+                "22": {
+                    "u-ban-scopus-paper-writing-workshop": {}
+                }
+            }
+        },
+        "2023": {
+            "07": {
+                "24": {
+                    "softt": {}
+                }
+            },
+            "09": {
+                "01": {
+                    "mou-between-ftir-and-redtone-iot-sdn-bhd": {}
+                }
+            }
+        },
+        "2024": {
+            "02": {
+                "26": {
+                    "collaboration-discussion-with-eceos-sdn-bhd": {}
+                }
+            }
+        },
+        "about-us": {
+            "team-member-expertise": {}
+        },
+        "activities": {
+            "page": {
+                "2": {},
+                "3": {}
+            }
+        },
+        "author": {
+            "adminrs": {},
+            "hazilah": {},
+            "husna": {
+                "page": {
+                    "2": {},
+                    "3": {}
+                }
+            },
+            "mohdazri": {
+                "page": {
+                    "2": {}
+                }
+            },
+            "wanzahinukasyah": {}
+        },
+        "category": {
+            "activity": {
+                "page": {
+                    "2": {},
+                    "3": {},
+                    "4": {}
+                }
+            },
+            "uncategorized": {}
+        },
+        "comments": {
+            "feed": {}
+        },
+        "contact-us": {},
+        "facilities-equipment": {},
+        "feed": {},
+        "prizes-awards": {},
+        "project": {
+            "hazilah-binti-mad-kaidi": {},
+            "mohd-azri": {},
+            "norliza": {},
+            "norulhusna-ahmad": {},
+            "robiah-ahmad": {},
+            "the-ieee-2022-6th-softt": {}
+        },
+        "research-intellectual-properties": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "258": {
+                        "2022": {
+                            "11": {
+                                "DSC04108-scaled.jpg": {},
+                                "DSC04150-scaled.jpg": {},
+                                "DSC04153-scaled.jpg": {},
+                                "DSC04193-scaled.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "wp-login.php": {}
+    },
+    "ves": {
+        "2017": {
+            "02": {
+                "06": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "activities": {},
+        "category": {
+            "uncategorized": {}
+        },
+        "comments": {
+            "feed": {}
+        },
+        "contact-us": {},
+        "facilities": {},
+        "feed": {},
+        "in-the-news": {},
+        "meeting-with-voith-industry": {},
+        "people": {},
+        "phd-opportunities": {},
+        "profile-2": {},
+        "protection-for-mangrove-seedlings": {},
+        "publications": {},
+        "research-meeting-at-nahrim": {},
+        "research-themes": {},
+        "wp-login.php": {}
+    },
+    "about-utm-razak": {
+        "vision-and-mission-of-utm-razak": {}
+    },
+    "arus2021": {
+        "about": {
+            "message-from-arus-2021-chair": {},
+            "message-from-general-chair": {},
+            "organizing-committee": {},
+            "overview": {},
+            "technical-advisors": {}
+        },
+        "arus2021-award-winners": {},
+        "arus2021-conference-photos": {},
+        "author": {},
+        "cfp": {
+            "cfp": {},
+            "fees": {},
+            "important-dates": {},
+            "program-schedule": {},
+            "themes-tracks": {},
+            "venue": {}
+        },
+        "conference-toolkit": {},
+        "contact-us": {},
+        "feed": {},
+        "manuscript-submission": {},
+        "manuscript-template": {},
+        "non-presenter-registration": {},
+        "publication": {},
+        "speaker": {},
+        "sponsors": {
+            "our-sponsors": {
+                "sponsorship-registration": {}
+            },
+            "sponsorship-packages": {}
+        },
+        "submission-guidelines-vc": {},
+        "virtual-presentation": {},
+        "workshops": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "295": {
+                        "2020": {
+                            "03": {
+                                "Facebook_icon_2013.svg_.png": {},
+                                "email-icon.png": {},
+                                "ig-icon.png": {}
+                            },
+                            "04": {
+                                "ARUS2021_List-of-Corrections-Form.docx": {}
+                            },
+                            "12": {
+                                "ARUS2021_Extended-Abstract-Template-Final.docx": {},
+                                "ARUS2021_MICROSOFT-CMT-SUBMISSION-GUIDELINES.pdf": {}
+                            }
+                        },
+                        "2021": {
+                            "01": {
+                                "ARUS2021-Final-Exhibitor-and-Sponsorship_June2021-VC.pdf": {},
+                                "JPCSExampleWordDocument.docx": {},
+                                "JPCSWordTemplateGuidelines.doc": {},
+                                "VIRTUAL-PRESENTATION-GUIDELINES.pdf": {}
+                            },
+                            "03": {
+                                "ARUS2021-VC-Final-CFA_June2021-v4_extended-dateline.pdf": {}
+                            },
+                            "06": {
+                                "ARUS2021-VIRTUAL-BACKGROUND.png": {},
+                                "TECHNICAL-INSTRUCTIONS-1.pdf": {},
+                                "Web-Version_ARUS2021-Conference-Agenda-and-Presentation-Schedule.pdf": {}
+                            },
+                            "07": {
+                                "ARUS2021_Day-1_1.png": {},
+                                "ARUS2021_Day-1_15.png": {},
+                                "ARUS2021_Day-1_18.png": {},
+                                "ARUS2021_Day-1_21.png": {},
+                                "ARUS2021_Day-1_24.png": {},
+                                "ARUS2021_Day-1_25.png": {},
+                                "ARUS2021_Day-1_36.png": {},
+                                "ARUS2021_Day-1_40.png": {},
+                                "ARUS2021_Day-1_41.png": {},
+                                "ARUS2021_Day-1_44.png": {},
+                                "ARUS2021_Day-1_54.png": {},
+                                "ARUS2021_Day-1_59.png": {},
+                                "ARUS2021_Day-1_6.png": {},
+                                "ARUS2021_Day-1_65.png": {},
+                                "ARUS2021_Day-1_66.png": {},
+                                "ARUS2021_Day-1_69.png": {},
+                                "ARUS2021_Day-1_7.png": {},
+                                "ARUS2021_Day-1_75.png": {},
+                                "ARUS2021_Day-1_76.png": {},
+                                "ARUS2021_Day-1_79.png": {},
+                                "ARUS2021_Day-1_81.png": {},
+                                "ARUS2021_Day-2_1.png": {},
+                                "ARUS2021_Day-2_103.png": {},
+                                "ARUS2021_Day-2_110.png": {},
+                                "ARUS2021_Day-2_117.png": {},
+                                "ARUS2021_Day-2_119.png": {},
+                                "ARUS2021_Day-2_13.png": {},
+                                "ARUS2021_Day-2_17.png": {},
+                                "ARUS2021_Day-2_26.png": {},
+                                "ARUS2021_Day-2_32.png": {},
+                                "ARUS2021_Day-2_38.png": {},
+                                "ARUS2021_Day-2_41.png": {},
+                                "ARUS2021_Day-2_43.png": {},
+                                "ARUS2021_Day-2_48.png": {},
+                                "ARUS2021_Day-2_52.png": {},
+                                "ARUS2021_Day-2_53.png": {},
+                                "ARUS2021_Day-2_55.png": {},
+                                "ARUS2021_Day-2_63.png": {},
+                                "ARUS2021_Day-2_67.png": {},
+                                "ARUS2021_Day-2_70.png": {},
+                                "ARUS2021_Day-2_72.png": {},
+                                "ARUS2021_Day-2_76.png": {},
+                                "ARUS2021_Day-2_80.png": {},
+                                "ARUS2021_Day-2_86.png": {},
+                                "ARUS2021_Day-2_94.png": {},
+                                "ARUS2021_Day-2_99.png": {},
+                                "OTEC.png": {},
+                                "OTEC21.png": {},
+                                "otec14.png": {},
+                                "otec32.png": {},
+                                "otec41.png": {},
+                                "otec51.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "azizulazizan@utm.my": {},
+    "bachelor-of-science-industrial-design": {},
+    "batc-booking": {},
+    "batc-lodge4": {},
+    "calendar": {},
+    "chart-org": {},
+    "conference": {},
+    "contact-2": {},
+    "cps-rg": {
+        "2016": {
+            "10": {
+                "18": {
+                    "postdoc-position-in-critical-infrastructure-design-and-analysis-at-masaryk-university-brno-czech-republic": {}
+                }
+            }
+        },
+        "2017": {
+            "09": {
+                "23": {
+                    "133": {},
+                    "oiji-non-indexed-journal-publication": {}
+                }
+            }
+        },
+        "2019": {
+            "10": {
+                "24": {
+                    "449": {}
+                }
+            }
+        },
+        "author": {
+            "salwani": {}
+        },
+        "azizulazizan@utm.my": {},
+        "category": {
+            "news-and-update": {},
+            "uncategorized": {}
+        },
+        "colloquium": {},
+        "contact-us": {},
+        "feed": {},
+        "mzulkefli.kl@utm.my": {},
+        "nilamnur@utm.my": {},
+        "noraimi.kl@utm.my": {},
+        "publications-2": {},
+        "research-areas": {},
+        "research-group": {},
+        "research-interest": {},
+        "research-project": {},
+        "research-publication": {},
+        "rg-members": {
+            "workshop": {
+                "activities": {}
+            }
+        },
+        "shafaatunnur@utm.my": {},
+        "shamsul@utm.my": {},
+        "sophia@utm.my": {},
+        "suriani.kl@utm.my": {},
+        "syahid.anuar@utm.my": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "278": {
+                        "2021": {
+                            "01": {
+                                "Poster-Workshop-Test-Drive-Alteryx-Data-Analytics-Poster.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "yusnaidi.kl@utm.my": {}
+    },
+    "dean-message": {},
+    "doctor-of-software-engineering": {},
+    "edge": {
+        "edebm": {},
+        "edfm": {},
+        "edms": {
+            "rosma.kl@utm.my": {}
+        },
+        "edmt": {
+            "mzaki.kl@utm.my": {}
+        },
+        "edosh": {
+            "mzaki.kl@utm.my": {}
+        },
+        "edrbm": {}
+    },
+    "emoshm": {},
+    "eng-department": {},
+    "eng-dept": {},
+    "engineering-doctorate-engd": {},
+    "exitsurvey": {},
+    "facilities-booking": {},
+    "facilities-rental-rates": {},
+    "facilities": {
+        "computer-lab-booking-form": {}
+    },
+    "ftir-support": {},
+    "getting-here": {
+        "www.klia.com.my": {},
+        "www.lcct.com.my": {},
+        "www.rapidkl.com.my": {}
+    },
+    "harihodin": {},
+    "hudafirdaus": {},
+    "icebm": {
+        "committee": {},
+        "payment": {},
+        "proceedings": {},
+        "registration": {},
+        "schedule": {},
+        "video-submission": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "287": {
+                        "2021": {
+                            "05": {
+                                "FULL-PAPER-TEMPLATE.docx": {}
+                            }
+                        },
+                        "2022": {
+                            "05": {
+                                "Template-for-extended-abstract-ICEBM-2022-a.docx": {}
+                            },
+                            "07": {
+                                "Template-for-extended-abstract-ICEBM-2022-V2.docx": {}
+                            },
+                            "08": {
+                                "ICEBM2022-_Keynote-Shari.pdf": {},
+                                "IR-4.0-to-Fm-industry-.pdf": {},
+                                "VB-ICEBM-2022.png": {}
+                            },
+                            "09": {
+                                "Proceeding-ICEBM-2022-13-September-2022.pdf": {}
+                            }
+                        }
+                    },
+                    "320": {
+                        "2023": {
+                            "05": {
+                                "ASNet-Full-Paper-Template-English-Ver-2.0.docx": {},
+                                "Template-for-extended-abstract-ICEBM-2023.docx": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "icebm2021": {},
+    "icebm2022": {
+        "cancellation-policy": {},
+        "conferenceproceedings": {},
+        "feed": {},
+        "fees-structure": {},
+        "important-date": {},
+        "keynotes": {},
+        "organizing-committee-2": {},
+        "organizing-committee": {},
+        "payment-information": {},
+        "registration-submission": {},
+        "schedule-2": {},
+        "schedule": {},
+        "submission-and-template": {},
+        "theme": {},
+        "video": {}
+    },
+    "ichckm2021": {
+        "2021": {
+            "06": {
+                "15": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "author": {
+            "free": {}
+        },
+        "call-for-papers": {},
+        "category": {
+            "uncategorized": {}
+        },
+        "conference-fee": {},
+        "conference-schedule": {},
+        "contact-us": {},
+        "important-dates": {},
+        "paper-submission": {},
+        "publication": {},
+        "registration-and-payment": {},
+        "speakers": {},
+        "video-presentation-guidelines": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "302": {
+                        "2021": {
+                            "07": {
+                                "drghazali-profile.pdf": {}
+                            },
+                            "09": {
+                                "Template_ExtendedAbstract-ICHCKM2021.docx": {}
+                            },
+                            "12": {
+                                "ICHCKM-Program-book-4.pdf": {},
+                                "Presentation-Schedule-ICHCKM-2021.pdf": {},
+                                "ichckm-VB.jpeg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "icssa2022": {
+        "committee": {},
+        "contact-us": {},
+        "fee": {},
+        "feed": {},
+        "gallery": {},
+        "important-dates": {},
+        "industrial-speaker": {},
+        "online-tutorial": {},
+        "prof-dr-alyani-ismail": {},
+        "prof-dr-soon-xin-ng-michael-2": {},
+        "prof-eros-pasero": {},
+        "program-schedule": {},
+        "speaker": {},
+        "sponsorship": {},
+        "standard-precautionary-measures-procedures": {},
+        "submission-guidelines": {},
+        "tpc-members": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "303": {
+                        "2022": {
+                            "03": {
+                                "Poster-1.pdf": {}
+                            },
+                            "04": {
+                                "CFP-updated-20042022-copy.pdf": {},
+                                "ICSSA2022-Sponsership-Poster-copy.pdf": {}
+                            },
+                            "07": {
+                                "WhatsApp-Image-2022-07-23-at-8.06.50-AM-1.jpeg": {}
+                            },
+                            "09": {
+                                "DSC00007-1-scaled.jpg": {},
+                                "DSC00015-scaled.jpg": {},
+                                "DSC00017-scaled.jpg": {},
+                                "DSC00020-scaled.jpg": {},
+                                "DSC00022-scaled.jpg": {},
+                                "DSC00027-scaled.jpg": {},
+                                "DSC00028-scaled.jpg": {},
+                                "DSC00029-scaled.jpg": {},
+                                "DSC00030-1-scaled.jpg": {},
+                                "DSC00031-scaled.jpg": {},
+                                "DSC00037-1-scaled.jpg": {},
+                                "DSC00046-scaled.jpg": {},
+                                "DSC00063-scaled.jpg": {},
+                                "DSC00064-scaled.jpg": {},
+                                "DSC00068-scaled.jpg": {},
+                                "DSC00069-scaled.jpg": {},
+                                "DSC00075-scaled.jpg": {},
+                                "DSC00076-scaled.jpg": {},
+                                "DSC00077-scaled.jpg": {},
+                                "DSC00082-1-scaled.jpg": {},
+                                "DSC00084-scaled.jpg": {},
+                                "DSC00085-scaled.jpg": {},
+                                "DSC00086-scaled.jpg": {},
+                                "DSC00090-1-scaled.jpg": {},
+                                "DSC00091-scaled.jpg": {},
+                                "DSC00092-scaled.jpg": {},
+                                "DSC00109-scaled.jpg": {},
+                                "DSC00110-scaled.jpg": {},
+                                "DSC00115-1-scaled.jpg": {},
+                                "DSC00117-scaled.jpg": {},
+                                "DSC00120-scaled.jpg": {},
+                                "DSC00121-1-scaled.jpg": {},
+                                "DSC00123-scaled.jpg": {},
+                                "DSC00125-1-scaled.jpg": {},
+                                "DSC00129-scaled.jpg": {},
+                                "DSC00133-scaled.jpg": {},
+                                "DSC00134-scaled.jpg": {},
+                                "DSC00135-scaled.jpg": {},
+                                "DSC00136-scaled.jpg": {},
+                                "DSC00142-1-scaled.jpg": {},
+                                "DSC00151-scaled.jpg": {},
+                                "DSC00152-1-scaled.jpg": {},
+                                "DSC00153-1-scaled.jpg": {},
+                                "DSC00154-scaled.jpg": {},
+                                "DSC00155-scaled.jpg": {},
+                                "DSC00156-scaled.jpg": {},
+                                "DSC00157-scaled.jpg": {},
+                                "DSC00159-scaled.jpg": {},
+                                "DSC00160-scaled.jpg": {},
+                                "DSC00161-scaled.jpg": {},
+                                "DSC00162-1-scaled.jpg": {},
+                                "DSC00163-scaled.jpg": {},
+                                "DSC00164-1-scaled.jpg": {},
+                                "DSC00165-1-scaled.jpg": {},
+                                "DSC00166-scaled.jpg": {},
+                                "DSC00167-scaled.jpg": {},
+                                "DSC00168-1-scaled.jpg": {},
+                                "DSC00169-1-scaled.jpg": {},
+                                "DSC00170-1-scaled.jpg": {},
+                                "DSC00171-scaled.jpg": {},
+                                "DSC00172-scaled.jpg": {},
+                                "DSC00173-scaled.jpg": {},
+                                "DSC00174-1-scaled.jpg": {},
+                                "DSC00174-scaled.jpg": {},
+                                "DSC00175-scaled.jpg": {},
+                                "DSC00176-scaled.jpg": {},
+                                "DSC00180-scaled.jpg": {},
+                                "DSC00184-scaled.jpg": {},
+                                "DSC00188-scaled.jpg": {},
+                                "DSC00190-scaled.jpg": {},
+                                "DSC00192-scaled.jpg": {},
+                                "DSC00198-scaled.jpg": {},
+                                "DSC00204-scaled.jpg": {},
+                                "DSC00205-scaled.jpg": {},
+                                "DSC00210-scaled.jpg": {},
+                                "DSC00214-scaled.jpg": {},
+                                "DSC00219-scaled.jpg": {},
+                                "DSC00238-scaled.jpg": {},
+                                "DSC00243-scaled.jpg": {},
+                                "DSC00245-scaled.jpg": {},
+                                "DSC00251-scaled.jpg": {},
+                                "DSC00268-scaled.jpg": {},
+                                "DSC00269-scaled.jpg": {},
+                                "DSC00298-scaled.jpg": {},
+                                "DSC00300-scaled.jpg": {},
+                                "DSC00307-scaled.jpg": {},
+                                "DSC00308-scaled.jpg": {},
+                                "DSC00309-scaled.jpg": {},
+                                "DSC00310-scaled.jpg": {},
+                                "DSC00327-scaled.jpg": {},
+                                "DSC00328-scaled.jpg": {},
+                                "DSC00331-scaled.jpg": {},
+                                "DSC00334-scaled.jpg": {},
+                                "DSC00338-scaled.jpg": {},
+                                "DSC00340-scaled.jpg": {},
+                                "DSC00342-scaled.jpg": {},
+                                "DSC00343-scaled.jpg": {},
+                                "DSC00347-scaled.jpg": {},
+                                "DSC00348-scaled.jpg": {},
+                                "DSC00349-scaled.jpg": {},
+                                "DSC00352-scaled.jpg": {},
+                                "DSC00354-scaled.jpg": {},
+                                "DSC00356-scaled.jpg": {},
+                                "DSC00359-scaled.jpg": {},
+                                "DSC00363-scaled.jpg": {},
+                                "DSC00364-scaled.jpg": {},
+                                "DSC00372-scaled.jpg": {},
+                                "DSC00379-scaled.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "informatics-dept": {},
+    "informatics": {},
+    "information-for-current-student": {},
+    "information-for-staff": {},
+    "iotlab": {},
+    "ip2g": {},
+    "lestari": {
+        "air": {},
+        "bahagian-1": {},
+        "bahagian-2-elemen-pengurusan-2": {},
+        "bahagian-3-elemen-pendidikan-dan-inovasi-2": {},
+        "bahagian-4-elemen-komuniti-2": {},
+        "bahagian-5-elemen-alam-sekitar-2": {},
+        "bahagian-6-elemen-kesejahteraan-2": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "314": {
+                        "2023": {
+                            "03": {
+                                "Carta-Organisasi-FTIR-2023-2025-V2.pdf": {}
+                            },
+                            "04": {
+                                "Dr-Shahman-Anugerah-Pecipta-2022.pdf": {},
+                                "Laporan-Kelab-Kebajikan-dan-Kesejahteraan-FTIR-2022.pptx": {},
+                                "Slaid-Pembentangan-Badan-Kebajikan-FTIR-Mesyuarat-Fakulti-Jun-2022.pdf": {}
+                            }
+                        },
+                        "2024": {
+                            "04": {
+                                "POSTER-POLISI-2021-converted_compressed-1-1.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "management": {},
+    "maps-and-directions": {
+        "www.klia.com.my": {},
+        "www.lcct.com.my": {},
+        "www.rapidkl.com.my": {}
+    },
+    "master-in-science-technology-innovation-policy": {},
+    "master-of-software-engineering": {},
+    "master-professional-science": {},
+    "mebm": {},
+    "mlds": {
+        "2016": {
+            "12": {
+                "07": {
+                    "hello-world": {}
+                }
+            }
+        },
+        "about": {},
+        "author": {
+            "sophiayati": {}
+        },
+        "careers": {},
+        "category": {
+            "uncategorized": {}
+        },
+        "comments": {
+            "feed": {}
+        },
+        "contact": {},
+        "data-science-with-python-workshops": {},
+        "feed": {},
+        "news-events": {},
+        "partnerships": {},
+        "people": {},
+        "publications": {},
+        "research": {},
+        "workshops": {},
+        "wp-login.php": {}
+    },
+    "mooc-credit-transfer": {},
+    "mphil-industrial-design": {},
+    "mphil-informatics": {},
+    "mphil-policy-studies": {},
+    "mphil-razak": {},
+    "msc-business-intelligence-and-analytics": {},
+    "msc-computer-systems-engineering": {},
+    "msc-engineering-design": {},
+    "msc-engineering-education-2": {},
+    "msc-informatics": {},
+    "msc-information-assurance": {},
+    "msc-sustainable-infrastructure": {},
+    "msc-sustainable-urban-design": {},
+    "msc-systems-engineering": {},
+    "mzulkefli.kl@utm.my": {},
+    "nilamnur@utm.my": {},
+    "noraimi.kl@utm.my": {},
+    "oshe-rfti": {
+        "2269-2": {},
+        "about-us": {},
+        "author": {
+            "adminrs": {},
+            "othmanyusop": {
+                "page": {
+                    "2": {}
+                }
+            }
+        },
+        "blog": {},
+        "category": {
+            "gotong-royong": {},
+            "kesihatan": {},
+            "pkp-p-b-d": {},
+            "tazkirah": {},
+            "uncategorized": {}
+        },
+        "celik-cpr": {},
+        "contact-us": {},
+        "eksa-rfti": {},
+        "galleries-celik-cpr": {},
+        "galleries-gotong-royong-siri-1-2019": {},
+        "galleries-gotongroyong2020-1": {},
+        "galleries-pasca-pkpb": {},
+        "galleries": {
+            "galleries-gotong-royong-2-2020": {}
+        },
+        "gotong-royong-20191": {},
+        "gotong-royong-siri-1-2020": {},
+        "gotong-royong-siri-2-2020": {},
+        "kesihatan-mental-penjagaan-dan-pelestarian": {},
+        "news": {},
+        "persiapan-pasca-pkpb": {},
+        "policies": {},
+        "tazkirah-perdana-datuk-dr-norhafizah-musa-26-mac-2021": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "294": {
+                        "2020": {
+                            "01": {
+                                "business-06.jpg": {},
+                                "business-07.jpg": {},
+                                "client_1.png": {},
+                                "client_2.png": {},
+                                "client_4.png": {},
+                                "intro.jpg": {},
+                                "slider1.jpg": {},
+                                "uniqwpbg1.jpg": {}
+                            },
+                            "02": {
+                                "DSCF2161-scaled.jpg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.55.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.56-1.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.56-2.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.56-3.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.56.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.57-1.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.57-2.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.57.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.01.58.jpeg": {},
+                                "WhatsApp-Image-2020-01-31-at-11.08.45.jpeg": {}
+                            }
+                        },
+                        "2021": {
+                            "01": {
+                                "Apa-itu-EKSA.png": {},
+                                "Dr-Syazli-720-x-480.png": {},
+                                "EKSA-vs-5s.png": {},
+                                "Gotong-Royong-2020-1-720x480-1.png": {},
+                                "PENGENALAN-EKSA.png": {},
+                                "gr1.jpeg": {},
+                                "gr2.jpeg": {},
+                                "gr3.jpeg": {},
+                                "gr4.jpeg": {},
+                                "gr5.jpeg": {}
+                            }
+                        },
+                        "2023": {
+                            "08": {
+                                "2022-CARTA-OSHE.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "perdana-centre-department": {},
+    "perdana-centre": {},
+    "perdana-department": {},
+    "phd-informatics": {},
+    "phd-policy-studies": {},
+    "phd-razak": {},
+    "pma-submission-notification": {},
+    "postgraduate-time-table": {},
+    "programmes": {},
+    "quality": {},
+    "rafizah": {},
+    "razak.utm.my": {
+        "undergraduate-kit-registration": {}
+    },
+    "registration-kit": {},
+    "research": {
+        "grant": {},
+        "information-research": {},
+        "innovation": {},
+        "office-of-tdpi": {},
+        "research-group": {},
+        "resources-area": {},
+        "tdppi": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "271": {
+                        "2019": {
+                            "01": {
+                                "SENARAI-PROPOSAL-BANK_FTIR.pdf": {}
+                            },
+                            "08": {
+                                "POLISI-PERBELANJAAN-BERHEMAH-TAHUN-2017.pdf": {},
+                                "Peraturan-Kewangan-2016.pdf": {},
+                                "Permohonan-Bayaran-Insentif-Patent-Granted-Fakulti-Razak.pdf": {},
+                                "Permohonan-Bayaran-Insentif-Pengkomersialan-Produk-Fakulti-Razak.pdf": {}
+                            },
+                            "09": {
+                                "BUKU-TADBIR-URUS-GERAN-LUAR_V2.pdf": {},
+                                "GRANT-MANAGEMENT.pdf": {},
+                                "RMC-Talk-at-UTM-KL.pdf": {},
+                                "TADBIR-URUS-GUP-2018.pdf": {},
+                                "Tadbir-Urus-Dana-Penyelidikan-KPM.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "researchweek": {
+        "RAZAK%20RESEARCH WEEK (RRW 2022)": {},
+        "fees": {},
+        "industry": {},
+        "opening-ceremony": {},
+        "ppc": {},
+        "presentation-schedule": {},
+        "ratips2022": {},
+        "ratips2022reg": {},
+        "ratipspresentation": {},
+        "ratipssubmission": {},
+        "research-champion-talks": {},
+        "research": {},
+        "rpc": {},
+        "rrwcommittee": {},
+        "rrwworkshop": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "293": {
+                        "2022": {
+                            "08": {
+                                "FULL-PAPER-TEMPLATE1.docx": {},
+                                "TEMPLATE.docx": {},
+                                "Template-OIJI-2022-RATIPS.docx": {}
+                            },
+                            "09": {
+                                "CALL-FOR-PAPER-2022-1.pdf": {},
+                                "PHOTO-2022-09-27-13-42-39-1.pdf": {}
+                            },
+                            "10": {
+                                "PHOTO-2022-10-04-11-25-54.jpg": {},
+                                "PHOTO-2022-10-11-11-00-30.jpg": {},
+                                "PHOTO-2022-10-28-16-51-29.jpg": {},
+                                "RI-Poster-Guidelines.pdf": {}
+                            },
+                            "11": {
+                                "RATIPS-booklet-2022-Finalized.pdf": {},
+                                "VB.png": {}
+                            },
+                            "12": {
+                                "Extended-Asbtract_29nov-1.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "researchweek2018": {},
+    "researchweek2021": {
+        "3mt-marks": {},
+        "3mt-presentation-guide": {},
+        "3mt-rules": {},
+        "3mtregister": {},
+        "call-for-papers": {},
+        "commitee": {},
+        "full-schedule": {},
+        "organizing-commitee": {},
+        "ppc": {},
+        "ppclist": {},
+        "presentation-guideline": {},
+        "program-schedule": {},
+        "ratips-fees": {},
+        "ratips2021": {},
+        "razak-3mt-2021": {},
+        "rpc": {},
+        "rrwworkshop": {},
+        "winners": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "315": {
+                        "2021": {
+                            "10": {
+                                "CFDL_template_July_2020.docx": {},
+                                "POSTER-TEMPLATE.pptx": {},
+                                "RRW-3MT-Script-Template.docx": {},
+                                "Research-Poster-Template.docx": {},
+                                "Research-Poster_Video-Guidelines-and-Judging-Process.docx": {},
+                                "Template-OIJI-2021-RATIPS.docx": {}
+                            },
+                            "12": {
+                                "Darrshini-Muniandy_UTM_Industrial-Design-Darrshini-kutty-Muniandy.pdf": {},
+                                "EDITED-BOOK.pdf": {},
+                                "Jothi-Letchumy-Geevaretnam_UTM_CO2-emissions_Masters-JOTHI-LETCHUMY-A_P-GEEVARETNAM-MAN191034.pdf": {},
+                                "MPhil_Informatics_Wan-Aidatul-Aizan-bt-Ton-Abd-Aziz-WAN-AIDATUL-AIZAN-BINTI-TON-ABD-AZIZ-TObeASSIGN.pdf": {},
+                                "MUHAMMAD-IBADURRAHMAN_UTM_ENGINEERING-MUHAMMAD-IBADURRAHMAN-BIN-SHAMSUL-BAHRI-MRS201051.pdf": {},
+                                "MasterBIA_Informatics_Mogeneswari-Jai-Sankar-Mogeneswari-Jai-Sankar.pdf": {},
+                                "Md_Oazed_Uddin_Lium_UTM_Informatiks-oazed-lium.pdf": {},
+                                "Mohamad-Firdhaus-bin-Ramli_UTM_Science-Management-Design-Mohamad-Firdhaus-Ramli.pdf": {},
+                                "Muhamad-Farouk_UTM_Engineering-Technology-MUHAMAD-FAROUK-BIN-ABDUL-RASHID-MRS201025.pdf": {},
+                                "Nurul-Amirah-Mashudi_UTM_Engineering-Nurul-Amirah.pdf": {},
+                                "POSTER-TEMPLATE-BCM-MOHAMAD-AZLAN-BIN-MOHAMED-SHAPIE-MAN201029.pdf": {},
+                                "RATIPS-_PROGRAM-BOOK-1.pdf": {},
+                                "RATIPS-_PROGRAM-BOOK-3.pdf": {},
+                                "ROSLINDA_MAN191082_POSTER_RRW_2021-Linda-Mohamed.pdf": {},
+                                "RRW-Virtual-Background.png": {},
+                                "RabiatulAdawiyah_Research-Poster-Rabiatul-Adawiyah.pdf": {},
+                                "Reevan-Seelen-Jagamogan_UTM_Informatics-REEVAN-SEELEN-A_L-JAGAMOGAN-MAN201007.pdf": {},
+                                "ResearchWEEKFTIR2021-compressed.pdf": {},
+                                "SUBRAMANIAM-AL-NITAMAKWUAVAN_UTM_ENGINEERING-maniam-subra.pdf": {},
+                                "Salmellia-Sutra-Sabau-Binti-Mahamad-Kernain_UTM_Industrial-Design-SALMELLIA-SUTRA-SABAU-BINTI-MOHAMAD-KERNAIN-A18RS0011.pdf": {},
+                                "Screenshot-2021-12-07-at-8.55.02-PM-1.png": {},
+                                "Screenshot-2021-12-08-at-7.39.33-AM.png": {},
+                                "Siti-Zubaidah-Mohd-Yusoff_UTM_Profesional-Science-Applied-Chemistry_Individual.pptx-SITI-ZUBAIDAH-BINTI-MOHD-YUSOFF-MRS191067.pdf": {},
+                                "TanWaiHua_UTM_Informatics-TAN-WAI-HUA-MAN201040.pdf": {},
+                                "VB_RATIPS-scaled.jpg": {},
+                                "ZAHIR-HASSAN-MJIIT-Zahir-Hassan.pdf": {},
+                                "ZulianaDaud_FTIR_AdvanceInformatics_RRWPROJECTPOSTER-ZULIANA-BINTI-DAUD.pdf": {},
+                                "bookchapterworkshop.pdf": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "researchweek20212018": {},
+    "science-management-and-design": {},
+    "shafaatunnur@utm.my": {},
+    "shamsul@utm.my": {},
+    "smart.utm.my": {},
+    "smd-department": {},
+    "sophia": {},
+    "sophia@utm.my": {},
+    "submit-event-news-application": {},
+    "sudlic": {
+        "call-for-papers": {},
+        "call-for-sponsors": {},
+        "correspondence": {},
+        "feed": {},
+        "fees": {},
+        "important-dates": {},
+        "our-keynote-speakers": {},
+        "programme-schedule": {},
+        "sudlic-2021-program-book": {},
+        "sudlic2017": {
+            "copy-sudlic2014-jpg": {}
+        },
+        "template-submission": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "209": {
+                        "2014": {
+                            "03": {
+                                "copy-sudlic2014.jpg": {}
+                            }
+                        },
+                        "2021": {
+                            "07": {
+                                "SHUHANA.jpeg": {},
+                                "sudlic_sponsorship_flyer-scaled.jpg": {},
+                                "website-image-3.jpg": {}
+                            },
+                            "08": {
+                                "SUDLIC2021_programme-book.pdf": {},
+                                "Screenshot-2021-08-05-at-2.18.06-PM.png": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "supporting-staff-2": {},
+    "suriani.kl@utm.my": {},
+    "syahid.anuar@utm.my": {},
+    "the-administrator-2": {},
+    "tne": {},
+    "undergraduate-study": {},
+    "undergraduate-timetable": {},
+    "utm-razak-pg-workstation-application": {},
+    "utmrazak-programme": {},
+    "wp-content": {
+        "uploads": {
+            "2013": {
+                "05": {
+                    "menara-razak-cloud-1.png": {},
+                    "menara-razak-cloud.png": {}
+                }
+            },
+            "2019": {
+                "04": {
+                    "senarai-semak-moocs.docx": {}
+                }
+            },
+            "2020": {
+                "06": {
+                    "Approval-Form-for-Space-usage-by-students.pdf": {}
+                },
+                "08": {
+                    "QUICKWINS-Permohonan-Bantuan-Bayaran-Jurnal-revised-Dean-approval.pdf": {},
+                    "SOP-Permohonan-Menjalankan-Aktiviti-Penyelidikan-RG-di-FTIR-2.pdf": {}
+                },
+                "09": {
+                    "EMOSH.pdf": {},
+                    "EngDoc.pdf": {},
+                    "MEBM.pdf": {},
+                    "MPhilID.pdf": {},
+                    "MPhil_2020_UTMRazak.pdf": {},
+                    "MSED.pdf": {},
+                    "MSEE.pdf": {},
+                    "MSSE.pdf": {},
+                    "MSSI.pdf": {},
+                    "MSTI.pdf": {},
+                    "MSUD.pdf": {},
+                    "PhD_2020_UTMRAZAK.pdf": {},
+                    "SRSI.pdf": {}
+                }
+            },
+            "2021": {
+                "01": {
+                    "DSE.pdf": {},
+                    "MANA.pdf": {},
+                    "MANP.pdf": {},
+                    "MANQ.pdf": {},
+                    "MANS.pdf": {}
+                },
+                "03": {
+                    "TEMPLAT_KERTAS_KERJA_JKPP-2.docx": {}
+                },
+                "05": {
+                    "MPS-2021.pdf": {}
+                },
+                "07": {
+                    "MPhil-Policy-1.pdf": {},
+                    "PhD-policy-3.pdf": {}
+                }
+            },
+            "2022": {
+                "06": {
+                    "UTMRazak-Programmes.pdf": {}
+                },
+                "08": {
+                    "Master-of-Science-Business-Intelligence-and-Analytics.pdf": {}
+                },
+                "09": {
+                    "Taklimat-Pelajar-Baharu-EDGE-16-April-2022.pdf": {}
+                },
+                "11": {
+                    "DOUBLE-DELUXE-ROOM_1.png": {},
+                    "DOUBLE-DELUXE-ROOM_2.png": {},
+                    "DOUBLE-DELUXE-ROOM_3.png": {},
+                    "MAP-UTMKL1-300x198-1.jpg": {},
+                    "STANRDARD-SINGLE-ROOM_1.png": {},
+                    "STANRDARD-SINGLE-ROOM_2.png": {},
+                    "SUPERIOR-DELUXE-ROOM.png": {},
+                    "klang-valley-transit-map-2012.png": {}
+                }
+            },
+            "2023": {
+                "04": {
+                    "GARIS-PANDUAN-TEMPAHAN-DAN-SEWAAN-RUANG.pdf": {},
+                    "GUIDELINES-FOR-SPACE-RESERVATION-AND-RENTAL-IN-FTIR.pdf": {}
+                },
+                "05": {
+                    "Carta-Organisasi-FTIR-2.png": {}
+                },
+                "07": {
+                    "2023-FTIR-UTM-MANA.pdf": {},
+                    "2023-FTIR-UTM-MANQ.pdf": {},
+                    "2023-FTIR-UTM-MANS.pdf": {}
+                }
+            },
+            "2024": {
+                "03": {
+                    "5.-BRIEFING-SESSION-WITH-PROGRAMME-COORDINATOR-FOR-NEW-PG-STUDENTS-202320242.pdf": {},
+                    "6.-LIST-OF-POSTGRADUATE-PROGRAMME-COORDINATORS-202320242.pdf": {}
+                }
+            }
+        }
+    },
+    "yusnaidi.kl@utm.my": {}
 }

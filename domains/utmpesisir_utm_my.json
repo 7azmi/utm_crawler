@@ -1,3 +1,55 @@
 {
-    "": {}
+    "": {},
+    "2018": {
+        "02": {
+            "20": {
+                "pendaftaran-2": {},
+                "pendaftaran-4": {},
+                "pendaftaran-5": {},
+                "pendaftaran": {}
+            }
+        }
+    },
+    "2022": {
+        "08": {
+            "24": {
+                "news": {},
+                "welcome": {}
+            }
+        }
+    },
+    "about-us": {},
+    "author": {
+        "ammar": {},
+        "azizio": {}
+    },
+    "category": {
+        "daftar": {},
+        "news": {}
+    },
+    "comments": {
+        "feed": {}
+    },
+    "contact-us": {},
+    "current-students-2": {},
+    "entry-requirement-2": {},
+    "exam-schedule": {},
+    "faq-2": {},
+    "feed": {},
+    "industrial-engineering": {},
+    "kl.utm.my": {},
+    "master-of-engineering-civil": {},
+    "master-of-engineering-construction-management": {},
+    "master-of-engineering-geotechnics": {},
+    "master-of-engineering-structure": {},
+    "master-of-petroleum-engineering": {},
+    "master-of-project-management": {},
+    "master-of-science-energy-management": {},
+    "master-of-science-mechanical-engineering": {},
+    "news-announcements": {},
+    "pagoh.utm.my": {},
+    "program": {},
+    "programme-offered": {},
+    "utm.my": {},
+    "wp-login.php": {}
 }

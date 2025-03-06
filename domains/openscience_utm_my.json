@@ -1,3 +1,1357 @@
 {
-    "": {}
+    "": {},
+    "bitstreams": {
+        "012a0db0-724a-4a53-a639-227bec15915e": {
+            "download": {}
+        },
+        "01b98b03-ed83-43e9-8434-433794ac8906": {
+            "download": {}
+        },
+        "01c5eef1-96a5-40ee-9fa6-d8378231a9cb": {
+            "download": {}
+        },
+        "02ad2bf6-9b15-4b00-a480-2b7fbebc1f66": {
+            "download": {}
+        },
+        "056e78aa-b8cc-488a-b4fc-bd6d56679f5f": {
+            "download": {}
+        },
+        "07fd779b-4a08-444d-b201-88613480ab39": {
+            "download": {}
+        },
+        "080e09ac-296e-4fc9-a182-c246d11b11fb": {
+            "download": {}
+        },
+        "0ac9c578-b96d-4013-9ead-0c7e8951675a": {
+            "download": {}
+        },
+        "0bebf81f-70d6-42af-8687-9b1ed7e8c752": {
+            "download": {}
+        },
+        "0c06f9e4-6bdf-4998-8039-7755236c03f6": {
+            "download": {}
+        },
+        "0ccbf3cb-3609-4352-9e08-f12556fc8825": {
+            "download": {}
+        },
+        "0da86383-2760-4377-a302-e18887f70283": {
+            "download": {}
+        },
+        "0e1b2079-a0da-42bd-af78-36381c99d6c8": {
+            "download": {}
+        },
+        "1137a5a5-c96a-41d3-ac6a-9a86934f48da": {
+            "download": {}
+        },
+        "1365dff8-332e-4e82-b8cf-37a9a8cac1de": {
+            "download": {}
+        },
+        "147cf75e-0f5d-4a6d-9019-24e7381e3d32": {
+            "download": {}
+        },
+        "14ba3893-69b5-4ab9-ac7a-03649434097d": {
+            "download": {}
+        },
+        "177f6b1e-0c5c-4b6a-a1f1-c24e3fecfc6b": {
+            "download": {}
+        },
+        "1a26f33f-ad6e-490b-abff-81393e2be17b": {
+            "download": {}
+        },
+        "1b307e1d-9df5-452b-9edf-aa6878870212": {
+            "download": {}
+        },
+        "1b964d67-63f2-4fb2-9070-4d65fecb5dee": {
+            "download": {}
+        },
+        "1ba26d29-338a-4ebe-ad64-7726986104fc": {
+            "download": {}
+        },
+        "1c03055c-9301-4d02-a176-30f0b530c9ae": {
+            "download": {}
+        },
+        "1d52e835-51fd-4f1d-aff9-a2589b62e1f8": {
+            "download": {}
+        },
+        "1d549852-8dc4-402b-824b-8b87df57eb94": {
+            "download": {}
+        },
+        "1e8a3a11-0b6c-4618-b118-ece4fe42e626": {
+            "download": {}
+        },
+        "1ebc05da-fc6e-4279-a610-5878f6932d62": {
+            "download": {}
+        },
+        "1ed1d9e2-6e30-4999-be70-843cd92a7834": {
+            "download": {}
+        },
+        "1f5faa0e-23f3-4e90-805b-0b5d01ed192e": {
+            "download": {}
+        },
+        "20880586-b99b-46ec-8d38-9b64db7bd0e0": {
+            "download": {}
+        },
+        "2190a0c5-b834-4e88-95c9-01792a5c0154": {
+            "download": {}
+        },
+        "238e69db-1a6a-4bc9-bf5c-1f3c22174dde": {
+            "download": {}
+        },
+        "2539a6f3-04fc-4258-a6d5-3107b3aa96a1": {
+            "download": {}
+        },
+        "25bccc74-f8d5-429b-a9a1-a8ead8f18055": {
+            "download": {}
+        },
+        "25e6e1d7-07d0-4ca5-92c6-b5a30448d2cc": {
+            "download": {}
+        },
+        "264c3bbe-7502-4338-b1bd-0f7f607d1717": {
+            "download": {}
+        },
+        "266b15a2-3f18-4e3c-8f8b-12a255af7ab5": {
+            "download": {}
+        },
+        "286d4d64-72b2-4f17-9e1c-db50f9356790": {
+            "download": {}
+        },
+        "289d814b-867f-4277-a38b-99475f85c38f": {
+            "download": {}
+        },
+        "29a54df9-84c4-44fa-b1e9-609bb0b794ad": {
+            "download": {}
+        },
+        "29efff76-a178-470a-ad4e-6a3875364cf9": {
+            "download": {}
+        },
+        "2bbfb6ea-00f7-438f-874f-92afb4a05260": {
+            "download": {}
+        },
+        "2c85d6db-f095-4719-adc8-db4e864efe1a": {
+            "download": {}
+        },
+        "2d81f89e-6bad-4621-8eee-b3f00a5fb282": {
+            "download": {}
+        },
+        "2e83207a-aa30-4f22-a15a-385675cfd32d": {
+            "download": {}
+        },
+        "2e935fbb-d4a0-40e0-9611-5a7fae7e41dd": {
+            "download": {}
+        },
+        "2ea6c865-b78b-45d0-a7c8-a7c2030af13a": {
+            "download": {}
+        },
+        "303f4bee-574b-436f-9e3b-a30bbd25f73d": {
+            "download": {}
+        },
+        "30bca114-9f6f-4d3f-9da6-2a2cb7a668b7": {
+            "download": {}
+        },
+        "310ccf30-cfad-405d-bc23-ab2e4ab77dc0": {
+            "download": {}
+        },
+        "31493654-9493-44e7-ac1e-d916ea90d69b": {
+            "download": {}
+        },
+        "321181e8-0e11-44b3-b129-c63133014322": {
+            "download": {}
+        },
+        "3226cdde-5d55-485e-9607-7aae041c320d": {
+            "download": {}
+        },
+        "36026b71-3432-42d9-90eb-8c2dc79070d9": {
+            "download": {}
+        },
+        "363c72f7-b2ff-4b48-87d4-9534ee9a1bb8": {
+            "download": {}
+        },
+        "3683c35a-e443-400c-80b2-a8d342a0e8c9": {
+            "download": {}
+        },
+        "3731a3fa-8c79-4e3d-a2b7-836380edeaa0": {
+            "download": {}
+        },
+        "39bcbbf0-4b0d-422b-86b5-3081057bb9ff": {
+            "download": {}
+        },
+        "3a136d3b-3c48-49e7-8df3-50080fa75e69": {
+            "download": {}
+        },
+        "3d6a97b2-a672-4d79-9e67-52bdda0ae74a": {
+            "download": {}
+        },
+        "3eb6adf1-1c89-44ff-99fd-0cf6a22636bf": {
+            "download": {}
+        },
+        "3f529237-8a8a-4bf7-a76c-bb4a7048be52": {
+            "download": {}
+        },
+        "3fbf206e-3b73-49cd-b36a-ddd6ac345e57": {
+            "download": {}
+        },
+        "401bc420-c849-48d2-b35f-51a5386373dd": {
+            "download": {}
+        },
+        "404c9373-de3d-41b3-983d-34f7c7769283": {
+            "download": {}
+        },
+        "4080cf20-782b-4b25-af08-5dc1d30c56d6": {
+            "download": {}
+        },
+        "40cea3a5-0a2c-4f0e-a240-484f522c6b8f": {
+            "download": {}
+        },
+        "41c465e6-e97f-4d04-8f45-8ac470a47b34": {
+            "download": {}
+        },
+        "42fa4cf7-7a62-4492-83bb-aebaf791e4f8": {
+            "download": {}
+        },
+        "45264715-3f14-494b-bb89-236f42908531": {
+            "download": {}
+        },
+        "45499021-fc37-4ec7-9d50-8dc36ef8874e": {
+            "download": {}
+        },
+        "45e12a67-6c58-4d4a-923d-bf8d17386deb": {
+            "download": {}
+        },
+        "46227b82-cc08-4384-ac49-64310e06a67e": {
+            "download": {}
+        },
+        "4656e2d8-b35c-4c83-b46d-935d9906d223": {
+            "download": {}
+        },
+        "47a0b347-7928-4172-909e-850b72b65a8f": {
+            "download": {}
+        },
+        "47f2460b-a462-4cfd-9a99-dd12ed02dc7d": {
+            "download": {}
+        },
+        "48df7658-57a4-4417-91ed-046c683f2ac5": {
+            "download": {}
+        },
+        "4990d245-070e-4cc7-b17a-ea2d760fffde": {
+            "download": {}
+        },
+        "4ae6f976-dff7-458c-a030-032d82c02c37": {
+            "download": {}
+        },
+        "4b7c1b8f-04d2-4a92-8152-d6abf0117cc4": {
+            "download": {}
+        },
+        "4d3bb16f-3805-4155-8a50-5c5f53ef7ffd": {
+            "download": {}
+        },
+        "4df24e59-846f-499f-ab42-59833175ab9c": {
+            "download": {}
+        },
+        "4dfdc81c-6b43-466f-a848-ccbdfa095d53": {
+            "download": {}
+        },
+        "4e9a33c3-3d43-4dee-9dab-8a0965b83df1": {
+            "download": {}
+        },
+        "4ed08877-7a97-4c62-b83f-a2d785ec0c80": {
+            "download": {}
+        },
+        "525d1b2e-c9db-4de0-b6a3-aca649e81726": {
+            "download": {}
+        },
+        "54adc1af-c1c9-4eda-bd3a-7e87698c599a": {
+            "download": {}
+        },
+        "560f0da9-b0ab-4325-a122-aa46fa22c9d3": {
+            "download": {}
+        },
+        "5a73c921-8606-4819-89ae-ee814611a8b2": {
+            "download": {}
+        },
+        "5ad4043c-786b-405e-bb9e-805b6e805296": {
+            "download": {}
+        },
+        "5cd0940d-f37c-470d-98b9-51d93f8fe670": {
+            "download": {}
+        },
+        "5d969017-c994-43a6-97ee-27666ea15443": {
+            "download": {}
+        },
+        "5edf4af9-e132-44c4-8275-5d5f4118d2c1": {
+            "download": {}
+        },
+        "61dabceb-894b-4eee-a3eb-a08549885f7e": {
+            "download": {}
+        },
+        "6468c22c-eb00-47bc-99f1-e726aada6aa0": {
+            "download": {}
+        },
+        "65b10128-b578-4328-8a55-1c094956bf44": {
+            "download": {}
+        },
+        "6806ab24-f36e-465b-949f-7db72662ccd6": {
+            "download": {}
+        },
+        "6c3b4e73-f806-4141-8e8a-a8ed3a6da923": {
+            "download": {}
+        },
+        "6d3df64f-a93d-41c0-ab14-2760eafbba9d": {
+            "download": {}
+        },
+        "701954e4-23fc-4973-9ac6-3b9bf34172ff": {
+            "download": {}
+        },
+        "71b6e044-139f-4b1b-bbd3-067472bdec20": {
+            "download": {}
+        },
+        "729c10ed-df4c-45c4-9e11-dd93676047ba": {
+            "download": {}
+        },
+        "737aad5f-50f9-41ee-89c9-b4edc09f46dd": {
+            "download": {}
+        },
+        "7483c7a6-3d8e-479e-8b71-9c927b1d2891": {
+            "download": {}
+        },
+        "75ceb931-cfea-4990-9f8f-7a6328a0b88b": {
+            "download": {}
+        },
+        "7727910f-c688-4f2b-a98d-d7f8bcc1e801": {
+            "download": {}
+        },
+        "780cbe30-9d3d-47d5-8c1c-84610d5dfbd2": {
+            "download": {}
+        },
+        "795090bb-925d-418e-bc3f-2a744292db9e": {
+            "download": {}
+        },
+        "79f904ab-c14d-4c44-94a6-16178fe1b989": {
+            "download": {}
+        },
+        "7d851677-d29e-4e96-8408-7b4030194fef": {
+            "download": {}
+        },
+        "81267bb1-5f6b-42a5-9e9d-4447bd3c19aa": {
+            "download": {}
+        },
+        "82e5ff33-873f-4640-a8a7-bcf6ae31cf43": {
+            "download": {}
+        },
+        "830b3d91-913f-4080-9c2d-2b648e462523": {
+            "download": {}
+        },
+        "83517313-a5c4-4560-b0da-5cbba4256907": {
+            "download": {}
+        },
+        "8368ac4a-d536-424e-8d12-e09305c4f1a4": {
+            "download": {}
+        },
+        "83e70f67-9e39-4268-8723-794e7c5e8667": {
+            "download": {}
+        },
+        "83f0d612-a276-4aad-858e-6df6ce3587d8": {
+            "download": {}
+        },
+        "84399d5f-5a95-4e7e-bd65-a0cd24a8820d": {
+            "download": {}
+        },
+        "84884c99-5309-4217-ace7-0c0a2259df63": {
+            "download": {}
+        },
+        "85a4cff6-6db3-4035-859c-98433c0d2201": {
+            "download": {}
+        },
+        "85b58190-df9e-48de-93fb-d7e5d9bfcf7b": {
+            "download": {}
+        },
+        "85baa92c-3caa-4eaa-92af-25a664d9a322": {
+            "download": {}
+        },
+        "88ba08e4-c366-437c-9c57-ea3e786aa087": {
+            "download": {}
+        },
+        "8a1b1519-640e-4762-939f-adfd4b1e47cc": {
+            "download": {}
+        },
+        "8a9c8bea-a1f9-4da7-9695-db38ecf12ffb": {
+            "download": {}
+        },
+        "8f51e0f7-cacf-4c23-b263-a0f3573d9ad5": {
+            "download": {}
+        },
+        "90a604f3-ce93-4c1d-ad4c-a0e8fd1c1e8b": {
+            "download": {}
+        },
+        "91568c50-42ad-4507-b2c6-0bece8105ada": {
+            "download": {}
+        },
+        "94a804ce-153a-409e-ac11-de6b0ee78e02": {
+            "download": {}
+        },
+        "94affbc8-2b07-4444-98e4-2551426aa580": {
+            "download": {}
+        },
+        "94ba052f-edb7-4960-9ca0-1c44a7c202bf": {
+            "download": {}
+        },
+        "95891a91-c750-45f5-8bf1-77bc1661ad89": {
+            "download": {}
+        },
+        "9623a7b7-2e93-4961-a0ac-389f284c3447": {
+            "download": {}
+        },
+        "9733f6a0-43b4-42f5-8b5d-be1b411d8678": {
+            "download": {}
+        },
+        "9773bef7-87d7-45e3-823a-9557b1cd6579": {
+            "download": {}
+        },
+        "97944c60-3a63-4f4e-a993-d0d91f427257": {
+            "download": {}
+        },
+        "989ab485-1d17-4c5d-8185-65f712be0342": {
+            "download": {}
+        },
+        "98ea4f58-b247-4361-93b0-39e449708c54": {
+            "download": {}
+        },
+        "992e224a-af94-48ee-ab54-ac2eaca35eb2": {
+            "download": {}
+        },
+        "993d0e4c-24c4-40cd-b5a3-b6629c0aff13": {
+            "download": {}
+        },
+        "9bd2243e-a815-466a-98a2-3d6e7d70547a": {
+            "download": {}
+        },
+        "9c21ca50-3240-4070-ae22-62c377b5f406": {
+            "download": {}
+        },
+        "9d3eee18-02ae-4f9a-98e0-3f1d08b0a28a": {
+            "download": {}
+        },
+        "9d78e99a-e3c7-46f2-9ea5-083946aff15f": {
+            "download": {}
+        },
+        "9e74b1e5-d3d1-4f4d-93d1-eb8ca0f3c1e9": {
+            "download": {}
+        },
+        "9ef2f5e3-f32e-4ac7-9f07-5dafa6fa77e8": {
+            "download": {}
+        },
+        "9f40ab64-d57c-443c-8680-49c6cd8fe594": {
+            "download": {}
+        },
+        "a0d4ca8c-e0c9-4ec7-81be-6eeb8542c147": {
+            "download": {}
+        },
+        "a15e9800-c9f9-4e8b-9c17-906099accf2a": {
+            "download": {}
+        },
+        "a195448d-80ce-4fea-920a-2a6313631f9e": {
+            "download": {}
+        },
+        "a20c9927-4ad1-40e4-9340-78775efc8fb5": {
+            "download": {}
+        },
+        "a3390175-2e41-4884-aa0e-0a7446388707": {
+            "download": {}
+        },
+        "a36de189-bb2c-4e39-8f56-dff1e96cb5f9": {
+            "download": {}
+        },
+        "a4015382-963b-4ff0-ae39-6af623eb7eeb": {
+            "download": {}
+        },
+        "a6f8c050-efb1-418f-8aac-d3443975999a": {
+            "download": {}
+        },
+        "a76d15bd-3a71-45b7-9fc4-91c341a0ea77": {
+            "download": {}
+        },
+        "a887914d-4d1d-49ec-b645-ee9163053241": {
+            "download": {}
+        },
+        "a8e4c19d-74e0-4617-8903-5a5885a03780": {
+            "download": {}
+        },
+        "aa17c1cc-25e2-4a9e-abb8-3dbf43ec6bad": {
+            "download": {}
+        },
+        "aa62fa62-95bb-478c-b004-de724ffafcb0": {
+            "download": {}
+        },
+        "ac395b1d-3c31-41c3-8191-90c59f368daf": {
+            "download": {}
+        },
+        "ac48841c-016e-49f1-9fe4-be60e794b411": {
+            "download": {}
+        },
+        "af17072d-f8c5-4deb-acd8-2be2db0406eb": {
+            "download": {}
+        },
+        "b083814a-0fe1-4a8b-8c20-7b0f95bb3e4d": {
+            "download": {}
+        },
+        "b2765f29-ebc2-451f-a945-0e887125ae36": {
+            "download": {}
+        },
+        "b2f023c9-889c-4505-88c3-b5d3a5bfb1ae": {
+            "download": {}
+        },
+        "b32fa22e-2ecb-43e3-9b20-6e50933b6082": {
+            "download": {}
+        },
+        "b4a697ec-d610-4d8a-8245-0ab90f9c96ac": {
+            "download": {}
+        },
+        "b54372f9-df88-43a6-8638-6377769c23ff": {
+            "download": {}
+        },
+        "b6f2a620-a797-411c-af11-cfa403d56b36": {
+            "download": {}
+        },
+        "b7f36e8b-db11-4e62-ae97-5910085f747b": {
+            "download": {}
+        },
+        "ba131243-de5f-4124-aca8-3afb31490221": {
+            "download": {}
+        },
+        "ba6fbdc2-1f0d-495e-98c2-343c5a0ff98b": {
+            "download": {}
+        },
+        "bb0655df-a04f-431a-9791-a86567a73c0b": {
+            "download": {}
+        },
+        "bb4c9bed-68bd-4938-b82e-ffd49cc9dd3f": {
+            "download": {}
+        },
+        "bcbaae7f-e7ac-4267-87d1-4f805d30a85f": {
+            "download": {}
+        },
+        "bd1e96b8-235f-4e93-905b-6271a8b7cb6c": {
+            "download": {}
+        },
+        "c07b1793-e46b-4507-a7b5-0c934297369f": {
+            "download": {}
+        },
+        "c216a686-79bc-4d27-97c5-d32fa9dbac7a": {
+            "download": {}
+        },
+        "c255c1e4-6d65-49f7-942b-7071ddd4dc19": {
+            "download": {}
+        },
+        "c3a8f9c8-929a-4b89-a67f-76ff10c8a9b7": {
+            "download": {}
+        },
+        "c4b1f8a8-8b28-4544-9f19-84233e6cab32": {
+            "download": {}
+        },
+        "c7bd4b39-2f2c-45be-a56b-ba41203da9e6": {
+            "download": {}
+        },
+        "c88d2f31-356d-4649-89de-fb27f23810d5": {
+            "download": {}
+        },
+        "c92a7e29-3b1b-4c43-9d5d-8df6485e3049": {
+            "download": {}
+        },
+        "cb0648ea-3bca-4d9a-b310-0f5e9369ea0d": {
+            "download": {}
+        },
+        "cca2db59-a5f6-43a7-a484-3d402e80d396": {
+            "download": {}
+        },
+        "ce80313d-8ca9-442a-ba07-42969190f2e5": {
+            "download": {}
+        },
+        "d3276857-0cff-404d-aa97-95eededc1097": {
+            "download": {}
+        },
+        "d581af48-7d8f-4f4d-8463-fce1c86f05be": {
+            "download": {}
+        },
+        "d702b11d-acbd-415e-83d8-03fbb19d017e": {
+            "download": {}
+        },
+        "d7b011d1-0a19-400c-8584-75b96fbbb79c": {
+            "download": {}
+        },
+        "d8e9b97d-1611-488d-9440-69dbf02b90f0": {
+            "download": {}
+        },
+        "d92525c2-632f-46d7-8766-b9b455c18aec": {
+            "download": {}
+        },
+        "d96aae05-ca28-4c4d-873a-bbbadcd79e99": {
+            "download": {}
+        },
+        "da104e80-f75b-4607-b95e-5153f4ddf477": {
+            "download": {}
+        },
+        "daa3b84e-bd91-4a2d-9bb2-50654b23289f": {
+            "download": {}
+        },
+        "dab5473b-54f9-4a65-8f88-dc062c3137ff": {
+            "download": {}
+        },
+        "dab825f8-0422-4ad3-b497-3f3248e5028f": {
+            "download": {}
+        },
+        "dba01c0b-6ac8-4241-8d2b-a95e89a07393": {
+            "download": {}
+        },
+        "dc01ad03-a2b4-4cf7-a785-62770eaa0cfe": {
+            "download": {}
+        },
+        "dc19a9db-ed17-4a28-bf04-2844ee5555c9": {
+            "download": {}
+        },
+        "dcdf4958-2193-42f8-b1be-fcc47749d424": {
+            "download": {}
+        },
+        "dd33b391-735f-4bf3-9332-b5aa8c4adae4": {
+            "download": {}
+        },
+        "dfe47514-51fc-4106-bb65-677b45974e0b": {
+            "download": {}
+        },
+        "e0b23475-2893-4c29-b7cd-8cc954a023e3": {
+            "download": {}
+        },
+        "e0d63729-9219-4a41-ae46-d35e2f7841ee": {
+            "download": {}
+        },
+        "e2833062-5033-4b4e-b267-11e48cc756dd": {
+            "download": {}
+        },
+        "e7231e3d-d649-432f-8780-c91906d482cd": {
+            "download": {}
+        },
+        "e731cca2-095a-4af1-b7af-8a0f719a354b": {
+            "download": {}
+        },
+        "e75e7dd1-766b-416d-9c1b-971ef8d4ac43": {
+            "download": {}
+        },
+        "e894613d-266d-4b54-b1c9-4a31eec43381": {
+            "download": {}
+        },
+        "e9a1d50f-0ff3-4473-9b85-e4ddcf52f2fa": {
+            "download": {}
+        },
+        "e9a6edc6-1a2a-404d-a152-a6eaaa1da8f5": {
+            "download": {}
+        },
+        "eeef8dda-b421-4385-8e6e-84c9829b21ca": {
+            "download": {}
+        },
+        "f04afa2d-9291-4d2b-8e0c-b0454e1831ff": {
+            "download": {}
+        },
+        "f2a8216e-4050-4faa-9af0-16719fd22528": {
+            "download": {}
+        },
+        "f2c71ef5-16d9-4bc8-9d21-09c634b53352": {
+            "download": {}
+        },
+        "f4406d8d-077c-4c8e-98d4-4d7c42477183": {
+            "download": {}
+        },
+        "f58c9320-bdda-4de2-b8c1-286ed9ce4342": {
+            "download": {}
+        },
+        "fa6da644-b2b8-4bbf-932c-d18f1ef1941b": {
+            "download": {}
+        },
+        "fb14d897-dbaf-4d84-9fb0-af9320cc5fdd": {
+            "download": {}
+        },
+        "fb74937c-093d-4989-aef0-7de1e73a1f43": {
+            "download": {}
+        },
+        "fc237f9f-be30-4e67-96e1-b96566d998ec": {
+            "download": {}
+        },
+        "fe315739-97a5-46bd-80b2-692719b0f74a": {
+            "download": {}
+        },
+        "ff1301c5-c5f8-4a83-89bd-f48d3d9f5d15": {
+            "download": {}
+        },
+        "ff49b975-53bc-4622-8af1-63508f72cbe0": {
+            "download": {}
+        },
+        "ff53d038-4afe-4f8f-9521-852e08fbfc80": {
+            "download": {}
+        },
+        "ff9350b2-2795-4a54-a954-c71190d88750": {
+            "download": {}
+        },
+        "00efd995-42a0-45f3-9a08-927ce21f1a22": {
+            "download": {}
+        },
+        "10298803-9b8b-49a5-a5f2-eb255d51e940": {
+            "download": {}
+        },
+        "3297b4ab-7947-479c-b5c1-9d2b51ed899c": {
+            "download": {}
+        },
+        "4c8ca1ab-82c3-4c86-83a3-54fe33bff05e": {
+            "download": {}
+        },
+        "54b09b70-a73a-4bf3-b01a-1dda372f377e": {
+            "download": {}
+        },
+        "59da56c9-0b2c-4067-8482-05b48d143b86": {
+            "download": {}
+        },
+        "7fe105ff-2862-446d-a709-d2661cf7a91a": {
+            "download": {}
+        },
+        "8477148e-04d4-4191-b791-d810b400ffea": {
+            "download": {}
+        },
+        "da20a337-7c79-4b29-8493-740c90db26d9": {
+            "download": {}
+        },
+        "ded47523-e8dc-42c4-9664-e6e3303a5631": {
+            "download": {}
+        }
+    },
+    "browse": {
+        "author": {},
+        "dateissued": {},
+        "home": {},
+        "subject": {},
+        "title": {}
+    },
+    "collections": {
+        "047366ba-0dca-40d7-9812-62afb90409b1": {},
+        "1e903780-9d61-4cfa-afeb-3db5caf37b84": {},
+        "338921ce-8bb3-4754-82ef-601c51c9a6a4": {},
+        "466ce4e7-95af-4c60-9011-b8aa9ca5ef01": {},
+        "4dae0c34-e03f-435d-8d8c-3648707e92c4": {},
+        "66cdd190-bae9-42a8-a8ec-d0f6e0a9ec6d": {},
+        "69972d10-57b6-4de6-b6b8-1e8d8a501260": {},
+        "95f375ca-c2c5-4682-9800-6d65b6b09dea": {},
+        "bda51fa2-99bb-46eb-b660-f0ce2c18e09b": {},
+        "f6b2436b-7e28-422b-ad77-6bb9f01c5f86": {}
+    },
+    "communities": {
+        "fc79640c-4514-431a-90cd-13820a2fdd1a": {}
+    },
+    "community-list": {},
+    "forgot": {},
+    "handle": {
+        "123456789": {
+            "1015": {},
+            "1047": {},
+            "1048": {},
+            "1050": {},
+            "1055": {},
+            "1081": {},
+            "1082": {},
+            "1091": {},
+            "1093": {},
+            "1110": {},
+            "1121": {},
+            "1138": {},
+            "1150": {},
+            "1165": {},
+            "1167": {},
+            "1192": {},
+            "1199": {},
+            "1202": {},
+            "1204": {},
+            "1221": {},
+            "1222": {},
+            "1237": {},
+            "1252": {},
+            "1261": {},
+            "135": {},
+            "239": {},
+            "249": {},
+            "250": {},
+            "254": {},
+            "255": {},
+            "26": {},
+            "264": {},
+            "27": {},
+            "275": {},
+            "28": {},
+            "29": {},
+            "30": {},
+            "307": {},
+            "31": {},
+            "310": {},
+            "32": {},
+            "329": {},
+            "33": {},
+            "34": {},
+            "344": {},
+            "35": {},
+            "36": {},
+            "416": {},
+            "449": {},
+            "490": {},
+            "494": {},
+            "523": {},
+            "660": {},
+            "79": {},
+            "810": {},
+            "839": {},
+            "874": {},
+            "912": {},
+            "931": {},
+            "939": {},
+            "94": {},
+            "947": {},
+            "1278": {},
+            "1290": {},
+            "1323": {},
+            "1332": {},
+            "1339": {},
+            "1361": {},
+            "1365": {},
+            "1378": {},
+            "1408": {},
+            "1430": {},
+            "1454": {},
+            "1457": {},
+            "1508": {},
+            "1515": {},
+            "1518": {},
+            "1521": {},
+            "1522": {},
+            "1523": {},
+            "1526": {},
+            "1527": {},
+            "1528": {},
+            "1529": {},
+            "1530": {},
+            "1531": {},
+            "1532": {},
+            "1533": {}
+        }
+    },
+    "home": {},
+    "info": {
+        "end-user-agreement": {},
+        "feedback": {},
+        "privacy": {}
+    },
+    "items": {
+        "00da78e7-cc8d-46ba-bf8a-2ae8b1158a0d": {
+            "full": {}
+        },
+        "0136f22a-e199-42ce-b397-fc48299ffc46": {},
+        "02e4ee5b-8b65-4576-83e4-ea0ab49dfc7f": {},
+        "050769f9-3259-4897-b365-0c08f00f9826": {
+            "full": {}
+        },
+        "051f9b97-0241-4825-b044-ca603fdf7009": {},
+        "07879007-5881-4a83-a243-03de340072a1": {
+            "full": {}
+        },
+        "09f0860d-5553-4738-ba04-9e6e5c6544c4": {},
+        "0a53657b-3e75-41dd-803a-77b31279dc11": {},
+        "0c5f03c5-a58d-438a-ad65-1b4d9fcc8387": {
+            "full": {}
+        },
+        "0cdb2a2c-0540-4e09-9c56-6d9b57a8a70e": {
+            "full": {}
+        },
+        "0d57fc3e-003b-4a4e-9217-483fbbb193df": {
+            "full": {}
+        },
+        "0eb7c065-26c5-4b93-b268-02b6277c22e8": {},
+        "0fd23ba0-02d3-4ed1-bb3c-c3ca7c414fcb": {},
+        "12499daa-dd56-4ad0-9e65-e3d41bdf9bdb": {
+            "full": {}
+        },
+        "127fda87-b0d0-4913-857a-aca4dbf1cd24": {
+            "full": {}
+        },
+        "12816670-e6d8-449c-92b9-18085abf71b8": {},
+        "138244fa-fb40-4b76-9f2b-86946ed7a906": {},
+        "14dee892-4bee-4091-a173-5cad0d59eb99": {
+            "full": {}
+        },
+        "19a9bfd2-c6f4-4acd-b73d-4b5fd9dc214f": {
+            "full": {}
+        },
+        "1b762d62-d9a5-4f1e-a3ed-380e7a886e9b": {
+            "full": {}
+        },
+        "1b8f05dc-e51a-499f-82e3-36e95c244205": {
+            "full": {}
+        },
+        "1c109f9f-8ff2-4388-b141-c4d7257fafdc": {},
+        "1d93a614-06b3-4c54-b6cc-347b61f22b64": {
+            "full": {}
+        },
+        "1eae1b4c-ff5b-4bbd-969e-f4b83d2ba616": {},
+        "1f15f82a-c364-47d6-98a0-4cd6b068fefc": {
+            "full": {}
+        },
+        "1f9bfe20-1ba7-42fc-b6cc-7a0df56e1bf1": {
+            "full": {}
+        },
+        "21ae1076-8bd4-4c11-a73a-6d24b53c2e8f": {
+            "full": {}
+        },
+        "21da22c5-0b09-4d09-8511-398f14818673": {},
+        "246b83c4-4bfc-4fd9-970b-4598aaa5cee5": {},
+        "25bf42eb-18a1-49c6-b6ad-6d306478fa88": {},
+        "27747d2b-0ad7-4002-b176-e1b276c75655": {},
+        "27c4e13f-aaa7-4707-b45c-c230f48b5854": {},
+        "27d8c474-208b-4658-a2c0-d98413be0320": {},
+        "2958bf65-fe67-43a1-a918-f76ca63f26f4": {},
+        "2a0f2e7b-cb1c-4875-af23-17e83bdf580c": {},
+        "2d11b46c-3e68-4588-ad89-e0f654fbe483": {},
+        "2e42edf6-6cba-4829-b6bf-d920c9c3a22c": {},
+        "2fb859e7-b09e-4f94-8833-2a2361ad59cd": {},
+        "3013dbcb-55ba-4479-b03d-cb36bda2556a": {},
+        "3158bcf2-6f74-4e06-ad84-ecfb55ad12e9": {},
+        "3242d826-202f-458b-81d7-9c88065a8c7e": {},
+        "335da703-f959-40f5-97b5-29ccbdf616f3": {},
+        "36f89077-03b0-43bc-9d79-c40c57676998": {},
+        "37115766-f98a-4625-9428-7ad1dbd64052": {
+            "full": {}
+        },
+        "386d09a9-f5c7-4e77-8187-16bb76057b96": {},
+        "3871eec5-64c0-4103-8ff3-eecd7daa9314": {
+            "full": {}
+        },
+        "38b55bf8-9885-4ca5-b77b-91c0989ee156": {},
+        "3a395a23-af6d-4840-bd71-94c0ef4a7b8d": {},
+        "3a6f9b65-4acf-4bfe-8493-d5e8c8b4a88f": {
+            "full": {}
+        },
+        "3ca3cc58-3eaf-4a66-806b-9372e8cc6011": {},
+        "3cfdadc0-0a13-4890-a8bc-7a8970b79aa7": {},
+        "3e6a33a2-5b8b-470b-b9ec-18709d5d2ded": {},
+        "3f05d917-7a00-414a-a5c1-eed80fb226fe": {},
+        "406eb7b9-965a-4cb9-b5da-85a4ae885773": {},
+        "40c79e04-1734-49fa-bf12-0a36e53908ab": {},
+        "4328754c-1fad-4f05-8816-44e17cfa4227": {},
+        "433dd205-6150-4907-99c2-27d7e9fae3c4": {},
+        "455aeb5c-7ab0-43ff-bfdf-f805ed37e502": {},
+        "4673aaf2-5ea9-4a0d-badb-048f16da16c9": {},
+        "48cfb9bd-88d3-43d8-9ae8-842735329eeb": {
+            "full": {}
+        },
+        "49879f48-c909-4d76-ae6f-cc533586e262": {},
+        "49a26d4d-bc33-4ef9-8497-b2419465d537": {},
+        "4aad6db8-58ff-463f-8d2d-953a21042f2f": {},
+        "4b6db42d-d2c1-488f-aedc-027dbcf7c81d": {
+            "full": {}
+        },
+        "4bcf7481-d4df-4132-b16a-b610f65878f9": {},
+        "4bea40d8-f0a6-4884-9655-adb97578bd0b": {
+            "full": {}
+        },
+        "4c594af3-8a49-4f91-a92c-e19a462311c6": {
+            "full": {}
+        },
+        "4d369947-e42f-4aa4-86d0-a62fba2c379a": {},
+        "4f12df58-accb-4d8c-8cbb-5501883a0cd9": {},
+        "506975cd-d429-4a1c-aa82-67ecc900ffc4": {
+            "full": {}
+        },
+        "51bf3266-42ce-40c0-817f-4588299408ff": {},
+        "5499ac44-9638-4f89-88b8-d6badcb88117": {},
+        "55f52c1c-b8a3-47b4-bbf4-66c164835b27": {
+            "full": {}
+        },
+        "580daa99-7387-48dc-abae-6d9d6099738a": {},
+        "5838c134-350a-4705-a55c-71ba51fc67ba": {},
+        "595bcf48-fa74-4e1a-8f84-64f6217e4b92": {},
+        "5a4735b6-8a65-40f4-ae96-58503a6b3df5": {
+            "full": {}
+        },
+        "5d5e5c20-c723-4aac-8817-fe2385502094": {
+            "full": {}
+        },
+        "5edd1a59-c74e-4902-9ee0-b0ff1386d962": {},
+        "5f07175b-8da7-4691-9d8d-2700b3b62e41": {},
+        "5f47680c-7fc3-4718-a53d-a5117d5c440a": {
+            "full": {}
+        },
+        "5f72ae76-79e5-48e0-912b-a64a55fdf8f1": {
+            "full": {}
+        },
+        "611cc660-f1ff-41db-9f85-9bf5258a6500": {
+            "full": {}
+        },
+        "6135761f-2cc8-4942-9e50-25577649f2c6": {},
+        "6182713d-6c4a-4b50-8528-b982544b13a7": {},
+        "62710a4b-d588-434e-a9ac-a97b439f52c6": {},
+        "6278c7c1-cd02-491d-8744-52673faa8613": {},
+        "62848fdb-5313-47b3-805e-ce109018ff17": {},
+        "62e8acf0-d818-471e-bc24-0fa462333a87": {},
+        "65b26ecf-cf4a-46df-a55e-bd382addae62": {},
+        "65dfbf24-9c70-4da3-b692-b512fe4be7e3": {},
+        "66146b56-c713-4cd5-89f6-b4e1b108fd85": {
+            "full": {}
+        },
+        "662e9377-9291-4cfa-bfa7-4785ed8c3dec": {
+            "full": {}
+        },
+        "67a01208-d3a1-45b1-988b-459d00b18219": {
+            "full": {}
+        },
+        "67fbfd91-2149-4fb1-bac1-21e73113e47c": {},
+        "68702e47-fe37-4a5e-89d6-a9c6a4f0edbd": {
+            "full": {}
+        },
+        "68bbbdbf-4d7a-4c4e-86d2-0c9973514faa": {},
+        "6a187fb4-e790-4647-9549-ec0d35b1883d": {},
+        "6a1d5c80-3717-4e85-bcd4-a9895d436141": {},
+        "6b5a3cb2-6e00-4c3c-bdc4-7459f83d7cc4": {
+            "full": {}
+        },
+        "6b602afe-4cad-49c1-b7f8-8815c72af12d": {},
+        "6d4d4956-1912-466d-aedc-706c541f02a5": {},
+        "6f2754c4-630d-4cc1-aef5-a187cd5bf9c8": {},
+        "6f37c6d5-51dd-4ff2-a5f5-c22cde4a7b1d": {
+            "full": {}
+        },
+        "71313466-f40a-4ab1-95b5-c2a25a3d3469": {},
+        "737c0771-0abf-4e0b-86bd-5ed9cfcf2486": {},
+        "744dc7f2-8438-4e67-bb5d-65bd59987242": {},
+        "7484592e-e337-4fc0-ae29-6950e1e5dd19": {},
+        "74eedf6f-16fc-43c9-bd09-be7ac0c304e7": {},
+        "77860c02-ff9c-440d-9f2a-8fcbebcb285b": {},
+        "785a947d-c589-4b83-9b5d-35650857e15d": {},
+        "78bd9266-a124-400b-b47d-57bfccfb3e98": {},
+        "7b797074-37e2-4c3b-857c-1b60bf922907": {},
+        "7c045ce2-4fad-432d-bf5c-b5f669f5ba86": {},
+        "7d242dd6-4ca1-4072-9ec2-057a19d89076": {},
+        "7e150855-fd28-4109-a7b5-72b49a1c29ca": {},
+        "7e570fb0-19c7-415c-9a3c-cd10e2f1fa45": {},
+        "80bee1c8-8aef-4307-b94e-be721ed83d10": {},
+        "80ea8154-93a7-46fc-8068-1d3efeadf78c": {},
+        "8190bcc8-7ae5-4139-8475-7f3ad5943e9e": {},
+        "8344f6e2-9eb5-4b86-ac4b-879378d0ca54": {},
+        "8592430b-4fb8-4a6e-a3f3-72aa5546b939": {
+            "full": {}
+        },
+        "86325536-df26-47db-8ee9-d40fd0547503": {},
+        "86351ff3-e209-4f66-92b4-474ff44b47f6": {
+            "full": {}
+        },
+        "86eced27-ff3f-4296-9864-825aef8b242b": {},
+        "86fc62d8-3d52-4d07-9fc0-0a6ea4b6337e": {},
+        "897529dc-7bdf-400c-9446-a9f6de6803a7": {
+            "full": {}
+        },
+        "8994afd3-494a-43c7-b617-d71a8f1e022c": {},
+        "89c69829-1ee7-467c-9893-f73ca56ce050": {},
+        "8b094652-a1ce-4ba8-a5e5-286b02c2eeb9": {},
+        "8bf693bd-d6d4-42a3-a321-acf74d01b571": {},
+        "8d65b44b-2887-4bae-98e5-8a629bf04fa7": {},
+        "92f6b4c2-3413-4454-9d06-d96879165163": {
+            "full": {}
+        },
+        "94ddf40c-9d9f-4a6f-9256-acce6d954b62": {},
+        "95d07e38-d523-4484-b728-b74b54d9fd98": {},
+        "961de282-83fc-45c7-bc14-0a530506dc53": {},
+        "9643a6ff-e6e5-44eb-a0dd-5ade8c7d671f": {},
+        "9796d16a-d149-447d-b525-310ef1d30b41": {},
+        "98385af7-61b6-4999-8f72-c6ed29e02659": {},
+        "9a0c47f9-4726-4690-adf9-532f114006f3": {},
+        "9a5e07be-3ed7-468f-bc5a-a58669a00aa9": {},
+        "9ae6b268-3226-4b8a-a020-9c30ae8a4adc": {},
+        "9c065f22-92f2-40a5-83ed-0c824df9f916": {},
+        "9c85334d-4554-4df7-84ec-85cfc4474783": {},
+        "9d694441-3bd7-45a2-a5fe-c231da2dc5ba": {},
+        "9e650c01-1add-42dd-bc13-4c9acf4e91d6": {},
+        "9f86f632-d03c-44c2-88bf-c7e07175f643": {},
+        "a059c5ee-f274-4a7d-9ded-74618c08f5e5": {},
+        "a074ed9f-a664-4924-991a-4a9121c23420": {},
+        "a09d39f8-8b93-46dc-b099-5af754a66e81": {},
+        "a25b0011-6fa9-4273-bf10-20b5b6476a7f": {},
+        "a3de9e80-b1a1-4f85-8c17-78e53451e23c": {},
+        "a422d76a-40d6-4b73-9a7b-8187f1559d1e": {},
+        "a54ac17f-221f-4138-9eac-d765ae51a3d5": {},
+        "a6a23458-d8a7-4d2e-ab6b-3a3bbcd75cba": {
+            "full": {}
+        },
+        "a8a20af4-d4e0-43d0-9211-c3c482b6e76b": {},
+        "abf98cc9-e420-4185-9e3d-78f17c212bbd": {
+            "full": {}
+        },
+        "ad5b02a1-5310-4e5f-8a4c-c14de1d7c09b": {
+            "full": {}
+        },
+        "adab903c-77da-44ca-b3ff-c0fa83cea0e9": {},
+        "adbb66a7-d3fc-49e3-8dcc-cc598797e1d5": {},
+        "ae5158f8-1917-4b48-9a10-9d8611a3eb72": {},
+        "af900942-9796-4c14-af59-4e652251acd3": {},
+        "afe8fff1-680f-4d94-b6fb-332ed4d7bddc": {},
+        "b0d336dd-5d2b-4577-96f6-a8f4afd4d283": {},
+        "b1166346-1c55-4276-998b-f032f0635a5a": {
+            "full": {}
+        },
+        "b1fa3242-9cf1-4ff0-9e8e-bb1b68ebe612": {},
+        "b3870608-1d55-4e5e-a178-fec36d3ea17e": {},
+        "b3ef730e-9e65-414c-8c70-8623209aabb2": {},
+        "b3f242d1-7a84-4997-a18d-2ae1ffd86fec": {},
+        "b4c26c9c-57d6-421a-be46-c08b36eaf215": {},
+        "b536d367-49e3-4525-acaf-3e37504a67cd": {
+            "full": {}
+        },
+        "b76e72d4-8cd9-477a-ae8e-463c3f239424": {
+            "full": {}
+        },
+        "b7ec0e96-6cbc-442c-b602-4311590bf506": {
+            "full": {}
+        },
+        "b80b2f3a-8a5e-4f00-b9c9-171be77aaa4d": {},
+        "b846b616-11c8-4269-b7e5-89ac8dcedd9a": {
+            "full": {}
+        },
+        "bba7d204-32f8-46ba-a106-dae27ed35de6": {},
+        "bbd2c463-7153-482b-a8cf-3feceefc097f": {
+            "full": {}
+        },
+        "bd3195bc-0361-41fc-82c3-7c4b9f2ac371": {
+            "full": {}
+        },
+        "bd5927f4-86ad-4f81-b68b-92aa2e5b156a": {
+            "full": {}
+        },
+        "bdb8f117-01ce-4bbc-9edf-7ac63cab23df": {},
+        "bdd28b7b-a34c-4256-81eb-bd05bf9c87c2": {},
+        "be27f366-5ff2-4fcc-ab07-c6ae8c820f8e": {},
+        "c162d58f-50fd-4e2f-a2e1-a1eccdc5d093": {},
+        "c4c22d71-7dad-4b4d-85f8-21a01f0d691e": {},
+        "c526b35f-6f9a-4456-967c-fe57356f4786": {},
+        "c554b802-8500-4157-a729-d9a4980f1fed": {
+            "full": {}
+        },
+        "c5f8027d-e3c7-47df-bb15-b75e25324b8b": {
+            "full": {}
+        },
+        "c650880a-3c3f-49bb-b073-8acb7ce4738a": {
+            "full": {}
+        },
+        "c6bc24be-66d8-4caf-a07e-8ca3aa54c447": {
+            "full": {}
+        },
+        "c7085d1e-4608-45df-b73b-48637e6a0d23": {
+            "full": {}
+        },
+        "c7d28d27-82a0-47a3-84d6-9822ba551a1e": {
+            "full": {}
+        },
+        "ca03ebb6-0473-46cd-97b1-97b3173386d5": {},
+        "ca87fb24-4830-4cc2-8270-07e031315b24": {
+            "full": {}
+        },
+        "ca9fdd4d-b005-41ca-a9d3-4824369b523c": {},
+        "caa685e9-bf6f-4b21-b5f9-b36f37ac9060": {},
+        "cabe3848-5579-4270-b845-d8e5407ec175": {},
+        "cb4ab98f-426b-4c02-bd37-f56fd71ffa61": {},
+        "cb743c5c-8493-41bc-89bd-f036edd27ad4": {
+            "full": {}
+        },
+        "ccb493bb-2ece-46ab-a765-b2535ab30d2e": {},
+        "ccd881e7-02a6-4793-94ce-e10e8ef1ebf1": {},
+        "cd22b028-e149-4d6a-ae3a-5d322d3bcabf": {},
+        "cdaa53fe-69f1-4862-93bc-f9aaff1cade0": {},
+        "cf208c43-8035-4475-9ac0-3f014fac524e": {},
+        "cf74226b-70f4-48be-a8ac-c4fba2ac15ae": {
+            "full": {}
+        },
+        "cf7e44fa-1187-4205-9210-56c3c971913c": {},
+        "cfed35d6-a1b9-4b84-bb81-0ba763efefc7": {
+            "full": {}
+        },
+        "d016d60f-db1f-4188-8f79-29a0700eff94": {
+            "full": {}
+        },
+        "d0e40a66-d003-4917-a578-f085b24f00b0": {},
+        "d178b487-7460-4420-8a96-b77775f6c326": {},
+        "d1d7f385-bb88-4f24-81de-f539ad50932d": {
+            "full": {}
+        },
+        "d1db1e91-1e5e-487f-ba83-19d82bf5f9ae": {},
+        "d243fa19-4679-4e78-94b8-b2bd48fbdf91": {},
+        "d2fe6cbf-5913-4678-aa20-5623ccb3af8f": {},
+        "d33fc242-6124-4d6c-8d8b-d924f3ec30c1": {},
+        "d45e47bb-2c3c-4975-a6df-c1ca0c85f840": {},
+        "d54f817f-5e26-4f23-a853-1c8b26333179": {},
+        "d63ef5f3-f742-421c-92fb-02092160138e": {},
+        "d6a4596d-23ff-43ba-beef-e60fb2c2f269": {},
+        "d97b9163-42a4-44cb-8aba-179b60d3ca02": {},
+        "dc2dc440-a61f-466f-81b6-a7ee38662b7b": {},
+        "dc7d0b5b-8c5e-4a09-86e2-d44e00b3ebbe": {
+            "full": {}
+        },
+        "dc84c00b-f199-4f14-9a85-28304503d5ae": {},
+        "dd861d47-edc2-42f8-ba8e-b5da3548947b": {},
+        "de37f0f9-afe5-4a1a-94a4-c93d8ce65c2c": {},
+        "df2998c2-8308-4149-ace4-b529fa809f09": {},
+        "e0cb6f3b-711d-4bcb-a383-3ca8ca68da30": {
+            "full": {}
+        },
+        "e10d28d8-2bb5-4bb9-add7-b565bfd2bf86": {
+            "full": {}
+        },
+        "e1ba1bf7-7719-4066-a9dc-96d2011c9f9f": {},
+        "e1e6d293-eb55-4e85-8678-3b920cdfee79": {},
+        "e303d043-cb6c-40b2-b0c6-87307af4da08": {},
+        "e35150ec-a771-4a0d-a945-0779d6f9a883": {
+            "full": {}
+        },
+        "e44c25a9-496c-4c4b-bf0f-647820c7a7ca": {},
+        "e5b22dd1-95b4-48a3-bb0b-bb2e60fc2b42": {
+            "full": {}
+        },
+        "e6a0faa9-4562-410e-86d6-32f6a56a871b": {},
+        "e7bac418-01a0-40e1-a6d9-b127bceea002": {
+            "full": {}
+        },
+        "e860fcb5-196d-4d13-8360-21c84c9ce06d": {},
+        "e95c2686-7f01-4388-8c7b-54d018ed6dfa": {
+            "full": {}
+        },
+        "ea3e8c38-f05a-4f5f-b1c3-9e7ea3c73d73": {},
+        "ec492e24-da5f-4b95-addb-8dd620340e49": {},
+        "ed455b11-b678-4a46-9a5b-475308629b91": {
+            "full": {}
+        },
+        "ed7b5816-5e18-4ac3-bc18-d9fbdd96de72": {},
+        "ee4c224c-0cfb-4a3a-a336-fb8ae70d6dc4": {},
+        "ef67aca9-8d44-47b9-a0fb-7d58259ffbfb": {
+            "full": {}
+        },
+        "f1feb6c3-7f16-438c-8659-289860b5fb46": {
+            "full": {}
+        },
+        "f76545b1-011e-4379-8542-fc4225c88a93": {},
+        "f7d28ae2-1c0a-4034-9a3c-8a889ae16395": {
+            "full": {}
+        },
+        "f81242f3-8e68-4f69-ad27-da97585db5d1": {},
+        "f889b2d1-83b4-418b-a108-e5956d44cc90": {
+            "full": {}
+        },
+        "f8d3c48e-97cb-46dc-8999-3c9a79d042e3": {},
+        "f926a0a6-df44-430e-bdda-2113ba2a9e20": {},
+        "f939b7be-8edd-4c53-95ff-210bbafeb432": {},
+        "f9816934-4df7-4e87-9e99-de03a13213da": {},
+        "fb7a9405-5406-4ca6-bd86-08033c2bed1e": {
+            "full": {}
+        },
+        "fd5d036d-9435-4119-94f3-bfbfe808a099": {},
+        "fe6efd65-63b5-4877-a677-8d58fc275196": {
+            "full": {}
+        },
+        "home": {}
+    },
+    "register": {},
+    "statistics": {
+        "collections": {
+            "047366ba-0dca-40d7-9812-62afb90409b1": {},
+            "1e903780-9d61-4cfa-afeb-3db5caf37b84": {},
+            "338921ce-8bb3-4754-82ef-601c51c9a6a4": {},
+            "466ce4e7-95af-4c60-9011-b8aa9ca5ef01": {},
+            "4dae0c34-e03f-435d-8d8c-3648707e92c4": {},
+            "69972d10-57b6-4de6-b6b8-1e8d8a501260": {},
+            "95f375ca-c2c5-4682-9800-6d65b6b09dea": {},
+            "bda51fa2-99bb-46eb-b660-f0ce2c18e09b": {},
+            "f6b2436b-7e28-422b-ad77-6bb9f01c5f86": {}
+        },
+        "communities": {
+            "fc79640c-4514-431a-90cd-13820a2fdd1a": {}
+        },
+        "items": {
+            "050769f9-3259-4897-b365-0c08f00f9826": {},
+            "07879007-5881-4a83-a243-03de340072a1": {},
+            "0c5f03c5-a58d-438a-ad65-1b4d9fcc8387": {},
+            "0cdb2a2c-0540-4e09-9c56-6d9b57a8a70e": {},
+            "0d57fc3e-003b-4a4e-9217-483fbbb193df": {},
+            "12499daa-dd56-4ad0-9e65-e3d41bdf9bdb": {},
+            "127fda87-b0d0-4913-857a-aca4dbf1cd24": {},
+            "14dee892-4bee-4091-a173-5cad0d59eb99": {},
+            "19a9bfd2-c6f4-4acd-b73d-4b5fd9dc214f": {},
+            "1b762d62-d9a5-4f1e-a3ed-380e7a886e9b": {},
+            "1b8f05dc-e51a-499f-82e3-36e95c244205": {},
+            "1d93a614-06b3-4c54-b6cc-347b61f22b64": {},
+            "1f15f82a-c364-47d6-98a0-4cd6b068fefc": {},
+            "1f9bfe20-1ba7-42fc-b6cc-7a0df56e1bf1": {},
+            "21ae1076-8bd4-4c11-a73a-6d24b53c2e8f": {},
+            "27c4e13f-aaa7-4707-b45c-c230f48b5854": {},
+            "37115766-f98a-4625-9428-7ad1dbd64052": {},
+            "3871eec5-64c0-4103-8ff3-eecd7daa9314": {},
+            "3a6f9b65-4acf-4bfe-8493-d5e8c8b4a88f": {},
+            "48cfb9bd-88d3-43d8-9ae8-842735329eeb": {},
+            "4b6db42d-d2c1-488f-aedc-027dbcf7c81d": {},
+            "4bea40d8-f0a6-4884-9655-adb97578bd0b": {},
+            "4c594af3-8a49-4f91-a92c-e19a462311c6": {},
+            "506975cd-d429-4a1c-aa82-67ecc900ffc4": {},
+            "55f52c1c-b8a3-47b4-bbf4-66c164835b27": {},
+            "5a4735b6-8a65-40f4-ae96-58503a6b3df5": {},
+            "5d5e5c20-c723-4aac-8817-fe2385502094": {},
+            "5f47680c-7fc3-4718-a53d-a5117d5c440a": {},
+            "5f72ae76-79e5-48e0-912b-a64a55fdf8f1": {},
+            "611cc660-f1ff-41db-9f85-9bf5258a6500": {},
+            "66146b56-c713-4cd5-89f6-b4e1b108fd85": {},
+            "662e9377-9291-4cfa-bfa7-4785ed8c3dec": {},
+            "67a01208-d3a1-45b1-988b-459d00b18219": {},
+            "68702e47-fe37-4a5e-89d6-a9c6a4f0edbd": {},
+            "6b5a3cb2-6e00-4c3c-bdc4-7459f83d7cc4": {},
+            "6f37c6d5-51dd-4ff2-a5f5-c22cde4a7b1d": {},
+            "8592430b-4fb8-4a6e-a3f3-72aa5546b939": {},
+            "86351ff3-e209-4f66-92b4-474ff44b47f6": {},
+            "897529dc-7bdf-400c-9446-a9f6de6803a7": {},
+            "92f6b4c2-3413-4454-9d06-d96879165163": {},
+            "a6a23458-d8a7-4d2e-ab6b-3a3bbcd75cba": {},
+            "abf98cc9-e420-4185-9e3d-78f17c212bbd": {},
+            "ad5b02a1-5310-4e5f-8a4c-c14de1d7c09b": {},
+            "b1166346-1c55-4276-998b-f032f0635a5a": {},
+            "b536d367-49e3-4525-acaf-3e37504a67cd": {},
+            "b76e72d4-8cd9-477a-ae8e-463c3f239424": {},
+            "b7ec0e96-6cbc-442c-b602-4311590bf506": {},
+            "b846b616-11c8-4269-b7e5-89ac8dcedd9a": {},
+            "bbd2c463-7153-482b-a8cf-3feceefc097f": {},
+            "bd5927f4-86ad-4f81-b68b-92aa2e5b156a": {},
+            "bdd28b7b-a34c-4256-81eb-bd05bf9c87c2": {},
+            "c554b802-8500-4157-a729-d9a4980f1fed": {},
+            "c5f8027d-e3c7-47df-bb15-b75e25324b8b": {},
+            "c650880a-3c3f-49bb-b073-8acb7ce4738a": {},
+            "c6bc24be-66d8-4caf-a07e-8ca3aa54c447": {},
+            "c7085d1e-4608-45df-b73b-48637e6a0d23": {},
+            "c7d28d27-82a0-47a3-84d6-9822ba551a1e": {},
+            "ca87fb24-4830-4cc2-8270-07e031315b24": {},
+            "cb743c5c-8493-41bc-89bd-f036edd27ad4": {},
+            "cf74226b-70f4-48be-a8ac-c4fba2ac15ae": {},
+            "cfed35d6-a1b9-4b84-bb81-0ba763efefc7": {},
+            "d016d60f-db1f-4188-8f79-29a0700eff94": {},
+            "d1d7f385-bb88-4f24-81de-f539ad50932d": {},
+            "dc7d0b5b-8c5e-4a09-86e2-d44e00b3ebbe": {},
+            "e0cb6f3b-711d-4bcb-a383-3ca8ca68da30": {},
+            "e10d28d8-2bb5-4bb9-add7-b565bfd2bf86": {},
+            "e35150ec-a771-4a0d-a945-0779d6f9a883": {},
+            "e5b22dd1-95b4-48a3-bb0b-bb2e60fc2b42": {},
+            "e7bac418-01a0-40e1-a6d9-b127bceea002": {},
+            "e95c2686-7f01-4388-8c7b-54d018ed6dfa": {},
+            "ed455b11-b678-4a46-9a5b-475308629b91": {},
+            "ef67aca9-8d44-47b9-a0fb-7d58259ffbfb": {},
+            "f7d28ae2-1c0a-4034-9a3c-8a889ae16395": {},
+            "f889b2d1-83b4-418b-a108-e5956d44cc90": {},
+            "fb7a9405-5406-4ca6-bd86-08033c2bed1e": {},
+            "fe6efd65-63b5-4877-a677-8d58fc275196": {},
+            "home": {}
+        }
+    },
+    "server": {
+        "opensearch": {
+            "search": {}
+        }
+    }
 }

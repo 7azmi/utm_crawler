@@ -4,12 +4,143 @@
     "corporate-publications-team": {},
     "creative-media-branding": {},
     "digital-marketing": {},
-    "galeriutm": {},
+    "galeriutm": {
+        "floorplan": {},
+        "segmen-a": {},
+        "segmen-b": {},
+        "segmen-c": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "39": {
+                        "2022": {
+                            "03": {
+                                "1.-POSTER-A1_BSM-Poster-scaled.jpg": {},
+                                "1.-POSTER-A1_MAP-ALUMNI-PEWARIS-KEPIMPINAN-scaled.jpg": {},
+                                "2.-POSTER-A1_TNCAA-Research-Sponsorship-scaled.jpg": {},
+                                "3.-POSTER-A1_Endowmen-scaled.jpg": {},
+                                "3.-POSTER-A1_KECEMERLANGAN-enVision2025-scaled.jpg": {},
+                                "4.-POSTER-A1_Endowmen-2-02032022-scaled.jpg": {},
+                                "4.-POSTER-A1_UTM-ENVISION-2025-scaled.jpg": {},
+                                "5.-POSTER-A0_enVision-infographic-06032022.jpg": {},
+                                "5.-POSTER-AO_HEP-Pelajar.jpg": {},
+                                "6.-Sejarah-TNCPI_-scaled.jpg": {},
+                                "7.-POSTER-A1_TNCPI-Research-Komuniti_-scaled.jpg": {},
+                                "8.-POSTER-A1_TNCPI-Research_-scaled.jpg": {},
+                                "Screen-Shot-2022-03-15-at-10.25.46-AM.png": {},
+                                "Timeline-Panel-tv-15022022-print.jpg": {},
+                                "WhatsApp-Image-2022-03-09-at-10.jpg": {},
+                                "WhatsApp-Image-2022-03-24-at-08.42.07.jpeg": {},
+                                "WhatsApp-Image-2022-03-24-at-12.02.06.jpeg": {},
+                                "WhatsApp-Image-2022-03-24-at-12.02.38.jpeg": {},
+                                "WhatsApp-Image-2022-03-24-at-12.21.33-1.jpeg": {},
+                                "WhatsApp-Image-2022-03-24-at-12.21.33.jpeg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "graphic-design": {},
-    "kl": {},
+    "kl": {
+        "about-us": {
+            "staff-directory": {}
+        },
+        "auto-draft": {},
+        "contact-us-2": {},
+        "graphic-design-2": {},
+        "led-billboard-advertisment": {},
+        "online-forms": {},
+        "photo-video-production-2024": {},
+        "souvenir": {},
+        "space-reservation": {},
+        "wp-content": {
+            "uploads": {
+                "sites": {
+                    "33": {
+                        "2022": {
+                            "02": {
+                                "CARTA-ALIR-01-scaled.jpg": {},
+                                "DRAF-BORANG-PERMOHONAN-BILLBOARD-2.pdf": {},
+                                "FINAL-INFOGRAFIK-BILLBOARD-01-scaled.jpg": {}
+                            },
+                            "11": {
+                                "Official_English_Procedures_BillBoard-UTMKL_892022.pdf": {}
+                            }
+                        },
+                        "2023": {
+                            "11": {
+                                "2021-Borang-permohonan-juruvideo-01-scaled-1.pdf": {},
+                                "2023-borang-permohonan-jurufoto-01-scaled-1.pdf": {},
+                                "DRAF-BORANG-PERMOHONAN-BILLBOARD.pdf": {},
+                                "WEB-UTM-Video-Guideline-.mp4": {},
+                                "borang-permohonan-reka-bentuk.pdf": {}
+                            }
+                        },
+                        "2024": {
+                            "11": {
+                                "005_BORANG-GANTUNG-KAIN-RENTANG-2022-1.pdf": {}
+                            },
+                            "12": {
+                                "BORANG-PINJAMAN-TERBARU-V8.pdf": {},
+                                "Sent-to-aidil-for-website.pdf": {}
+                            }
+                        },
+                        "2025": {
+                            "01": {
+                                "IMG-20250108-WA0048.jpg": {},
+                                "IMG-20250108-WA0050.jpg": {},
+                                "IMG-20250108-WA0052.jpg": {},
+                                "IMG-20250108-WA0054.jpg": {},
+                                "IMG-20250108-WA0056.jpg": {},
+                                "IMG-20250108-WA0058.jpg": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "our-organisation-chart": {},
     "our-team": {},
     "photo-video-production": {},
     "strategy-risk-management": {},
-    "support": {}
+    "support": {},
+    "additional-logo": {},
+    "advertisement": {},
+    "annual-report-and-buletin-guidelines-and-template": {},
+    "banner-bunting-backdrop-and-billboard": {},
+    "brochurespamphlets": {},
+    "corporate-advertisement": {},
+    "corporate-attire": {},
+    "corporate-communications": {},
+    "corporate-publication": {},
+    "corporate-slide-presentation": {},
+    "corporate-trademark": {},
+    "management-team": {},
+    "noticeposter": {},
+    "promotional-materials-printing": {},
+    "prosedur-permohon-reka-bentuk-bunting-dan-banner": {},
+    "prosedur-permohon-reka-bentuk-grafik-iklan-akbar-dan-majalah": {},
+    "prosedur-permohon-reka-bentuk-grafik-pelbagai": {},
+    "prosedur-permohonan-atur-huruf-dan-perwajahan-dalaman-buku": {},
+    "prosedur-permohonan-reka-bentuk-perwajahan-backdrop-pentas-manualslide": {},
+    "strategy-risk-management-team": {},
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "23": {
+                    "2024": {
+                        "09": {
+                            "FINAL-CARTA_22-SEPTEMBER-2024.pdf": {}
+                        },
+                        "11": {
+                            "PANDUAN-PENULISAN-DAN-PENGGUNAAN-UTM-NEWSHUB.pdf": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

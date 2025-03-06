@@ -1,3 +1,22 @@
 {
-    "": {}
+    "": {},
+    "2024": {
+        "vmsacad": {}
+    },
+    "PG": {
+        "openscholarship": {
+            "Login.aspx": {}
+        },
+        "srs": {
+            "ContactUs.aspx": {},
+            "Default.aspx": {}
+        },
+        "supervisory": {
+            "Default.aspx": {}
+        },
+        "vmsacad": {
+            "Login.aspx": {}
+        }
+    },
+    "index.html": {}
 }

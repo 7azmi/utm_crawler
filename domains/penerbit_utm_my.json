@@ -1,3 +1,97 @@
 {
-    "": {}
+    "": {},
+    "anugerah-penerbitan": {},
+    "anugerah-webometrics-2019": {},
+    "booksonline": {
+        "advanced-geospatial-technology-for-geodesy-and-environment-applications": {},
+        "advances-in-biomedical-image-image-and-signal-processing-current-trend": {},
+        "data-driven-life-sciences-from-data-to-applications": {},
+        "economic-and-social-issues-in-sustainability": {},
+        "hiyal-dan-transaksi-tawarruq-dalam-produk-perbankan-islam": {},
+        "hydraulics-engineering-problems-and-solutions": {},
+        "pengurusan-hukum-syarak-menurut-perspektif-usul-fiqh-siri-1": {},
+        "pengurusan-hukum-syarak-menurut-perspektif-usul-fiqh-siri-2": {},
+        "progress-in-applied-materials-science": {},
+        "recent-trends-in-power-system-planning-and-design": {},
+        "removal-technologies-of-contaminants-in-water": {},
+        "routing-for-failure-recovery-with-flowtable-management-in-software-defined-network": {},
+        "statistic-for-engineers": {},
+        "structural-analysis-using-matrix-methods": {},
+        "sustainable-and-green-property-management": {},
+        "syahidnya-kapten-louis-de-souza": {},
+        "terapi-jiwa-untuk-pesakit-mental": {},
+        "thermodynamics-and-energy-conversion-towards-sustainable-energy": {}
+    },
+    "borang-penilaian-modulp": {},
+    "cart": {},
+    "contact-us": {
+        "creativebooks@utm.my": {},
+        "ejournal@utm.my": {},
+        "journal_utm@utm.my": {}
+    },
+    "edited-book": {},
+    "history-of-penerbit-utm-press": {},
+    "list-of-journal": {},
+    "my-account": {},
+    "original-book-and-learning-modules": {},
+    "our-achievements": {},
+    "our-people": {},
+    "product-category": {
+        "edited-book": {},
+        "original-book": {},
+        "research-book": {},
+        "special-collection": {},
+        "translated-book": {}
+    },
+    "product-tag": {
+        "2016": {}
+    },
+    "research-book": {},
+    "teaching-module": {},
+    "vision-of-penerbit-utm-press-to-become-a-world-class-academic-publisher-mission-of-penerbit-utm-press-to-become-the-main-channel-for-the-publication-of-academic-r": {},
+    "wcpcsu-custom-post": {
+        "featured-books": {}
+    },
+    "wp-content": {
+        "uploads": {
+            "sites": {
+                "11": {
+                    "2020": {
+                        "02": {
+                            "Pengurusan-Hukum-Syarak-Menurut-Perspektif-Usul-Fiqh-Siri-2.jpg": {}
+                        }
+                    },
+                    "2023": {
+                        "02": {
+                            "APA-STYLE-REFERENCE.pdf": {},
+                            "TM-WRITER-GUIDELINES.docx": {},
+                            "TM-WRITER-SUBMISSION-FORM.docx": {}
+                        },
+                        "05": {
+                            "12-1.png": {},
+                            "434.png": {}
+                        }
+                    },
+                    "2024": {
+                        "02": {
+                            "Slaid-Edaran-Peserta-MP.pdf": {}
+                        },
+                        "03": {
+                            "ORIGINAL-BOOK-WORKFLOW-2024.pdf": {},
+                            "PAMPLET-MODUL-PENGAJARAN-Jan-2024.pdf": {}
+                        },
+                        "04": {
+                            "Proses-Kerja.png": {}
+                        },
+                        "08": {
+                            "sijil-cina.jpg": {}
+                        },
+                        "10": {
+                            "SLAID-JOM-TULIS-BUKU-KARYA-ASLI-MAC-2023.pdf": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

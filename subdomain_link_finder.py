@@ -107,8 +107,8 @@ class DomainMapper:
 
 
 # Fixed usage
-corrected_url = "https://mech.utm.my/"  # Replace with the domain you want
-mapper = DomainMapper(corrected_url, max_workers=20)  # Reduce max_workers to avoid server overload
+corrected_url = "https://newradis.utm.my/"  # Replace with the domain you want
+mapper = DomainMapper(corrected_url, max_workers=10)  # Reduce max_workers to avoid server overload
 mapper.start_crawling()
 
 # Print collected links
