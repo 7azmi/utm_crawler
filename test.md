@@ -1,125 +1,206 @@
-[Skip to content](https://comp.utm.my/bachelor-in-software-engineering-w-honours#content "Skip to content")
+[Skip to content](https://comp.utm.my/#content "Skip to content")
 
-Bachelor in Software Engineering with Honours
-=============================================
+WELCOME TO FACULTY OF COMPUTING
 
-### (BSE)
+Our goal is to develop cutting-edge digital talents, industry-relevant solutions, and efficient services in computing technology
 
-#### PROGRAMME SPECIFICATIONS
+#InspirinDigitalTalents      #MYPremierDigitalTech
 
-The Bachelor in Software Engineering with Honours is offered on a full-time basis. The duration of study for the full-time programme is subjected to the student’s entry qualifications and lasts between four (4) years to a maximum of six (6) years.
+[Click Here](https://youtu.be/JdFWnDeIQfk)
 
-The programme is offered on full-time basis and is based on a 2-Semester per academic session. Generally, students are expected to undertake courses equivalent to between fourteen (14) to eighteen (18) credit hours per semester. Assessment is based on courseworks and final examinations given throughout the semester.
+WELCOME TO FACULTY OF COMPUTING
 
-ENTRY REQUIREMENTS
+Our goal is to develop cutting-edge digital talents, industry-relevant solutions, and efficient services in computing technology
 
-|     |     |
-| --- | --- |
-| **CALON STPM \| CANDIDATES WITH STPM** |     |
-| **\[ Versi Bahasa Malaysia \]**<br><br>Memenuhi Syarat Am Universiti serta Keperluan Khas Program Mendapat sekurang-kurangnya PNGK 2.80 pada peringkat STPM:  <br>**DAN** Mendapat sekurang-kurangnya Gred B (NGMP 2.67) pada peringkat STPM dalam dua (2) mata pelajaran berikut:-<br><br>*   **Matematik (T)** dan;<br>*   **Fizik**<br>*   **Kimia**<br>*   **Biologi**<br>*   **Teknologi Maklumat dan Komunikasi**<br><br>**DAN** Mendapat sekurang-kurangnya kepujian (Gred C) pada peringkat SPM dalam mata pelajaran berikut:<br><br>*   Matematik<br>*   Matematik Tambahan<br><br>**DAN** Mendapat sekurang-kurangnya Band 2.0 dalam Malaysian University English Test (MUET) untuk peperiksaan yang bermula Sesi 1 tahun 2021 atau Band 2 untuk peperiksaan sehingga tahun 2020 mengikut tempoh sah laku pada tarikh permohonan. | **\[ English Version \]**<br><br>Meeting the University’s General Requirements and Specific Program Requirements Achieving a minimum CGPA of 2.80 at the STPM level: **AND** Achieving at least a Grade B (CGPA 2.67) at the STPM level in the following two (2) subjects:<br><br>*   **Mathematics (T)** and;<br>*   **Physics**<br>*   **Chemistry**<br>*   **Biology**<br>*   **Information and Communication Technology**<br><br>**AND** Achieving at least a pass (Grade C) at the SPM level in the following subjects:<br><br>*   Mathematics<br>*   Additional Mathematics<br><br>**AND** Achieving at least Band 2.0 in the Malaysian University English Test (MUET) for exams starting from Session 1 of 2021 or Band 2 for exams up to 2020, according to the validity period on the application date. |
+#InspirinDigitalTalents      #MYPremierDigitalTech
 
-|     |     |
-| --- | --- |
-| **CALON LEPASAN STAM \| CANDIDATES WITH STAM QUALIFICATION** |     |
-| **\[ Versi Bahasa Malaysia \]**<br><br>Memenuhi Syarat Am Universiti serta Keperluan Khas Program. Mendapat sekurang – kurangnya Pangkat Jayyid Jiddan (PNGK: 3.00) dalam Peperiksaan Sijil Tinggi Agama Malaysia (STAM) **DAN** Mendapat sekurang-kurangnya kepujian (Gred C) pada peringkat SPM dalam mata pelajaran berikut:<br><br>*   Matematik<br>*   Matematik Tambahan<br><br>**DAN** Mendapat sekurang-kurangnya Band 2.0 dalam Malaysian University English Test (MUET) untuk peperiksaan yang bermula Sesi 1 tahun 2021 atau Band 2 untuk peperiksaan sehingga tahun 2020 mengikut tempoh sah laku pada tarikh permohonan. | **\[ English Version \]**<br><br>Meeting the University’s General Requirements and Specific Program Requirements. Achieving at least a Rank of Jayyid Jiddan (CGPA: 3.00) in the Sijil Tinggi Agama Malaysia (STAM) Examination. **AND** Achieving at least a pass (Grade C) at the SPM level in the following subjects:<br><br>*   Mathematics<br>*   Additional Mathematics<br><br>**AND** Achieving at least Band 2.0 in the Malaysian University English Test (MUET) for exams starting from Session 1 of 2021 or Band 2 for exams up to 2020, according to the validity period on the application date. |
+[Click Here](https://youtu.be/JdFWnDeIQfk)
 
-|     |     |
-| --- | --- |
-| **CALON LEPASAN MATRIKULASI / ASASI \| CANDIDATES FROM MATRICULATION / FOUNDATION** |     |
-| **\[ Versi Bahasa Malaysia \]**<br><br>Memenuhi Syarat Am Universiti serta Keperluan Khas Program  <br>  <br>Mendapat sekurang-kurangnya PNGK 2.80 pada peringkat Matrikulasi/Asasi; **DAN** Mendapat sekurang-kurangnya Gred B (NGMP 2.67) pada peringkat Matrikulasi/Asasi dalam dua (2) mata pelajaran berikut:-<br><br>*   Matematik dan Mana-mana SATU (1) daripada mata pelajaran berikut:<br>*   Fizik / Kejuruteraan Fizik<br>*   Kimia / Kejuruteraan Kimia<br>*   Biologi<br>*   Sains Komputer / Komputeran<br><br>**DAN** Mendapat sekurang-kurangnya kepujian (Gred C) pada peringkat SPM dalam mata pelajaran berikut:<br><br>*   Matematik<br>*   Matematik Tambahan<br><br>**DAN** Mendapat sekurang-kurangnya Band 2.0 dalam Malaysian University English Test (MUET) untuk peperiksaan yang bermula Sesi 1 tahun 2021 atau Band 2 untuk peperiksaan sehingga tahun 2020 mengikut tempoh sah laku pada tarikh permohonan. | **\[ English Version \]**<br><br>Meeting the University’s General Requirements and Specific Program Requirements Achieving a minimum CGPA of 2.80 at the Matriculation/Foundation level; **AND** Achieving at least a Grade B (CGPA 2.67) at the Matriculation/Foundation level in the following two (2) subjects:<br><br>*   Mathematics and Any ONE (1) of the following subjects:<br>*   Physics / Engineering Physics<br>*   Chemistry / Engineering Chemistry<br>*   Biology<br>*   Computer Science / Computing<br><br>  <br>**AND** Achieving at least a pass (Grade C) at the SPM level in the following subjects:<br><br>*   Mathematics<br>*   Additional Mathematics<br><br>**AND** Achieving at least Band 2.0 in the Malaysian University English Test (MUET) for exams starting from Session 1 of 2021 or Band 2 for exams up to 2020, according to the validity period on the application date. |
+WELCOME TO FACULTY OF COMPUTING
 
-|     |     |
-| --- | --- |
-| **CALON LEPASAN KELAYAKAN SETARAF (A-LEVEL / INTERNATIONAL BACCALAURETE DIPLOMA / AUSTRALIAN MATRICULATION PROGRAM) \| CANDIDATES WITH DIPLOMA / EQUILAVENT QUALIFICATIONS** |     |
-| **\[ Versi Bahasa Malaysia \]**<br><br>Memenuhi Syarat Am Universiti serta Keperluan Khas Program  <br>  <br>Memiliki kelayakan GCE A Level dengan sekurang-kurangnya mendapat Gred C atau Memiliki kelayakan International Baccalaureate Diploma (IB) dengan mendapat Gred 4 mata pelajaran peringkat HL; atau Memiliki Australian Matriculation (AUSMAT) dengan mendapat Gred C/60% ATAR Rank dalam mata pelajaran berikut:<br><br>*   Matematik dan Mana-mana SATU (1) daripada manamana mata pelajaran berikut:-<br>*   Fizik<br>*   Kimia<br>*   Biologi<br>*   Komputeran<br><br>**DAN** Mendapat sekurang-kurangnya kepujian (GRED C) pada peringkat SPM dalam mata pelajaran berikut:<br><br>*   Matematik<br>*   Matematik Tambahan<br><br>**DAN** Mendapat sekurang-kurangnya Band 2.0 dalam Malaysian University English Test (MUET) untuk peperiksaan yang bermula Sesi 1 tahun 2021 atau Band 2 untuk peperiksaan sehingga tahun 2020 mengikut tempoh sah laku pada tarikh permohonan ATAU Band 5.5 dalam Ujian IELTS, Academic Score 500 dalam Ujian TOEFL PBT, Score 46 dalam Ujian TOEFL IBT | **\[ English Version \]**<br><br>Meeting the University’s General Requirements and Specific Program Requirements  <br>  <br>Possess a GCE A-Level qualification with at least a Grade C; or Possess an International Baccalaureate Diploma (IB) qualification with a Grade 4 in HL subjects; or Possess an Australian Matriculation (AUSMAT) qualification with a Grade C/60% ATAR Rank in the following subjects:  <br>  <br><br>*   Mathematics and Any ONE (1) of the following subjects:<br>*   Physics<br>*   Chemistry<br>*   Biology<br>*   Computing<br><br>  <br>**AND** Achieve at least a pass (Grade C) at the SPM level in the following subjects:<br><br>*   Mathematics<br>*   Additional Mathematics<br><br>**AND** Achieve at least Band 2.0 in the Malaysian University English Test (MUET) for exams starting from Session 1 of 2021 or Band 2 for exams up to 2020, according to the validity period on the application date OR Band 5.5 in IELTS, Academic Score 500 in TOEFL PBT, Score 46 in TOEFL IBT. |
+Our goal is to develop cutting-edge digital talents, industry-relevant solutions, and efficient services in computing technology
 
-|     |     |
-| --- | --- |
-| **KEMASUKAN MELALUI APEL / ADMISSION THROUGH APEL** |     |
-| **\[ Versi Bahasa Malaysia \]**<br><br>*   Berumur sekurang-kurangnya 21 tahun semasa permohonan;<br>*   Lulus SPM<br>*   Mempunyai pengalaman kerja yang berkaitan;<br>*   Lulus Penilaian APEL (A) – T6. | **\[ English Version \]**<br><br>*   At least 21 years old at the time of application;<br>*   Passed SPM;<br>*   Relevant work experience;<br>*   Passed APEL (A) Assessment – T6. |
+#InspirinDigitalTalents      #MYPremierDigitalTech
 
-CAREER PROSPECT
+[Click Here](https://youtu.be/JdFWnDeIQfk)
 
-Graduate of the programme can work as a Analyst/Programmer, Software Engineer, System Analyst, System Developer, Software Tester, Software Architect Engineer, Web Developer, Assistant Project Manager, Academician and Researcher.
+Students
 
-Alternatively, the graduate of the programme can also enrol to any of the postgraduate programmes offered in UTM and worldwide by any mode either research or mixed-mode or taught course.
+1,770
 
-COURSE MENU (YEAR 1)
+Total Staff
 
-|     |     |
-| --- | --- |
-| Year 1 | Fundamental Programming Concept<br><br>Mathematics for Software Engineer<br><br>Digital Logic<br><br>Database Engineering<br><br>Software Engineering Principles<br><br>Computer Organization and Architecture<br><br>Probability and Statistical Data Analysis<br><br>Advanced Programming<br><br>Network Communications<br><br>University Elective I<br><br>University Elective II<br><br>Free Elective I |
+151
 
-COURSE MENU (YEAR 2)
+Alumni
 
-|     |     |
-| --- | --- |
-| Year 2 | Software Process and Project Management<br><br>Software Requirements Engineering<br><br>Data Structure and Algorithm<br><br>Operating Systems<br><br>Human Computer Interaction Fundamentals<br><br>Cross-Platform Application Development<br><br>Software Design and Architecture<br><br>Application Development Project I<br><br>University Elective III<br><br>University Elective IV<br><br>Program Elective I |
+15,673
 
-COURSE MENU (YEAR 3)
+## Inspiring Digital Talents
 
-|     |     |
-| --- | --- |
-| Year 3 | Software Engineering Project I<br><br>Secure Software Programming<br><br>Software Quality and Testing<br><br>Application Development Project II<br><br>Professional Practice in Software Engineering<br><br>University Elective V<br><br>University Elective VI<br><br>Free Elective II<br><br>Program Elective II<br><br>Program Elective III<br><br>Program Elective IV |
+## Faculty of Computing
 
-COURSE MENU (YEAR 4)
+The pioneer in computing higher education in this country that has offered academic programs for nearly 40 years. In today’s rapidly evolving world, computing is at the forefront of innovation, shaping how we live, work, and interact. Our goal is to develop cutting-edge digital talents, industry-relevant solutions, and efficient services in computing technology. We have been actively developing and revising our undergraduate and postgraduate curriculums to fulfill the requirements of program standards, industries, and other stakeholders.
 
-|     |     |
-| --- | --- |
-| Year 4 | Industrial Training<br><br>Industrial Training Report<br><br>Software Engineering Project II<br><br>Program Elective V<br><br>Program Elective VI<br><br>Free Elective III<br><br>Free Elective IV |
+[Click here](https://comp.utm.my/history/)
 
-### To graduate, students must
+![](https://comp.utm.my/wp-content/uploads/2024/09/LOI-fc-loop-media.jpg)
 
-*   Achieve a total of 128 credit hours with minimum CPA of 2.0
-*   Pass industrial training (equivalent to 12 credit hours), which 4 credits will be graded and 8 credits as HW (Compulsory Attendance) status.
-*   Complete Software Engineering Final Year Projects
-*   Pass 5 Professional Skills Certificate (PSC).
+## UNDERGRADUATE PROGRAMME
 
-### UTM PROFESSIONAL SKILLS CERTIFICATE (PSC)
+Programme Offered. Discover what courses we offer for Undergraduate Studies in Faculty of Computing
 
-The Ministry of Higher Education (MOHE) plays an important role in the development of human capital in Malaysia. One of the initiatives taken is to conduct students’ employability programme with the aim to give students a value-added degree and enhance employment marketability among graduates. The folowing are among the programmes offered:
+[Click here](https://comp.utm.my/undergraduate/)
 
-![Internship](<Base64-Image-Removed>)
+## POSTGRADUATE PROGRAMME
 
-###### Internship
+Programs Offered. Discover the courses we offer for Postgraduate Studies: Coursework, Mixed Mode, Research and ODL
 
-![Apprenticeship](<Base64-Image-Removed>)
+[Click here](https://comp.utm.my/postgraduate/)
 
-###### Apprenticeship
+Student Handbook
 
-![](https://comp.utm.my/wp-content/uploads/2024/07/Entrepreneurship.png)
+- [Undergraduate Handbook 2024/25](https://comp.utm.my/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEyMDk5IiwidG9nZ2xlIjpmYWxzZX0%3D)
+- [Postgraduate Handbook 2024/25](https://comp.utm.my/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEyMjQ1IiwidG9nZ2xlIjpmYWxzZX0%3D)
 
-###### Entrepreneurship
+FAQ - Undergraduate Admission
 
-![](<Base64-Image-Removed>)
+- [How to apply?](https://admission.utm.my/apply-now/)
+- [Admission for Malaysian](https://admission.utm.my/undergraduate-malaysian/)
+- [Admission for International](https://admission.utm.my/undergraduate-international/)
+- [Contact us](https://comp.utm.my/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzMzg0IiwidG9nZ2xlIjpmYWxzZX0%3D)
 
-###### Mobility
+FAQ - Postgraduate Admission
 
-[Guidelines for Registration of PSC](https://ugs.utm.my/utm-professional-skills-certificate-utm-psc/)
+- [How to apply?](https://admission.utm.my/apply-now/)
+- [Admission for Malaysian](https://admission.utm.my/malaysian-postgraduate-study/)
+- [Admission for International](https://admission.utm.my/international-postgraduate-study)
+- [Contact us](https://comp.utm.my/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzMzYwIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
-[PSC Registration](https://psc.utmspace.edu.my/student/login)
+## Upcomming Conference
 
-Further Information
--------------------
+The 2025 Faculty of Computing Conference Series: Innovation, Technology, and Research in a Digital Future.
 
-**ASSOC. PROF. DR. RADZIAH BINTI MOHAMAD**
+[See the details ⟶](https://comp.utm.my/conference2025/)
 
-**Head of Director  
-Software Engineering Department**
+[←](https://comp.utm.my/#)
 
-*   Faculty of Computing  
-    Universiti Teknologi Malaysia  
-    81310 Johor Bahru, Johor, Malaysia
+[→](https://comp.utm.my/#)
 
-*   hod-se@utm.my
+6th International Conference on Big Data & AI & Software Engineering (ICBASE2025)
 
-**OR**
+July 2025
 
-**Program Coordinator  
-**
+1st Business Administration, Artificial Intelligence and Data Science (BDAI 2025)
 
-**DR. JOHANNA BINTI AHMAD**
+Dates to be added
 
-*   scse@utm.my
+2nd International Conference on Informatics Education & Computer Technology (IECA 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_2ieca2025.jpg)
+
+17-19 Jan 2025
+
+4th International Conference on Cybersecurity, AI and Digital Economy (CSAIDE 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_csaide_2025.jpg)
+
+07-09 March 2025
+
+2nd International Conference on Smart City and Information System (ICSCIS 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_csaide_2025-1.jpg)
+
+16-18 May 2025
+
+5th International Conference on Computer Graphics, Image and Virtualisation (ICCGIV 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_1iccgiv2025.jpg)
+
+06-08 Jun 2025
+
+6th International Conference on Big Data & AI & Software Engineering (ICBASE2025)
+
+July 2025
+
+1st Business Administration, Artificial Intelligence and Data Science (BDAI 2025)
+
+Dates to be added
+
+2nd International Conference on Informatics Education & Computer Technology (IECA 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_2ieca2025.jpg)
+
+17-19 Jan 2025
+
+4th International Conference on Cybersecurity, AI and Digital Economy (CSAIDE 2025)
+
+![](https://comp.utm.my/wp-content/uploads/2024/10/rsz_csaide_2025.jpg)
+
+07-09 March 2025
+
+## Upcoming Events
+
+It seems we can’t find what you’re looking for.
+
+[More events](https://comp.utm.my/events/)
+
+![](https://comp.utm.my/wp-content/uploads/2024/09/Team-Coolcode-3.jpg)
+
+## Our Alumni
+
+![](https://comp.utm.my/wp-content/uploads/2024/09/logo-coolcode.png)
+
+Reflecting on my time at the Faculty of Computing, UTM. I am grateful for the multitude of opportunities that propelled me into a fulfilling career in technology. It was not just an institution where I earned my degree. It was a launching pad for my ambitions, where I was equipped with the knowledge, skills and experiences to navigate and excel in the ever-evolveing tech landscape.
+
+##### Ridzwan Azhar
+
+Project Executive
+
+## Recent News
+
+[Ts. Dr. Nur Haliza muncul penerima ikon Anugerah Ibu Zain 2025](https://comp.utm.my/2025/02/21/ts-dr-nur-haliza-muncul-penerima-ikon-anugerah-ibu-zain-2025/)
+
+- [February 21, 2025](https://comp.utm.my/2025/02/21/)
+
+[Project Nexaholo AI Shines at Majlis Perutusan Tahun Baharu 2025, Championing Malaysia’s Digital Transformation](https://comp.utm.my/2025/01/14/project-nexaholo-ai-shines-at-majlis-perutusan-tahun-baharu-2025-championing-malaysias-digital-transformation/)
+
+- [January 14, 2025](https://comp.utm.my/2025/01/14/)
+
+[Faculty of Computing’s Master of Cyber Security in Open Distance Learning, Now Graduating Its First Batch Draws Over 100 Working Professionals](https://comp.utm.my/2024/12/01/faculty-of-computings-master-of-cyber-security-in-open-distance-learning-now-graduating-its-first-batch-draws-over-100-working-professionals/)
+
+- [December 1, 2024](https://comp.utm.my/2024/12/01/)
+
+[Nexaholo Project Showcased at National Exhibition Putrajaya Festival of Ideas 2024!](https://comp.utm.my/2024/11/28/nexaholo-project-showcased-at-national-exhibition-putrajaya-festival-of-ideas-2024/)
+
+- [November 28, 2024](https://comp.utm.my/2024/11/28/)
+
+[More News](https://comp.utm.my/news/)
+
+### FC is ranked \#1 in Teaching Among Malaysian Universities
+
+Faculty of Computing remains the best for teaching component based on the THES WUR Computer Science Subject Ranking for three consecutive years.
+
+### QS World University Rankings by Subject
+
+Faculty of Computing standing among top 5 rankings 2024: Computer Science and Information Systems
+
+
+
+### FC is ranked \#2 in Malaysia for Computer Field
+
+Faculty of Computing at UTM has secured the second top spot in Malaysia for computer field.
+
+### 100% employability
+
+We take immense pride in announcing that our graduates showcased a 100% employability rate in 2024
+
+
+
+### University Accreditation
+
+Self-Accreditation & 100% Board of Engineers (BEM)-Accredited Programs
+
+
 
 Scroll to Top
